@@ -17,7 +17,7 @@ $$
 $$S = r\Theta 
 $$
 
-
+***
 
 $$
 r = \text{Radius of Circle}
@@ -32,5 +32,7 @@ $$
 $$
 180 \degree = \pi \text{ radians}
 $$
+
+#math #trigonometry 
 
 
