@@ -1,4 +1,4 @@
-### Idea
+ ### Idea
 
 A unit circle is a circle of radius one 
 
@@ -6,12 +6,6 @@ $$
 x^2+y^2=1
 $$
 In a unit circle, the radian measure of the central angle is equal to the length of the intercepted arc. Both are given by the same *real number 1*
-
-
-
-
-
-
 
 ### Formally
 
@@ -55,11 +49,17 @@ $$
 \sin(t+2\pi)=\sin t \text{ and} \cos (t+2\pi)=\cos t
 $$
 
-The tangent and cotangent functions are periodic functions and have period $\pi$
+The tangent and cotangent functions are periodic functions and have period of $\pi$
 
 $$
 \begin{gather} \\
 \sin(t+\pi) \text{ and }\cot(t+\pi) = \cot(t) \\ \\
 \end{gather} \\
 $$
-#math #trigonometry 
+
+
+>best way to remember the unit circle is to remember the first 5 values in the first quadrant and reflect upon the axis's as necessary
+
+![[Unit-circle (1).png]]
+
+#math #trigonometry

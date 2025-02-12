@@ -22,5 +22,22 @@ $$
 
 To help make this clear, we use letter like *p, q, and r* to represent component sentences; we let the expression "not p" refer to the sentence "It is not the case that p"; and we let the three dots $\therefore$ refer to *therefore*
 
+##### Truth values 
+Truth values are logical tools for writing mathematically. Commonly used in the study of [[Discrete Structures]] 
 
-#math #compsci #discrete-structures 
+We can use $\lnot$ to denote ***not***, $\land$ to denote **and***, $\lor$ to denote ***or***
+
+Using this syntax we can easily write logical statements
+
+$$\begin{gather}
+(p \land q) \\
+\lnot p \lor q = (\lnot p)\lor q
+\end{gather}
+$$
+>These statements often share the same rules as algebraic expression
+
+
+![[logical-equ.png]]
+
+
+#math #compsci #discrete-structures #booleanlogic

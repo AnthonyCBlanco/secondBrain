@@ -1,5 +1,8 @@
 {
   "theme": "obsidian",
   "accentColor": "#046ffb",
-  "cssTheme": "Dark Moss"
+  "cssTheme": "Dark Moss",
+  "enabledCssSnippets": [
+    "style"
+  ]
 }
