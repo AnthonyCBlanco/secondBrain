@@ -53,7 +53,7 @@ The tangent and cotangent functions are periodic functions and have period of $\
 
 $$
 \begin{gather} \\
-\sin(t+\pi) \text{ and }\cot(t+\pi) = \cot(t) \\ \\
+\tan(t+\pi)= \tan(t) \text{ and }\cot(t+\pi) = \cot(t) \\ \\
 \end{gather} \\
 $$
 

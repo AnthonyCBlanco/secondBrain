@@ -37,9 +37,9 @@ y = A\sin(Bx\pm C)\pm D
 $$
 $|A|$ = [[Amplitude|amplitude]]
 $\frac{2\pi}{B}$ = [[Periodic Function|period]]
-$0 \leq Bx-C \leq_{2}\pi$
+$0 \leq Bx-C \leq\pi$
 D = [[Transformation of Graphs|Vertical shift]]
-C = [[Transformation of Graphs|Horizontal Shift]] or [[Phase Shift]]
+$\frac{C}{B}$ = [[Transformation of Graphs|Horizontal Shift]] or [[Phase Shift]]
 
 
 
