@@ -13,40 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Of Tangent or Cotangent.md",
+                "file": "Verifying Trigonometric Identities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph Of Tangent or Cotangent"
+              "title": "Verifying Trigonometric Identities"
             }
           },
           {
-            "id": "313b76d2a7228198",
+            "id": "c57f1b2d79c9e367",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Of Sine or Cosine.md",
+                "file": "Trigonometric Identities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph Of Sine or Cosine"
+              "title": "Trigonometric Identities"
             }
           },
           {
-            "id": "009d23befb6ecf96",
+            "id": "f2740016ea40b2e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Binary Arithmetic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Arithmetic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,36 +205,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "313b76d2a7228198",
+  "active": "6bb993d17ce50f70",
   "lastOpenFiles": [
     "Graph of Cosecant or Secant.md",
+    "Graph Of Sine or Cosine.md",
     "Graph Of Tangent or Cotangent.md",
+    "Inverse Trig Functions.md",
+    "Linear Speed and Angular Speed.md",
+    "Periodic Function.md",
+    "Trigonometric Identities.md",
+    "Trigonometry Functions Of A Right Triangle.md",
+    "Verifying Trigonometric Identities.md",
+    "Discrete Structures.md",
+    "Binary Arithmetic.md",
+    "Even and Odd functions.md",
     "Coterminal Angles.md",
+    "attachments/Pasted image 20250212082849.png",
+    "attachments/Pasted image 20250212082945.png",
+    "Inverse Functions.md",
     "Angles and Radian Measure Basics.md",
     "Amplitude.md",
     "attachments/Pasted image 20250226104534.png",
     "attachments/Pasted image 20250226104241.png",
     "attachments/Pasted image 20250226104210.png",
-    "Graph Of Sine or Cosine.md",
     "Unit Circle.md",
-    "Inverse Trig Functions.md",
-    "Trigonometry Functions Of A Right Triangle.md",
-    "Periodic Function.md",
     "Logical Form and Logical Equivalence.md",
-    "Linear Speed and Angular Speed.md",
-    "Discrete Structures.md",
     "Conversion Of Degrees to Radians.md",
-    "Inverse Functions.md",
-    "Binary Arithmetic.md",
-    "attachments/Pasted image 20250212082945.png",
-    "attachments/Pasted image 20250212082849.png",
     "Truth Values.md",
     "attachments/logical-equ.png",
     "attachments/Unit-circle (1).png",
     "attachments/unit-circle.png",
     "attachments/unit circle.1",
     "Finding Trigonometric Functions of Any Angle.md",
-    "Even and Odd functions.md",
     "attachments/Screenshot 2025-02-10 081126.png",
     "attachments",
     "Logical statements.md",
@@ -239,7 +244,6 @@
     "templates/Math template.md",
     "Graphs.md",
     "Trigonometry/Untitled.md",
-    "Trigonometry/T.md",
     "templates",
     "Untitled.canvas",
     "Trigonometry"

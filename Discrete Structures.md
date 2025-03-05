@@ -12,4 +12,5 @@
 - *[[Probability]]*
 - *[[Trees]]*
 - *[[Logical Form and Logical Equivalence|Logic]]*
+- [[Number Theory]]
 #math #compsci #discrete-structures
