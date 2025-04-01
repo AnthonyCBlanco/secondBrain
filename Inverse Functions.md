@@ -8,6 +8,8 @@ If the point (a, b) is one the graph of $f$ then (b, a) has to be in the graph $
 
 Inverse functions are reflections across the line $y=x$ 
 So just a diagonal line going through the origin
+
+With composites of functions, the value will always return **x** if the **x** is within the domain of the inverse function
 ### Formally
 
 

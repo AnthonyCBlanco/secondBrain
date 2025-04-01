@@ -4,52 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "85e38034d5c1397b",
+        "id": "5679f2aa169a67e7",
         "type": "tabs",
         "children": [
           {
-            "id": "6bb993d17ce50f70",
+            "id": "3d7fee23f237ba29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verifying Trigonometric Identities.md",
+                "file": "The Law of Sines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verifying Trigonometric Identities"
+              "title": "The Law of Sines"
             }
           },
           {
-            "id": "c57f1b2d79c9e367",
+            "id": "033f0f121781a88e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trigonometric Identities.md",
+                "file": "Solving Oblique Triangle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trigonometric Identities"
+              "title": "Solving Oblique Triangle"
             }
           },
           {
-            "id": "f2740016ea40b2e3",
+            "id": "13868516be514bd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Arithmetic.md",
+                "file": "Power Reducing and Half Angle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Arithmetic"
+              "title": "Power Reducing and Half Angle"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,11 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Solving Oblique Triangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Solving Oblique Triangle"
             }
           },
           {
@@ -205,47 +207,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bb993d17ce50f70",
+  "active": "033f0f121781a88e",
   "lastOpenFiles": [
+    "Power Reducing and Half Angle.md",
+    "Linear Speed and Angular Speed.md",
+    "Solving Oblique Triangle.md",
+    "The Law of Sines.md",
+    "Oblique Triangles.md",
+    "Inverse Trig Functions.md",
+    "Periodic Function.md",
+    "Solving Trig Functions.md",
+    "Sum and Difference formulas of Trigonometric.md",
+    "Verifying Trigonometric Identities.md",
+    "American Politics/Day 2.md",
+    "Unit Circle.md",
+    "American Politics/Sum and difference formulas.md",
+    "American Politics/Power, Influence, and Authority.md",
+    "Untitled.canvas",
+    "American Politics/Civil Liberties.md",
+    "Logical Form and Logical Equivalence.md",
+    "Number Theory.md",
+    "templates/American Politics.md",
+    "American Politics",
+    "Discrete Structures.md",
+    "Trigonometry Functions Of A Right Triangle.md",
+    "Trigonometric Identities.md",
+    "Graph Of Tangent or Cotangent.md",
+    "Even and Odd functions.md",
     "Graph of Cosecant or Secant.md",
     "Graph Of Sine or Cosine.md",
-    "Graph Of Tangent or Cotangent.md",
-    "Inverse Trig Functions.md",
-    "Linear Speed and Angular Speed.md",
-    "Periodic Function.md",
-    "Trigonometric Identities.md",
-    "Trigonometry Functions Of A Right Triangle.md",
-    "Verifying Trigonometric Identities.md",
-    "Discrete Structures.md",
-    "Binary Arithmetic.md",
-    "Even and Odd functions.md",
-    "Coterminal Angles.md",
+    "Inverse Functions.md",
+    "attachments/Pasted image 20250306161254.png",
     "attachments/Pasted image 20250212082849.png",
     "attachments/Pasted image 20250212082945.png",
-    "Inverse Functions.md",
-    "Angles and Radian Measure Basics.md",
-    "Amplitude.md",
     "attachments/Pasted image 20250226104534.png",
     "attachments/Pasted image 20250226104241.png",
     "attachments/Pasted image 20250226104210.png",
-    "Unit Circle.md",
-    "Logical Form and Logical Equivalence.md",
-    "Conversion Of Degrees to Radians.md",
-    "Truth Values.md",
     "attachments/logical-equ.png",
     "attachments/Unit-circle (1).png",
     "attachments/unit-circle.png",
     "attachments/unit circle.1",
-    "Finding Trigonometric Functions of Any Angle.md",
     "attachments/Screenshot 2025-02-10 081126.png",
     "attachments",
-    "Logical statements.md",
-    "JOdspopmixc.md",
-    "templates/Math template.md",
-    "Graphs.md",
-    "Trigonometry/Untitled.md",
     "templates",
-    "Untitled.canvas",
     "Trigonometry"
   ]
 }

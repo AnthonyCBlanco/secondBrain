@@ -11,6 +11,8 @@ The range = the amplitude
 ![[Pasted image 20250212082945.png]]
 
 For whole multiples of $\pi$  $y =\sin x\text{; always} = 0$  if there is no [[Phase Shift]]
+
+
 ### Formally
 
 Easily graph sine by these steps
@@ -19,7 +21,7 @@ Easily graph sine by these steps
 - Identify the Interval
 
 ##### Multiplying X
-If we are to multiply *x*; it changes the [[Periodic Function|period]]
+If we are to multiply *x*; it changes the [[Periodic Function|period]] 
 
 >We can multiply the period by the the value that is multiplying *x*
 
