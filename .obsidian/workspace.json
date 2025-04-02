@@ -22,45 +22,31 @@
             }
           },
           {
-            "id": "033f0f121781a88e",
+            "id": "c9045dc8a8fcd9a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sum and difference formulas.md",
+                "file": "The Law of Cosines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sum and difference formulas"
+              "title": "The Law of Cosines"
             }
           },
           {
-            "id": "ba44278e05dd4d5b",
+            "id": "763fce3657048ca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "American Politics/Day 3.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 3"
-            }
-          },
-          {
-            "id": "13868516be514bd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Power Reducing and Half Angle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Power Reducing and Half Angle"
+              "title": "README"
             }
           }
         ],
@@ -121,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "06720697cbbfa746",
@@ -138,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -156,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "American Politics/Day 3.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 3"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -203,8 +189,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,15 +207,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba44278e05dd4d5b",
+  "active": "763fce3657048ca1",
   "lastOpenFiles": [
-    "Power Reducing and Half Angle.md",
-    "American Politics/Day 3.md",
+    "Heron's Formula.md",
+    "The Law of Cosines.md",
+    "The Law of Sines.md",
     "Sum and difference formulas.md",
+    "American Politics/Day 3.md",
+    "Power Reducing and Half Angle.md",
     "Solving Oblique Triangle.md",
     "README.md",
     "Linear Speed and Angular Speed.md",
-    "The Law of Sines.md",
     "Oblique Triangles.md",
     "Inverse Trig Functions.md",
     "Periodic Function.md",
@@ -250,8 +237,6 @@
     "Trigonometry Functions Of A Right Triangle.md",
     "Trigonometric Identities.md",
     "Graph Of Tangent or Cotangent.md",
-    "Even and Odd functions.md",
-    "Graph of Cosecant or Secant.md",
     "attachments/Pasted image 20250306161254.png",
     "attachments/Pasted image 20250212082849.png",
     "attachments/Pasted image 20250212082945.png",
