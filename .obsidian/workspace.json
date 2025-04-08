@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d7fee23f237ba29",
+            "id": "59539a0131ad0c3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Law of Sines.md",
+                "file": "American Politics/Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Law of Sines"
-            }
-          },
-          {
-            "id": "c9045dc8a8fcd9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Law of Cosines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Law of Cosines"
-            }
-          },
-          {
-            "id": "763fce3657048ca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Day 2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Graph Of Tangent or Cotangent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Graph Of Tangent or Cotangent"
             }
           },
           {
@@ -142,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Graph Of Tangent or Cotangent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Graph Of Tangent or Cotangent"
             }
           },
           {
@@ -207,36 +178,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "763fce3657048ca1",
+  "active": "59539a0131ad0c3a",
   "lastOpenFiles": [
-    "Heron's Formula.md",
-    "README.md",
-    "The Law of Cosines.md",
-    "The Law of Sines.md",
-    "Sum and difference formulas.md",
-    "American Politics/Day 3.md",
+    "American Politics/Civil Liberties.md",
+    "American Politics/Power, Influence, and Authority.md",
+    "Vectors.md",
+    "Graph Of Tangent or Cotangent.md",
+    "Graph Of Sine or Cosine.md",
+    "Graph of Cosecant or Secant.md",
+    "Periodic Function.md",
+    "Solving Trig Functions.md",
     "Power Reducing and Half Angle.md",
+    "Sum and difference formulas.md",
     "Solving Oblique Triangle.md",
+    "Sum and Difference formulas of Trigonometric.md",
+    "The Law of Cosines.md",
+    "README.md",
+    "Heron's Formula.md",
+    "The Law of Sines.md",
+    "American Politics/Day 3.md",
     "Linear Speed and Angular Speed.md",
     "Oblique Triangles.md",
     "Inverse Trig Functions.md",
-    "Periodic Function.md",
-    "Solving Trig Functions.md",
-    "Sum and Difference formulas of Trigonometric.md",
     "Verifying Trigonometric Identities.md",
     "American Politics/Day 2.md",
     "Unit Circle.md",
-    "American Politics/Power, Influence, and Authority.md",
     "Untitled.canvas",
-    "American Politics/Civil Liberties.md",
     "Logical Form and Logical Equivalence.md",
     "Number Theory.md",
     "templates/American Politics.md",
     "American Politics",
-    "Discrete Structures.md",
-    "Trigonometry Functions Of A Right Triangle.md",
-    "Trigonometric Identities.md",
-    "Graph Of Tangent or Cotangent.md",
     "attachments/Pasted image 20250306161254.png",
     "attachments/Pasted image 20250212082849.png",
     "attachments/Pasted image 20250212082945.png",
