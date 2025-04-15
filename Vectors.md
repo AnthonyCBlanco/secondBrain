@@ -75,4 +75,10 @@ A **unit vector** is defined to be a vector whose magnitude is one
 For any nonzero vector **v**, the vector
 $\frac{v}{||v||}$ is the unit vector that has the same direction as **v**. To find this vector, divide **v** by the magnitude.
 
-#math #trigonometry
+###### Writing a Vector in Terms of Its Magnitude and Direction
+
+$\vec{v}= ||\vec{v}||\cos\theta i+||\vec{v}||\sin\theta j$ 
+
+We replace **b*** and **a*** with $\sin\theta$ and $\cos\theta$ respectively.  
+
+#math #trigonometry #vectors
