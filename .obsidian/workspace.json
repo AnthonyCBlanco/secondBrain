@@ -22,31 +22,45 @@
             }
           },
           {
-            "id": "087a26fd3c569f96",
+            "id": "70f9456abc025b78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dot Product.md",
+                "file": "The Complex Plane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dot Product"
+              "title": "The Complex Plane"
             }
           },
           {
-            "id": "de9abdbaaeb29577",
+            "id": "29073c5ac62057ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Polar Coordinate System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Polar Coordinate System"
+            }
+          },
+          {
+            "id": "80be16db47c93988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vectors"
             }
           }
         ],
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph Of Tangent or Cotangent.md",
+                "file": "Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Graph Of Tangent or Cotangent"
+              "title": "Backlinks for Vectors"
             }
           },
           {
@@ -142,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph Of Tangent or Cotangent.md",
+                "file": "Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Graph Of Tangent or Cotangent"
+              "title": "Outgoing links from Vectors"
             }
           },
           {
@@ -171,12 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Vectors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Vectors"
             }
           },
           {
@@ -185,15 +200,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 691.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -204,37 +220,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "de9abdbaaeb29577",
+  "active": "29073c5ac62057ed",
   "lastOpenFiles": [
-    "Dot Product.md",
-    "Complex Numbers.md",
     "Vectors.md",
-    "Angles and Radian Measure Basics.md",
-    "Amplitude.md",
-    "Logical Form and Logical Equivalence.md",
-    "Linear Speed and Angular Speed.md",
-    "Oblique Triangles.md",
+    "Polar Coordinate System.md",
+    "Untitled.md",
+    "Power Reducing and Half Angle.md",
     "Solving Trig Functions.md",
-    "Sum and difference formulas.md",
-    "Sum and Difference formulas of Trigonometric.md",
-    "The Law of Sines.md",
-    "Trigonometry Functions Of A Right Triangle.md",
-    "Trigonometric Identities.md",
-    "Inverse Trig Functions.md",
-    "Unit Circle.md",
-    "Inverse Functions.md",
-    "Number Theory.md",
-    "The Law of Cosines.md",
     "Solving Oblique Triangle.md",
-    "Coterminal Angles.md",
+    "attachments/Pasted image 20250428080758.png",
+    "The Complex Plane.md",
+    "Sum and Difference formulas of Trigonometric.md",
+    "Sum and difference formulas.md",
+    "Graph Of Tangent or Cotangent.md",
+    "Graph Of Sine or Cosine.md",
+    "attachments/Pasted image 20250421092617.png",
+    "Heron's Formula.md",
+    "Dot Product.md",
+    "The Law of Sines.md",
+    "The Law of Cosines.md",
+    "Unit Circle.md",
+    "Trigonometry Functions Of A Right Triangle.md",
     "American Politics/4-10-25 Am Politics.md",
     "American Politics/Day 3.md",
-    "American Politics/Power, Influence, and Authority.md",
-    "Power Reducing and Half Angle.md",
-    "Periodic Function.md",
+    "American Politics/Day 2.md",
+    "American Politics/Civil Liberties.md",
+    "Inverse Functions.md",
+    "Linear Speed and Angular Speed.md",
+    "README.md",
+    "Complex Numbers.md",
+    "Angles and Radian Measure Basics.md",
     "attachments/Circle.h",
     "Untitled.canvas",
     "American Politics",
@@ -246,9 +265,7 @@
     "attachments/Pasted image 20250226104210.png",
     "attachments/logical-equ.png",
     "attachments/Unit-circle (1).png",
-    "attachments/unit-circle.png",
     "attachments/unit circle.1",
-    "attachments/Screenshot 2025-02-10 081126.png",
     "attachments",
     "templates",
     "Trigonometry"

@@ -17,18 +17,18 @@ $$
 $$
 
 
-##### Parallel and Orthogonal Vectors
+##### Parallel and Orthogonal [[Vectors]]
 
-Two vectors are parallel when angle $\theta$ between the vectors $0^o$ or $180 \degree$. If $\theta=0 \degree$, the vectors points in the same direction. If $\theta=180 \degree$, the vectors point in opposite directions 
+Two [[Vectors]] are parallel when angle $\theta$ between the [[Vectors]] $0^o$ or $180 \degree$. If $\theta=0 \degree$, the [[Vectors]] points in the same direction. If $\theta=180 \degree$, the [[Vectors]] point in opposite directions 
 
-Orthogonal vectors are just parallel but fancy or whatever idk lol
+Orthogonal [[Vectors]] are just parallel but fancy or whatever idk lol
 
 If the dot product 0 then the angle is 90 degrees
 
 ##### Vector Projection of v onto w
-If **v** and **w** are two nonzero vectors, the vector projection of **v** onto **w** is 
+If **v** and **w** are two nonzero [[Vectors]], the vector projection of **v** onto **w** is 
 $$proj_{\vec{w}}\vec{v}=\frac{\vec{v}*\vec{w}}{||\vec{w}||^2}\vec{w}$$
 
 ### Formally
 
-#math #trigonometry #vectors
+#math #trigonometry #[[Vectors]]

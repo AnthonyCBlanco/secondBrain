@@ -1,12 +1,12 @@
 ### Idea
-Best way to graph a *sine* is to find five points of one **cycle** by finding the amplitude, period, and interval for one complete **cycle**
+Best way to graph a *sine* is to find five points of one **cycle** by finding the [[Amplitude]], period, and interval for one complete **cycle**
 
 One **cycle** of is one full **period**
-The *amplitude* = **1** *the distance between the minimum and maximum*
+The *[[Amplitude]]* = **1** *the distance between the minimum and maximum*
 The *period* = 2$\pi$
 The domain = $(-\infty, \infty)$
 The range = $[-1, 1]$ 
-The range = the amplitude
+The range = the [[Amplitude]]
 
 ![[Pasted image 20250212082945.png]]
 
@@ -16,7 +16,7 @@ For whole multiples of $\pi$  $y =\sin x\text{; always} = 0$  if there is no [[P
 ### Formally
 
 Easily graph sine by these steps
-- Identify the amplitude
+- Identify the [[Amplitude]]
 - Identify the period
 - Identify the Interval
 

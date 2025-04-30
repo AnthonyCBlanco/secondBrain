@@ -7,7 +7,7 @@
 
 Inverse Trig functions are the same as [[Inverse Functions]] in algebra 
 
-Simply, inverse functions swap ***x*** and ***y*** values
+Simply, [[Inverse Functions]] swap ***x*** and ***y*** values
 
 Using the horizontal line test we see that no trig functions pass. Thus no inverse trig function is a function.
 We can restrict the domain the have a proper inverse function 

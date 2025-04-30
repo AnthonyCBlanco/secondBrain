@@ -2,8 +2,8 @@
 
 We can use [[The Law of Sines]] to solve [[Oblique Triangles]] is which one side and two angles are known. We can only solve triangles that provide SAA or ASA. (Side, Angle, Angle) or (Angle, Side, Angle)
 
-For oblique triangles the same rule applies that all angles must = 180 degrees
-However we can not use the Pythagorean theorem to solve oblique triangles  
+For [[Oblique Triangles]] the same rule applies that all angles must = 180 degrees
+However we can not use the Pythagorean theorem to solve [[Oblique Triangles]]  
 
 If solving a triangle and given SSA(Side, Side, Angle) it is know as ambiguous case when using [[The Law of Sines]] 
 

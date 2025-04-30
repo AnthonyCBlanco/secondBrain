@@ -4,7 +4,7 @@
 
 - 1. Checks & Balances
 - 2. Separation of Powers
-- 3. Civil liberties or individual rights
+- 3. [[Civil Liberties]] or individual rights
 - 4. Rule of law
 - 5. Federal republic
 

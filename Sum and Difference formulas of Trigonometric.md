@@ -1,6 +1,6 @@
 ### Idea
 
-Using sum and difference formulas we can solve $\sin(A+B)$ or $\sin(A-B)$ 
+Using [[Sum and difference formulas]] we can solve $\sin(A+B)$ or $\sin(A-B)$ 
 ***
 ##### Cosine Formulas 
 >The formula for the sum for cosine
