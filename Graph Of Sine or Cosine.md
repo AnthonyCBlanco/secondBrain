@@ -45,4 +45,4 @@ $\frac{C}{B}$ = [[Transformation of Graphs|Horizontal Shift]] or [[Phase Shift]]
 
 
 
-#math #trigonometry 
+#math #trigonometry #graphing

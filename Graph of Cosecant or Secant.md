@@ -36,4 +36,4 @@ y=\sin\left( x+\frac{\pi}{4} \right)
 $$
 	Then we can plot verticies of csc at the min-max of sin
 
-#math #trigonometry
+#math #trigonometry #graphing

@@ -1,32 +1,43 @@
 ### Idea
 
-In a polar coordinate system, we plot point in terms of radius and degrees.
+In a [[Polar Coordinate System]], we plot points in terms of **radius** and **angle (in radians)**.
 
 ![[Pasted image 20250428080758.png]]
 
-***Each Ring represents one Radii and one full rotation is 2$\pi$***
+***Each ring represents one unit of radius, and one full rotation is $2\pi$ radians.***
 
-If we are asked to transfer polar cords to rectangular cords we can you the following conversation
+To convert **polar coordinates** to **rectangular (Cartesian)** coordinates, use the following relationships:
 
 $$
 \begin{gather}
-x=r\cos\theta \\
-y=r\sin\theta \\
-x^2+y^2=r^2 \\
-\tan\theta=\frac{y}{x} \text{ | Be Sure to check were the point terminates}
+x = r\cos\theta \\
+y = r\sin\theta \\
+x^2 + y^2 = r^2 \\
+\tan\theta = \frac{y}{x} \quad \text{(check the quadrant to find the correct angle)}
 \end{gather}
 $$
 
-##### Polar Equation
+Related notes:  
+→ [[Trigonometric Identities]]  
+→ [[Unit Circle]]
 
-A **polar equation** is an equation whose variables are *r* and $\theta$ 
+---
 
-To convert a rectangular equation in *x* and *y* to a polar
-equation in *r* and $\theta$, replace x with r and $r\cos \theta$ and y with $r\sin\theta$ 
+#### Polar Equation
 
-***Just replace x and y*** 
+A **polar equation** is an equation whose variables are $r$ and $\theta$.
 
+See also: [[Graph of Polar Equations]]
 
+To convert a rectangular equation (in terms of $x$ and $y$) to a polar equation (in terms of $r$ and $\theta$), replace:
 
+- $x$ with $r\cos\theta$
+- $y$ with $r\sin\theta$
 
-#math #trigonometry 
+So:
+
+**Just replace $x$ and $y$** using their polar equivalents.
+
+---
+
+#math #trigonometry #polar
