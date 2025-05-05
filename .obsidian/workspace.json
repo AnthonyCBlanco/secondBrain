@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number Systems.md",
+                "file": "Polar Coordinate System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Number Systems"
+              "title": "Polar Coordinate System"
+            }
+          },
+          {
+            "id": "f3cec504501da4a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#trigonometry",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Number Systems.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Number Systems"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -123,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number Systems.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Number Systems"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -152,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Number Systems.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Number Systems"
+              "title": "Outline of README"
             }
           },
           {
@@ -191,15 +216,16 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "827e6045cce036f9",
+  "active": "f3cec504501da4a1",
   "lastOpenFiles": [
+    "Parametric Equations and Plane Curves.md",
+    "Polar Coordinate System.md",
+    "Graph of Polar Equations.md",
+    "Number Systems.md",
     "Binary Arithmetic.md",
-    "Number Systems.md",
-    "Number Systems.md",
     "Discrete Structures.md",
     "Dot Product.md",
     "Even and Odd functions.md",
-    "Graph of Polar Equations.md",
     "Graph Of Tangent or Cotangent.md",
     "Heron's Formula.md",
     "Inverse Trig Functions.md",
@@ -218,7 +244,6 @@
     "The Complex Plane.md",
     "Sum and Difference formulas of Trigonometric.md",
     "Sum and difference formulas.md",
-    "Solving Trig Functions.md",
     "attachments/Screenshot 2025-04-30 083232.png",
     "attachments/Pasted image 20250428080758.png",
     "attachments/Pasted image 20250421092617.png",
