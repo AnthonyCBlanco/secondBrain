@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polar Coordinate System.md",
+                "file": "The Complex Plane.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Polar Coordinate System"
-            }
-          },
-          {
-            "id": "f3cec504501da4a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "The Complex Plane"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Parametric Equations and Plane Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Parametric Equations and Plane Curves"
             }
           },
           {
@@ -148,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Parametric Equations and Plane Curves.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Parametric Equations and Plane Curves"
             }
           },
           {
@@ -177,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Parametric Equations and Plane Curves.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Parametric Equations and Plane Curves"
             }
           },
           {
@@ -216,34 +191,34 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f3cec504501da4a1",
+  "active": "b50e20915e7ce613",
   "lastOpenFiles": [
-    "Parametric Equations and Plane Curves.md",
-    "Polar Coordinate System.md",
-    "Graph of Polar Equations.md",
-    "Number Systems.md",
-    "Binary Arithmetic.md",
-    "Discrete Structures.md",
-    "Dot Product.md",
-    "Even and Odd functions.md",
-    "Graph Of Tangent or Cotangent.md",
-    "Heron's Formula.md",
-    "Inverse Trig Functions.md",
-    "Inverse Functions.md",
-    "Logical Form and Logical Equivalence.md",
-    "Linear Speed and Angular Speed.md",
+    "The Complex Plane.md",
+    "Untitled.md",
     "Oblique Triangles.md",
-    "Number Theory.md",
-    "Power Reducing and Half Angle.md",
-    "Solving Oblique Triangle.md",
+    "Parametric Equations and Plane Curves.md",
+    "Periodic Function.md",
+    "Polar Coordinate System.md",
+    "Vectors.md",
     "Unit Circle.md",
-    "Trigonometric Identities.md",
     "Trigonometry Functions Of A Right Triangle.md",
+    "Trigonometric Identities.md",
     "The Law of Sines.md",
     "The Law of Cosines.md",
-    "The Complex Plane.md",
-    "Sum and Difference formulas of Trigonometric.md",
     "Sum and difference formulas.md",
+    "Solving Trig Functions.md",
+    "Number Theory.md",
+    "Number Systems.md",
+    "Logical Form and Logical Equivalence.md",
+    "Linear Speed and Angular Speed.md",
+    "Inverse Trig Functions.md",
+    "Inverse Functions.md",
+    "Graph Of Tangent or Cotangent.md",
+    "Graph Of Sine or Cosine.md",
+    "Graph of Polar Equations.md",
+    "Graph of Cosecant or Secant.md",
+    "Even and Odd functions.md",
+    "Dot Product.md",
     "attachments/Screenshot 2025-04-30 083232.png",
     "attachments/Pasted image 20250428080758.png",
     "attachments/Pasted image 20250421092617.png",
