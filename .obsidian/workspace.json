@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using Division to Find Zeros.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Using Division to Find Zeros"
+              "title": "README"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "7986370566bd54fb",
   "lastOpenFiles": [
-    "Rational Root Theorem.md",
     "Using Division to Find Zeros.md",
+    "Rational Root Theorem.md",
     "Polynomial Division.md",
     "Pre-Calc – Practice Exam 2 Study Guide.md",
     "Logarithms.md",
