@@ -30,6 +30,54 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "0a146d330cc03c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limits.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Limits"
+            }
+          },
+          {
+            "id": "83756342cc748376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LAMP Idea.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LAMP Idea"
+            }
           }
         ]
       }
@@ -84,7 +132,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,6 +230,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -193,32 +243,32 @@
   },
   "active": "7986370566bd54fb",
   "lastOpenFiles": [
-    "Using Division to Find Zeros.md",
-    "Rational Root Theorem.md",
-    "Polynomial Division.md",
-    "Pre-Calc – Practice Exam 2 Study Guide.md",
-    "Logarithms.md",
-    "The Complex Plane.md",
-    "Oblique Triangles.md",
-    "Parametric Equations and Plane Curves.md",
-    "Periodic Function.md",
-    "Polar Coordinate System.md",
+    "Limits.md",
+    "README.md",
+    "LAMP Idea.md",
+    "Basics Of Calculus.md",
+    "attachments/Pasted image 20250825091321.png",
+    "Difference Quotient.md",
+    "Untitled 1.md",
     "Vectors.md",
+    "Solving Oblique Triangle.md",
+    "Preview Of Calculus.md",
+    "Solving 2x2 Systems.md",
+    "Pre-Calc – Practice Exam 2 Study Guide.md",
+    "Partial Fractions.md",
+    "3x3 Systems of Equations.md",
+    "Parametric Equations and Plane Curves.md",
+    "Logarithms.md",
+    "Using Division to Find Zeros.md",
     "Unit Circle.md",
     "Trigonometry Functions Of A Right Triangle.md",
-    "Trigonometric Identities.md",
-    "The Law of Sines.md",
     "The Law of Cosines.md",
+    "The Complex Plane.md",
+    "Sum and Difference formulas of Trigonometric.md",
     "Sum and difference formulas.md",
-    "Solving Trig Functions.md",
-    "Number Theory.md",
-    "Number Systems.md",
-    "Logical Form and Logical Equivalence.md",
-    "Linear Speed and Angular Speed.md",
-    "Inverse Trig Functions.md",
-    "Inverse Functions.md",
-    "Graph Of Tangent or Cotangent.md",
-    "Graph Of Sine or Cosine.md",
+    "Systems of Equations.md",
+    "Rational Root Theorem.md",
+    "Polynomial Division.md",
     "attachments/Screenshot 2025-04-30 083232.png",
     "attachments/Pasted image 20250428080758.png",
     "attachments/Pasted image 20250421092617.png",
@@ -231,7 +281,6 @@
     "attachments/Pasted image 20250226104534.png",
     "attachments/Pasted image 20250226104241.png",
     "attachments/Pasted image 20250226104210.png",
-    "attachments/logical-equ.png",
     "attachments/unit circle.1",
     "attachments",
     "templates",
