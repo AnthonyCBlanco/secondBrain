@@ -81,4 +81,4 @@ $\vec{v}= ||\vec{v}||\cos\theta i+||\vec{v}||\sin\theta j$
 
 We replace **b*** and **a*** with $\sin\theta$ and $\cos\theta$ respectively.  
 
-#math #trigonometry #vectors
+#math #trigonometry #vectors #physics

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b79472e76f92b30",
+        "id": "321525392148983e",
         "type": "tabs",
         "children": [
           {
-            "id": "7986370566bd54fb",
+            "id": "df1f5c78a388bde0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Math/Vectors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Vectors"
             }
           },
           {
-            "id": "0a146d330cc03c30",
+            "id": "8bb52889a130201c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Limits.md",
+                "file": "Comp Sci/Binary Arithmetic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,34 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Limits"
-            }
-          },
-          {
-            "id": "83756342cc748376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LAMP Idea.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LAMP Idea"
+              "title": "Binary Arithmetic"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +83,30 @@
             }
           },
           {
+            "id": "41b134cc700865b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Math/Binary Arithmetic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Binary Arithmetic"
+            }
+          },
+          {
             "id": "190e9dad5aa56d31",
             "type": "leaf",
             "state": {
@@ -114,7 +115,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -132,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,49 +241,54 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "7986370566bd54fb",
+  "active": "8bb52889a130201c",
   "lastOpenFiles": [
-    "Limits.md",
-    "README.md",
-    "LAMP Idea.md",
-    "Basics Of Calculus.md",
-    "attachments/Pasted image 20250825091321.png",
-    "Difference Quotient.md",
-    "Untitled 1.md",
-    "Vectors.md",
-    "Solving Oblique Triangle.md",
-    "Preview Of Calculus.md",
-    "Solving 2x2 Systems.md",
-    "Pre-Calc – Practice Exam 2 Study Guide.md",
-    "Partial Fractions.md",
-    "3x3 Systems of Equations.md",
-    "Parametric Equations and Plane Curves.md",
-    "Logarithms.md",
-    "Using Division to Find Zeros.md",
-    "Unit Circle.md",
-    "Trigonometry Functions Of A Right Triangle.md",
-    "The Law of Cosines.md",
-    "The Complex Plane.md",
-    "Sum and Difference formulas of Trigonometric.md",
-    "Sum and difference formulas.md",
-    "Systems of Equations.md",
-    "Rational Root Theorem.md",
-    "Polynomial Division.md",
-    "attachments/Screenshot 2025-04-30 083232.png",
-    "attachments/Pasted image 20250428080758.png",
-    "attachments/Pasted image 20250421092617.png",
-    "attachments/Circle.h",
-    "Untitled.canvas",
-    "American Politics",
-    "attachments/Pasted image 20250306161254.png",
-    "attachments/Pasted image 20250212082849.png",
-    "attachments/Pasted image 20250212082945.png",
-    "attachments/Pasted image 20250226104534.png",
-    "attachments/Pasted image 20250226104241.png",
-    "attachments/Pasted image 20250226104210.png",
-    "attachments/unit circle.1",
-    "attachments",
-    "templates",
-    "Trigonometry"
+    "secondBrain/Math/Binary Arithmetic.md",
+    "Math/Rational Root Theorem.md",
+    "Comp Sci",
+    "Physics/Vectors In Physics.md",
+    "Physics/Fundamental Quantities & Rules.md",
+    "Math/Limits.md",
+    "Math/Basics Of Calculus.md",
+    "Math/Vectors.md",
+    "Math/Tangent Line Problem.md",
+    "Math/Instantaneous Velocity.md",
+    "secondBrain/templates/Physics Template.md",
+    "secondBrain/templates/Math template.md",
+    "secondBrain/templates",
+    "secondBrain/Physics/Vectors In Physics.md",
+    "secondBrain/Physics/Fundamental Quantities & Rules.md",
+    "secondBrain/Physics",
+    "secondBrain/Math/Verifying Trigonometric Identities.md",
+    "secondBrain/Math/Vectors.md",
+    "secondBrain/Math/Unit Circle.md",
+    "secondBrain/Math/Using Division to Find Zeros.md",
+    "secondBrain/Math/Trigonometry Functions Of A Right Triangle.md",
+    "secondBrain/Math/The Complex Plane.md",
+    "secondBrain/Math/Trigonometric Identities.md",
+    "secondBrain/Math/The Law of Sines.md",
+    "secondBrain/Math/The Law of Cosines.md",
+    "secondBrain/Math/Systems of Equations.md",
+    "secondBrain/Math/Sum and difference formulas.md",
+    "secondBrain/Math/Sum and Difference formulas of Trigonometric.md",
+    "secondBrain/Math/README.md",
+    "secondBrain/Math",
+    "secondBrain/attachments/unit-circle.png",
+    "secondBrain/attachments/Unit-circle (1).png",
+    "secondBrain/attachments/unit circle.1",
+    "secondBrain/attachments/Screenshot 2025-04-30 083232.png",
+    "secondBrain/attachments/Screenshot 2025-02-10 081126.png",
+    "secondBrain/attachments/Pasted image 20250825091321.png",
+    "secondBrain/attachments/Pasted image 20250428080758.png",
+    "secondBrain/attachments/Pasted image 20250421092617.png",
+    "secondBrain/attachments/Pasted image 20250306161254.png",
+    "secondBrain/attachments/Pasted image 20250226104534.png",
+    "secondBrain/attachments/Pasted image 20250226104241.png",
+    "secondBrain/attachments/Circle.h",
+    "secondBrain/attachments",
+    "secondBrain",
+    "Physics",
+    "Math",
+    "Untitled.canvas"
   ]
 }

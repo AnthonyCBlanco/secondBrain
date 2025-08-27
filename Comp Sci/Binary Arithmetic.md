@@ -12,7 +12,7 @@ For example, in binary:
 - $1 + 1 = 10$ (carry the 1)
 - $1 + 1 + 1 = 11$ (1 carried, 1 left behind)
 
-→ [[Binary Arithmetic]]  
+→ [[Comp Sci/Binary Arithmetic]]  
 → [[Base Conversions]]  
 → [[Modular Arithmetic]]
 

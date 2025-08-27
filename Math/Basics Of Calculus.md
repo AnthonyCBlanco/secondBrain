@@ -21,10 +21,14 @@ It is often called the **"limit machine"** because nearly all its ideas are buil
 
 ## The Tangent Line Problem
 
-A classic problem in calculus is finding the **equation of the tangent line** to the graph of a function $f$ at a point $P(c, f(c))$.  
+A classic problem in calculus is finding the **equation of the [[Tangent Line Problem|tangent]] line** to the graph of a function $f$ at a point $P(c, f(c))$.  
 
 - A **secant line** passes through **two distinct points** on a curve  
 - A **tangent line** "just touches" the curve at **one point**, sharing the same slope as the curve at that point  
+
+$$
+\Delta x=x_{2}-x_{2}
+$$
 
 ### Secant Line Slope
 
