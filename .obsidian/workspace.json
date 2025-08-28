@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Sci/Binary Arithmetic.md",
+                "file": "Physics/Vectors In Physics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Binary Arithmetic"
+              "title": "Vectors In Physics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Math/Binary Arithmetic.md",
+                "file": "Math/Rational Root Theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -103,7 +102,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Binary Arithmetic"
+              "title": "Rational Root Theorem"
             }
           },
           {
@@ -241,16 +240,17 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "8bb52889a130201c",
+  "active": "df1f5c78a388bde0",
   "lastOpenFiles": [
+    "Physics/Vectors In Physics.md",
+    "Math/Vectors.md",
+    "Math/Basics Of Calculus.md",
+    "Comp Sci/Binary Arithmetic.md",
     "secondBrain/Math/Binary Arithmetic.md",
     "Math/Rational Root Theorem.md",
     "Comp Sci",
-    "Physics/Vectors In Physics.md",
     "Physics/Fundamental Quantities & Rules.md",
     "Math/Limits.md",
-    "Math/Basics Of Calculus.md",
-    "Math/Vectors.md",
     "Math/Tangent Line Problem.md",
     "Math/Instantaneous Velocity.md",
     "secondBrain/templates/Physics Template.md",
@@ -271,7 +271,6 @@
     "secondBrain/Math/Systems of Equations.md",
     "secondBrain/Math/Sum and difference formulas.md",
     "secondBrain/Math/Sum and Difference formulas of Trigonometric.md",
-    "secondBrain/Math/README.md",
     "secondBrain/Math",
     "secondBrain/attachments/unit-circle.png",
     "secondBrain/attachments/Unit-circle (1).png",

@@ -1,3 +1,4 @@
+
 ### Idea
 Quantities that involve both magnitude and a direction are called **vector quantities**, or vectors for short
 Quantities that involve magnitude, but no direction, are called scalar quantities, or scalars for short | *scalars are just real numbers*
@@ -80,5 +81,14 @@ $\frac{v}{||v||}$ is the unit vector that has the same direction as **v**. To fi
 $\vec{v}= ||\vec{v}||\cos\theta i+||\vec{v}||\sin\theta j$ 
 
 We replace **b*** and **a*** with $\sin\theta$ and $\cos\theta$ respectively.  
+
+
+###### Change in vector $\Delta$
+
+[[Vectors In Physics]]
+
+$$
+\Delta  \vec{v} = \vec{v_{2}} -\vec{v_{1}}
+$$
 
 #math #trigonometry #vectors #physics

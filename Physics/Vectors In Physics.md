@@ -18,13 +18,14 @@ In contrast, **scalars** are quantities that only require magnitude and have no 
 - Energy  
 
 ### Examples of Vector Quantities
-- Force  
+- Force  ($\vec{F}$)
 - Displacement  
-- Velocity  
-- Acceleration  
-- Momentum  
-- Torque  
-- Electric Field  
+- Velocity ($\vec{v}$) 
+- Acceleration ($\vec{a}$)  
+- Momentum  ($\vec{P}$)
+- Torque  ($T$)
+- Electric Field
+- Angular Momentum ($\vec{L}$)
 
 ---
 
@@ -32,6 +33,12 @@ In contrast, **scalars** are quantities that only require magnitude and have no 
 
 - A **scalar** is a physical quantity described by a single value (with units).  
 - A **vector** is a physical quantity described by both a magnitude and a direction.  
+
+
+#### Velocity
+
+Velocity ($\vec{v}$) $\implies \text{speed} \implies \text{magnitude of velocity}$
+> Speed Is the magnitude of a velocity vector
 
 ---
 
