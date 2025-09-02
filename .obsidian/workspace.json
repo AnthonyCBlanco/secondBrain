@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Vectors.md",
+                "file": "Math/Verifying Trigonometric Identities.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vectors"
+              "title": "Verifying Trigonometric Identities"
             }
           },
           {
@@ -242,16 +242,22 @@
   },
   "active": "df1f5c78a388bde0",
   "lastOpenFiles": [
+    "Math/Solving 2x2 Systems.md",
+    "Math/Verifying Trigonometric Identities.md",
     "Physics/Vectors In Physics.md",
-    "Math/Vectors.md",
+    "Physics/Fundamental Quantities & Rules.md",
     "Math/Basics Of Calculus.md",
+    "Math/Tangent Line Problem.md",
+    "Math/Approximating Area Using Limits.md",
+    "Math/Limits.md",
+    "Math/Rational Root Theorem.md",
+    "Math/Unit Circle.md",
+    "Math/Coterminal Angles.md",
+    "Math/Trigonometry Functions Of A Right Triangle.md",
+    "Math/Vectors.md",
     "Comp Sci/Binary Arithmetic.md",
     "secondBrain/Math/Binary Arithmetic.md",
-    "Math/Rational Root Theorem.md",
     "Comp Sci",
-    "Physics/Fundamental Quantities & Rules.md",
-    "Math/Limits.md",
-    "Math/Tangent Line Problem.md",
     "Math/Instantaneous Velocity.md",
     "secondBrain/templates/Physics Template.md",
     "secondBrain/templates/Math template.md",
@@ -265,12 +271,6 @@
     "secondBrain/Math/Using Division to Find Zeros.md",
     "secondBrain/Math/Trigonometry Functions Of A Right Triangle.md",
     "secondBrain/Math/The Complex Plane.md",
-    "secondBrain/Math/Trigonometric Identities.md",
-    "secondBrain/Math/The Law of Sines.md",
-    "secondBrain/Math/The Law of Cosines.md",
-    "secondBrain/Math/Systems of Equations.md",
-    "secondBrain/Math/Sum and difference formulas.md",
-    "secondBrain/Math/Sum and Difference formulas of Trigonometric.md",
     "secondBrain/Math",
     "secondBrain/attachments/unit-circle.png",
     "secondBrain/attachments/Unit-circle (1).png",

@@ -45,7 +45,7 @@ $$
 The slope of the tangent line is found by taking the **limit** as $\Delta x \to 0$:
 
 $$
-m_{\tan} = \lim_{\Delta x \to 0} \frac{f(c+\Delta x) - f(c)}{\Delta x}
+m_{\tan} = \lim_{\Delta x \to c} \frac{f(c+\Delta x) - f(c)}{\Delta x}
 $$
 
 This defines the **derivative** of $f$ at $x=c$:  
