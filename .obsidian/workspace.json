@@ -11,24 +11,10 @@
             "id": "df1f5c78a388bde0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Verifying Trigonometric Identities.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Verifying Trigonometric Identities"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -37,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Vectors In Physics.md",
+                "file": "Math/Continuity and Limits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +38,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vectors In Physics"
+              "title": "Continuity and Limits"
+            }
+          },
+          {
+            "id": "bcf45c9b72223fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/3x3 Systems of Equations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3x3 Systems of Equations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,9 +229,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "94b7137282e35476",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -237,40 +258,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "df1f5c78a388bde0",
+  "active": "8bb52889a130201c",
   "lastOpenFiles": [
-    "Math/Solving 2x2 Systems.md",
-    "Math/Verifying Trigonometric Identities.md",
-    "Physics/Vectors In Physics.md",
-    "Physics/Fundamental Quantities & Rules.md",
-    "Math/Basics Of Calculus.md",
-    "Math/Tangent Line Problem.md",
-    "Math/Approximating Area Using Limits.md",
     "Math/Limits.md",
-    "Math/Rational Root Theorem.md",
-    "Math/Unit Circle.md",
-    "Math/Coterminal Angles.md",
-    "Math/Trigonometry Functions Of A Right Triangle.md",
+    "Math/Continuity and Limits.md",
+    "Math/3x3 Systems of Equations.md",
+    "Math/Trigonometric Identities.md",
+    "Math/The squeeze theorem.md",
+    "Math/Polynomial Division.md",
+    "Math/Dot Product.md",
     "Math/Vectors.md",
-    "Comp Sci/Binary Arithmetic.md",
-    "secondBrain/Math/Binary Arithmetic.md",
+    "Physics/Vectors In Physics.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "Math/Conic Sections in Polar Form.md",
+    "Math/Amplitude.md",
+    "Math/Angles and Radian Measure Basics.md",
+    "Math/Verifying Trigonometric Identities.md",
     "Comp Sci",
-    "Math/Instantaneous Velocity.md",
-    "secondBrain/templates/Physics Template.md",
-    "secondBrain/templates/Math template.md",
     "secondBrain/templates",
-    "secondBrain/Physics/Vectors In Physics.md",
-    "secondBrain/Physics/Fundamental Quantities & Rules.md",
     "secondBrain/Physics",
-    "secondBrain/Math/Verifying Trigonometric Identities.md",
-    "secondBrain/Math/Vectors.md",
-    "secondBrain/Math/Unit Circle.md",
-    "secondBrain/Math/Using Division to Find Zeros.md",
-    "secondBrain/Math/Trigonometry Functions Of A Right Triangle.md",
-    "secondBrain/Math/The Complex Plane.md",
     "secondBrain/Math",
     "secondBrain/attachments/unit-circle.png",
     "secondBrain/attachments/Unit-circle (1).png",
@@ -287,7 +310,6 @@
     "secondBrain/attachments",
     "secondBrain",
     "Physics",
-    "Math",
     "Untitled.canvas"
   ]
 }

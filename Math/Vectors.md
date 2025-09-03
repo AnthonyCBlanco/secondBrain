@@ -44,6 +44,12 @@ $$
 \vec{v} =a \vec{i} + b \vec{j}
 $$
 
+In three dim problems we can use **k**
+
+$$
+\vec{v} =a \vec{i} + b \vec{j}+c \vec{k}
+$$
+
 The sum of the two vectors is called a **linear** 
 
 To find the magnitude $||\vec{v}|| = \sqrt{ a^2+b^2 }$ 

@@ -19,4 +19,4 @@ $$
 
 ### Formally
 
-#math
+#math #trigonometry 
