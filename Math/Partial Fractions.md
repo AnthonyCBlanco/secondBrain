@@ -56,3 +56,5 @@ If the denominator includes:
 $$
 x^2 + bx + c \quad \text{(can’t)}
 $$
+
+#math #algebra 

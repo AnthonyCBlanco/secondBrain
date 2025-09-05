@@ -1,8 +1,0 @@
-### Idea
-
-
-
-
-### Formally
-
-#math

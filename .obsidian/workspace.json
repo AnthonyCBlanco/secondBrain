@@ -11,10 +11,48 @@
             "id": "df1f5c78a388bde0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Instantaneous Velocity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Instantaneous Velocity"
+            }
+          },
+          {
+            "id": "2dad3fb795993b30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Trigonometric Identities.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Trigonometric Identities"
             }
           },
           {
@@ -23,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Continuity and Limits.md",
+                "file": "Math/Rational Root Theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Continuity and Limits"
+              "title": "Rational Root Theorem"
             }
           },
           {
@@ -47,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/3x3 Systems of Equations.md",
+                "file": "Math/Systems of Equations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3x3 Systems of Equations"
+              "title": "Systems of Equations"
             }
           }
         ],
@@ -262,35 +300,35 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8bb52889a130201c",
+  "active": "2dad3fb795993b30",
   "lastOpenFiles": [
-    "Math/Limits.md",
-    "Math/Continuity and Limits.md",
+    "Math/Vectors.md",
+    "Physics/Pre-calc Work sheets.md",
+    "Physics/Instantaneous Velocity.md",
+    "Physics/Motion In One Dimension.md",
+    "Math/Rational Root Theorem.md",
+    "Math/Systems of Equations.md",
     "Math/3x3 Systems of Equations.md",
+    "Math/Unit Circle.md",
+    "Physics/Vectors In Physics.md",
+    "Math/Continuity and Limits.md",
+    "Math/Limits.md",
+    "Math/Difference Quotient.md",
+    "Math/One-Sided Limits.md",
+    "Project ideas.md",
+    "Math/Partial Fractions.md",
+    "LAMP Idea.md",
     "Math/Trigonometric Identities.md",
     "Math/The squeeze theorem.md",
     "Math/Polynomial Division.md",
     "Math/Dot Product.md",
-    "Math/Vectors.md",
-    "Physics/Vectors In Physics.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "Math/Conic Sections in Polar Form.md",
-    "Math/Amplitude.md",
-    "Math/Angles and Radian Measure Basics.md",
-    "Math/Verifying Trigonometric Identities.md",
     "Comp Sci",
     "secondBrain/templates",
     "secondBrain/Physics",
