@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Trigonometric Identities.md",
+                "file": "Math/Continuity and Limits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trigonometric Identities"
+              "title": "Continuity and Limits"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Systems of Equations.md",
+                "file": "Math/Limits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Systems of Equations"
+              "title": "Limits"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -300,34 +300,34 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2dad3fb795993b30",
+  "active": "bcf45c9b72223fdf",
   "lastOpenFiles": [
+    "Math/Limits at Infinity.md",
+    "Math/Number Systems.md",
+    "Math/One-Sided Limits.md",
+    "Math/Rational Functions.md",
+    "Math/Limits.md",
+    "Math/Systems of Equations.md",
+    "Math/Rational Root Theorem.md",
+    "Physics/Instantaneous Velocity.md",
+    "Math/Continuity and Limits.md",
+    "Math/Unit Circle.md",
+    "Math/Using Division to Find Zeros.md",
+    "Math/Trigonometric Identities.md",
     "Math/Vectors.md",
     "Physics/Pre-calc Work sheets.md",
-    "Physics/Instantaneous Velocity.md",
     "Physics/Motion In One Dimension.md",
-    "Math/Rational Root Theorem.md",
-    "Math/Systems of Equations.md",
     "Math/3x3 Systems of Equations.md",
-    "Math/Unit Circle.md",
     "Physics/Vectors In Physics.md",
-    "Math/Continuity and Limits.md",
-    "Math/Limits.md",
     "Math/Difference Quotient.md",
-    "Math/One-Sided Limits.md",
     "Project ideas.md",
     "Math/Partial Fractions.md",
     "LAMP Idea.md",
-    "Math/Trigonometric Identities.md",
     "Math/The squeeze theorem.md",
     "Math/Polynomial Division.md",
     "Math/Dot Product.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts",
     "Comp Sci",
     "secondBrain/templates",

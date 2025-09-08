@@ -53,6 +53,13 @@ Continuity at $x = c$ can fail if:
   $$  
   At $x=0$, $f(x)$ is not continuous because it has a vertical asymptote.
 
+
+#### Zeros of a Continuous Function
+
+The intermediate value theorem can be used to locate the zeros of a function that is continuous on a closed interval
+
+If *f* is continuous on `[a,b]` 
+
 ---
 
 ### Formally
