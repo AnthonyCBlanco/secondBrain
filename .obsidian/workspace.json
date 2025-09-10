@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Continuity and Limits.md",
+                "file": "Math/Limits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Continuity and Limits"
+              "title": "Limits"
             }
           },
           {
@@ -83,28 +83,14 @@
             "id": "bcf45c9b72223fdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Limits.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Limits"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -300,34 +286,34 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bcf45c9b72223fdf",
+  "active": "2dad3fb795993b30",
   "lastOpenFiles": [
-    "Math/Limits at Infinity.md",
-    "Math/Number Systems.md",
     "Math/One-Sided Limits.md",
-    "Math/Rational Functions.md",
-    "Math/Limits.md",
-    "Math/Systems of Equations.md",
-    "Math/Rational Root Theorem.md",
-    "Physics/Instantaneous Velocity.md",
     "Math/Continuity and Limits.md",
+    "Math/Rational Root Theorem.md",
+    "Math/Graph of Polar Equations.md",
+    "Physics/Vectors In Physics.md",
+    "Math/Vectors.md",
+    "Math/Dot Product.md",
+    "Physics/Motion In One Dimension.md",
+    "Physics/Pre-calc Work sheets.md",
+    "Math/Limits at Infinity.md",
+    "Math/Limits.md",
+    "Math/Number Systems.md",
+    "Math/Rational Functions.md",
+    "Math/Systems of Equations.md",
+    "Physics/Instantaneous Velocity.md",
     "Math/Unit Circle.md",
     "Math/Using Division to Find Zeros.md",
     "Math/Trigonometric Identities.md",
-    "Math/Vectors.md",
-    "Physics/Pre-calc Work sheets.md",
-    "Physics/Motion In One Dimension.md",
     "Math/3x3 Systems of Equations.md",
-    "Physics/Vectors In Physics.md",
     "Math/Difference Quotient.md",
     "Project ideas.md",
     "Math/Partial Fractions.md",
     "LAMP Idea.md",
     "Math/The squeeze theorem.md",
     "Math/Polynomial Division.md",
-    "Math/Dot Product.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts",
     "Comp Sci",
     "secondBrain/templates",

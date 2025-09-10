@@ -28,6 +28,21 @@ $$
 $$
 	Velocity is a Vector (m/sec)
 
+###### Constant velocity
+$$
+v_{x}= \frac{\Delta x}{\Delta t}
+$$
+
+#### Acceleration
+
+###### Average acceleration
+$$
+a_{x,avg} = \frac{\Delta v_{x}}{\Delta t}
+$$
+
+$$
+
+$$
 When our displacement is 0 our average velocity is zero
 ### Formally
 
