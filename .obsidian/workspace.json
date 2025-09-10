@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Limits.md",
+                "file": "Math/The Derivative.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Limits"
+              "title": "The Derivative"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Rational Root Theorem.md",
+                "file": "Math/Unit Circle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rational Root Theorem"
+              "title": "Unit Circle"
             }
           },
           {
@@ -288,32 +288,32 @@
   },
   "active": "2dad3fb795993b30",
   "lastOpenFiles": [
+    "Physics/Vectors In Physics.md",
+    "Physics/Motion In One Dimension.md",
+    "Physics/Instantaneous Velocity.md",
+    "Physics/Fundamental Quantities & Rules.md",
+    "Math/Verifying Trigonometric Identities.md",
+    "Math/Vectors.md",
+    "Math/Using Division to Find Zeros.md",
+    "Math/Unit Circle.md",
+    "Math/Trigonometric Identities.md",
+    "Math/Trigonometry Functions Of A Right Triangle.md",
+    "Math/Systems of Equations.md",
+    "Math/Tangent Line Problem.md",
+    "Math/The Derivative.md",
+    "Math/Rational Root Theorem.md",
+    "Math/Difference Quotient.md",
+    "Math/Basics Of Calculus.md",
+    "Math/Limits.md",
     "Math/One-Sided Limits.md",
     "Math/Continuity and Limits.md",
-    "Math/Rational Root Theorem.md",
     "Math/Graph of Polar Equations.md",
-    "Physics/Vectors In Physics.md",
-    "Math/Vectors.md",
     "Math/Dot Product.md",
-    "Physics/Motion In One Dimension.md",
     "Physics/Pre-calc Work sheets.md",
     "Math/Limits at Infinity.md",
-    "Math/Limits.md",
     "Math/Number Systems.md",
     "Math/Rational Functions.md",
-    "Math/Systems of Equations.md",
-    "Physics/Instantaneous Velocity.md",
-    "Math/Unit Circle.md",
-    "Math/Using Division to Find Zeros.md",
-    "Math/Trigonometric Identities.md",
     "Math/3x3 Systems of Equations.md",
-    "Math/Difference Quotient.md",
-    "Project ideas.md",
-    "Math/Partial Fractions.md",
-    "LAMP Idea.md",
-    "Math/The squeeze theorem.md",
-    "Math/Polynomial Division.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts",
     "Comp Sci",
     "secondBrain/templates",
