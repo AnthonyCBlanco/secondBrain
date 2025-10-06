@@ -2,20 +2,20 @@
 
 ### Idea
 - One-dimensional motion occurs along a **straight line**.  
-- We describe motion in terms of **position, displacement, velocity, and acceleration**.  
+- Motion can be described in terms of **position, displacement, velocity, and acceleration**.  
+- We often separate motion into **horizontal** and **vertical** components.  
 
 ---
 
+## Horizontal Motion
+
 ### Position
-
-- **Distance** ($\Delta s$) → [[Vectors|scalar]] quantity describing the total length of the path traveled.  
-- **Displacement** ($\Delta x$) → [[Vectors|vector]] quantity describing the change in position (includes direction).  
-
-The displacement is given by:  
-
-$$
-\vec{\Delta x} = x_f - x_i
-$$
+- **Displacement**:  
+  $$
+  \Delta x = x_f - x_i
+  $$
+  - A [[Vectors In Physics|vector]] quantity (includes direction).  
+- **Distance**: scalar quantity (path length traveled).  
 
 ---
 
@@ -30,113 +30,135 @@ $$
 
 ---
 
-### Average Speed
-$$
-\bar{v} = \frac{\Delta s}{\Delta t}
-$$
+### Velocity
 
-- Speed is a **scalar** (units: m/s).  
+- **Average velocity**:  
+  $$
+  \bar{v}_x = \frac{\Delta x}{\Delta t}
+  $$
+- **Instantaneous velocity**:  
+  $$
+  v_x = \frac{dx}{dt}
+  $$
 
----
-
-### Average Velocity
-$$
-\bar{v} = \frac{\Delta x}{\Delta t}
-$$
-
-- Velocity is a **vector** (units: m/s).  
-
----
-
-### Constant Velocity
-For constant motion:  
-
-$$
-v_x = \frac{\Delta x}{\Delta t}
-$$
-
-So the displacement is:  
-
-$$
-\Delta x = v_x \Delta t
-$$
+- For **constant velocity**:  
+  $$
+  \Delta x = v_x \Delta t
+  $$
 
 ---
 
 ### Acceleration
 
-#### Average Acceleration
-$$
-a_{x,\text{avg}} = \frac{\Delta v_x}{\Delta t}
-$$
-
-- Units: m/s²  
-- Acceleration measures the rate of change of velocity.  
+- **Average acceleration**:  
+  $$
+  a_{x,\text{avg}} = \frac{\Delta v_x}{\Delta t}
+  $$
+- **Instantaneous acceleration**:  
+  $$
+  a_x = \frac{dv_x}{dt}
+  $$
 
 ---
 
 ### Constant Acceleration (Kinematics)
 
-When acceleration is constant, we can use the **kinematic equations**:  
-
-1. Velocity–time relation:
-$$
-v_x = v_{0x} + a_x t
-$$
-
-2. Position–time relation (displacement form):
-$$
-\Delta x = v_{0x}t + \tfrac{1}{2}a_x t^2
-$$
-
-3. Velocity–displacement relation (no time):
-$$
-v_x^2 = v_{0x}^2 + 2a_x \Delta x
-$$
-
-- $x_0$ = initial position  
-- $v_{0x}$ = initial velocity  
-- $a_x$ = constant acceleration  
-- $t$ = elapsed time  
-
----
-
-### Finding Displacement
-
-1. **Constant Velocity**  
-   If velocity is constant:  
+1. Velocity–time relation:  
    $$
-   \Delta x = v_x \Delta t
+   v_x = v_{0x} + a_x t
    $$
 
-2. **Constant Acceleration**  
-   If acceleration is constant:  
+2. Position–time relation:  
    $$
    \Delta x = v_{0x}t + \tfrac{1}{2}a_x t^2
    $$
 
-3. **Using Average Velocity**  
-   Displacement can also be found from average velocity:  
+3. Velocity–displacement relation:  
    $$
-   \Delta x = \bar{v} \cdot t \quad , \quad \bar{v} = \frac{v_{0x} + v_x}{2}
+   v_x^2 = v_{0x}^2 + 2a_x \Delta x
    $$
 
 ---
 
-### Key Notes
-- If **displacement = 0**, then average velocity is **zero** (even if distance traveled is not zero).  
+### Finding Displacement
+1. **Constant velocity**:  
+   $$
+   \Delta x = v_x \Delta t
+   $$
+
+2. **Constant acceleration**:  
+   $$
+   \Delta x = v_{0x}t + \tfrac{1}{2}a_x t^2
+   $$
+
+3. **Average velocity approach**:  
+   $$
+   \Delta x = \bar{v}_x \cdot t, \quad \bar{v}_x = \frac{v_{0x} + v_x}{2}
+   $$
+
+---
+
+## Vertical Motion
+
+### Position & Displacement
+- Vertical displacement:  
+  $$
+  \Delta y = y_f - y_i
+  $$
+
+---
+
+### Velocity
+- **Average velocity**:  
+  $$
+  \bar{v}_y = \frac{\Delta y}{\Delta t}
+  $$
+- **Instantaneous velocity**:  
+  $$
+  v_y = \frac{dy}{dt}
+  $$
+
+---
+
+### Acceleration
+- In free fall (near Earth’s surface):  
+  $$
+  a_y = -g \quad \text{(where } g \approx 9.8 \, \text{m/s}^2 \text{)}
+  $$
+
+---
+
+### Constant Acceleration (Kinematics)
+
+1. Velocity–time relation:  
+   $$
+   v_y = v_{0y} - g t
+   $$
+
+2. Position–time relation:  
+   $$
+   \Delta y = v_{0y}t - \tfrac{1}{2}g t^2
+   $$
+
+3. Velocity–displacement relation:  
+   $$
+   v_y^2 = v_{0y}^2 - 2g \Delta y
+   $$
+
+---
+
+## Key Notes
+- If **displacement = 0**, average velocity is **zero**, even if distance ≠ 0.  
 - Constant velocity means **zero acceleration**.  
-- These equations only apply under **constant acceleration**.  
+- Kinematic equations apply only when **acceleration is constant**.  
 
 ---
 
-### Formally
-Motion in 1D can be summarized as:  
-
-- **Position:** $x(t)$  
-- **Velocity:** $v_x = \frac{dx}{dt}$  
-- **Acceleration:** $a_x = \frac{dv_x}{dt} = \frac{d^2x}{dt^2}$  
+## Formal Definitions
+- **Position:** $x(t), \; y(t)$  
+- **Velocity:** $v_x = \frac{dx}{dt}, \; v_y = \frac{dy}{dt}$  
+- **Acceleration:** $a_x = \frac{dv_x}{dt}, \; a_y = \frac{dv_y}{dt} = \frac{d^2y}{dt^2}$  
 
 ---
 
-#physics #mechanics #calculus
+#physics #mechanics #kinematics

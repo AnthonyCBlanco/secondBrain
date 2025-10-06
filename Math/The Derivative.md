@@ -1,4 +1,3 @@
-
 # Derivatives
 
 ### Idea
@@ -93,17 +92,69 @@ $$
 $$
 
 ---
-#### 5. The Product Rule
 
+#### 5. Product Rule
+For $f(x)$ and $g(x)$:  
 
-#### 6. The Quotient Rule
+$$
+\frac{d}{dx}[f(x) \cdot g(x)] = f'(x)g(x) + f(x)g'(x)
+$$
 
+Example:  
+$$
+f(x) = x^2 \sin x \quad \Rightarrow \quad f'(x) = 2x \sin x + x^2 \cos x
+$$
+
+---
+
+#### 6. Quotient Rule
+For $\dfrac{f(x)}{g(x)}$ (with $g(x) \neq 0$):  
+
+$$
+\frac{d}{dx}\left[\frac{f(x)}{g(x)}\right] = \frac{f'(x)g(x) - f(x)g'(x)}{[g(x)]^2}
+$$
+
+Example:  
+$$
+f(x) = \frac{x^2}{\sin x} \quad \Rightarrow \quad f'(x) = \frac{2x\sin x - x^2 \cos x}{\sin^2 x}
+$$
+
+---
+
+#### 7. Chain Rule
+If $y = f(g(x))$, then:  
+
+$$
+\frac{dy}{dx} = f'(g(x)) \cdot g'(x)
+$$
+
+Example:  
+$$
+f(x) = \sin(x^2) \quad \Rightarrow \quad f'(x) = \cos(x^2) \cdot 2x
+$$
+
+→ [[Chain Rule]]
+
+---
 
 ### Derivatives of Trigonometric Functions
 
 - $\frac{d}{dx}[\sin x] = \cos x$  
 - $\frac{d}{dx}[\cos x] = -\sin x$  
+- $\frac{d}{dx}[\tan x] = \sec^2 x$  
+- $\frac{d}{dx}[\cot x] = -\csc^2 x$  
+- $\frac{d}{dx}[\sec x] = \sec x \tan x$  
+- $\frac{d}{dx}[\csc x] = -\csc x \cot x$  
 
+---
+
+### Derivatives of Exponential and Logarithmic Functions
+
+- $\frac{d}{dx}[e^x] = e^x$  
+- $\frac{d}{dx}[a^x] = a^x \ln a$  
+
+- $\frac{d}{dx}[\ln x] = \frac{1}{x}, \quad x>0$  
+- $\frac{d}{dx}[\log_a x] = \frac{1}{x \ln a}$  
 
 ---
 
@@ -113,10 +164,12 @@ $$
 - Describing instantaneous rates of change  
 - Analyzing motion in physics ($v(t) = s'(t)$, $a(t) = v'(t)$)  
 - Optimization problems  
+- Related rates  
 
 → [[Difference Quotient]]  
 → [[Limits]]  
 → [[Continuity and Limits]]  
+→ [[Chain Rule]]  
 
 ---
 

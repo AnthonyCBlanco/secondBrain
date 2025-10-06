@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df1f5c78a388bde0",
+            "id": "97353dd7fad8f274",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Instantaneous Velocity.md",
+                "file": "Math/Rolle’s Theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Instantaneous Velocity"
-            }
-          },
-          {
-            "id": "2dad3fb795993b30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Motion In One Dimension.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Motion In One Dimension"
-            }
-          },
-          {
-            "id": "e035a28bf602ac80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Free Falling Objects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Free Falling Objects"
-            }
-          },
-          {
-            "id": "8bb52889a130201c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Unit Circle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Unit Circle"
+              "title": "Rolle’s Theorem"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,42 +223,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obisidian-note-linker:Note Linker": false,
-      "copilot:Open Copilot Chat": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "94b7137282e35476",
+  "active": "b50e20915e7ce613",
   "lastOpenFiles": [
-    "2025-09-17.md",
+    "Math/Rolle’s Theorem.md",
+    "Math/Mean Value Theorem.md",
+    "Math/Using Division to Find Zeros.md",
+    "Math/Vectors.md",
+    "Physics/Law's Of Motion.md",
+    "Physics/Motion In One Dimension.md",
+    "Physics/Instantaneous Velocity.md",
+    "Physics/Fundamental Quantities & Rules.md",
+    "Math/The Derivative.md",
+    "Physics/Vectors In Physics.md",
+    "Physics/Free Falling Objects.md",
+    "Physics/Projectile Motion.md",
+    "Physics/Motion in Two Dimensions.md",
+    "Math/Trigonometric Identities.md",
+    "Math/Related Rates.md",
+    "Physics/Derivatives.md",
+    "Math/Implicit Differentiation.md",
+    "Physics/Newton's Law.md",
+    "Math/Derivatives.md",
+    "Math/The Chain Rule.md",
     "Math/Unit Circle.md",
+    "2025-09-17.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
     "Untitled.md",
     "UntitledUntitl.md",
-    "Math/The Chain Rule.md",
-    "Math/The Derivative.md",
     "Math/Number Theory.md",
     "Math/Discrete Structures.md",
-    "Physics/Untitled.md",
-    "Physics/Motion In One Dimension.md",
-    "Math/Polar Coordinate System.md",
-    "Physics/Instantaneous Velocity.md",
-    "Physics/Free Falling Objects.md",
-    "LAMP Idea.md",
-    "Physics/Fundamental Quantities & Rules.md",
-    "Physics/Vectors In Physics.md",
-    "Math/Limits.md",
-    "Math/Verifying Trigonometric Identities.md",
-    "Math/Vectors.md",
-    "Math/Using Division to Find Zeros.md",
-    "Math/Trigonometric Identities.md",
-    "Math/Trigonometry Functions Of A Right Triangle.md",
-    "Math/Systems of Equations.md",
-    "Math/Tangent Line Problem.md",
-    "Math/Rational Root Theorem.md",
-    "Math/Difference Quotient.md",
     "copilot-custom-prompts",
     "Comp Sci",
     "secondBrain/templates",
