@@ -27,8 +27,6 @@ $$
 If the endpoints of a smooth curve are at the same height ($f(a) = f(b)$),  
 then there must be at least one point between them where the tangent is **flat (horizontal)**.
 
-![[rolle_theorem_diagram.png]]
-
 ---
 
 ### Example 1

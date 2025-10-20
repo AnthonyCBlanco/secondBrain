@@ -11,11 +11,11 @@ It is often called the **"limit machine"** because nearly all its ideas are buil
 
 ## Without Calculus vs With Calculus
 
-| Without Calculus           | With Calculus                                              |
-| -------------------------- | ---------------------------------------------------------- |
-| Value of $f$ at $x=c$      | $\lim_{x \to c} f(x)$                                      |
-| Slope of a line (constant) | Slope of a curve at a point (derivative) → [[Derivatives]] |
-| Area of simple shapes      | Area under a curve (integral) → [[Integrals]]              |
+| Without Calculus           | With Calculus                                                              |
+| -------------------------- | -------------------------------------------------------------------------- |
+| Value of $f$ at $x=c$      | $\lim_{x \to c} f(x)$                                                      |
+| Slope of a line (constant) | Slope of a curve at a point (derivative) → [[The Derivative\|Derivatives]] |
+| Area of simple shapes      | Area under a curve (integral) → [[Integrals]]                              |
 
 ---
 
@@ -70,5 +70,8 @@ Finding the area under a curve using increasing smaller rectangles
 
 ## Key Links to Build On
 - [[Limits]] — the foundation of calculus  
-- [[Derivatives]] — the mathematics of slopes and rates of change  
+- [[The Derivative|Derivatives]] — the mathematics of slopes and rates of change  
 - [[Integrals]] — the mathematics of accumulation and area  
+
+
+#math #calculus #derivatives #integral

@@ -133,7 +133,7 @@ $$
 f(x) = \sin(x^2) \quad \Rightarrow \quad f'(x) = \cos(x^2) \cdot 2x
 $$
 
-→ [[Chain Rule]]
+→ [[The Chain Rule]]
 
 ---
 
@@ -169,7 +169,7 @@ $$
 → [[Difference Quotient]]  
 → [[Limits]]  
 → [[Continuity and Limits]]  
-→ [[Chain Rule]]  
+→ [[The Chain Rule]]  
 
 ---
 

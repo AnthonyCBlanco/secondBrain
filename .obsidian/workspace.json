@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97353dd7fad8f274",
+            "id": "0d8307cd24030ab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Rolle’s Theorem.md",
+                "file": "Physics/Circular Motion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rolle’s Theorem"
+              "title": "Circular Motion"
+            }
+          },
+          {
+            "id": "64537f58d424e2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Mean Value Theorem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mean Value Theorem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,8 +216,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -206,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -226,17 +251,25 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b50e20915e7ce613",
+  "active": "64537f58d424e2fd",
   "lastOpenFiles": [
     "Math/Rolle’s Theorem.md",
+    "Physics/Circular Motion.md",
+    "Physics/Laws Of Motion.md",
+    "Physics/Forces.md",
+    "Math/Graph Of Sine or Cosine.md",
+    "Math/Inverse Trig Functions.md",
+    "Physics/Friction.md",
+    "Math/The Derivative.md",
+    "Math/Basics Of Calculus.md",
+    "Math/Difference Quotient.md",
+    "LAMP Idea.md",
     "Math/Mean Value Theorem.md",
     "Math/Using Division to Find Zeros.md",
     "Math/Vectors.md",
-    "Physics/Law's Of Motion.md",
     "Physics/Motion In One Dimension.md",
     "Physics/Instantaneous Velocity.md",
     "Physics/Fundamental Quantities & Rules.md",
-    "Math/The Derivative.md",
     "Physics/Vectors In Physics.md",
     "Physics/Free Falling Objects.md",
     "Physics/Projectile Motion.md",
@@ -246,17 +279,9 @@
     "Physics/Derivatives.md",
     "Math/Implicit Differentiation.md",
     "Physics/Newton's Law.md",
-    "Math/Derivatives.md",
-    "Math/The Chain Rule.md",
-    "Math/Unit Circle.md",
-    "2025-09-17.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
-    "Untitled.md",
-    "UntitledUntitl.md",
-    "Math/Number Theory.md",
-    "Math/Discrete Structures.md",
     "copilot-custom-prompts",
     "Comp Sci",
     "secondBrain/templates",

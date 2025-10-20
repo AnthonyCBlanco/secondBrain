@@ -52,7 +52,10 @@ The net force on an object is proportional to its acceleration, and the constant
 $$
 \vec{F}_{net} = m \vec{a}
 $$
-
+or:
+$$
+\sum_{}^{}\vec{F}=m \vec{a}
+$$
 Where:  
 - $\vec{F}_{net}$ = net force (N)  
 - $m$ = mass (kg)  
