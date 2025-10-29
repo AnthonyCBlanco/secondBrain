@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Mean Value Theorem.md",
+                "file": "Physics/Circular Motion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mean Value Theorem"
+              "title": "Circular Motion"
+            }
+          },
+          {
+            "id": "5b1b16fbd057a392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Conservation of Energy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Conservation of Energy"
+            }
+          },
+          {
+            "id": "4a97f1ed5a88546e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Verifying Trigonometric Identities.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Verifying Trigonometric Identities"
+            }
+          },
+          {
+            "id": "d07b08b3426d4c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Differentials.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Differentials"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,7 +185,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -251,20 +323,24 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "64537f58d424e2fd",
+  "active": "d07b08b3426d4c10",
   "lastOpenFiles": [
-    "Math/Rolle’s Theorem.md",
-    "Physics/Circular Motion.md",
+    "Math/Verifying Trigonometric Identities.md",
+    "Math/Differentials.md",
     "Physics/Laws Of Motion.md",
+    "Physics/Friction.md",
+    "Physics/Work and Energy.md",
+    "Physics/Conservation of Energy.md",
+    "Physics/Circular Motion.md",
+    "Math/Mean Value Theorem.md",
+    "Math/Rolle’s Theorem.md",
     "Physics/Forces.md",
     "Math/Graph Of Sine or Cosine.md",
     "Math/Inverse Trig Functions.md",
-    "Physics/Friction.md",
     "Math/The Derivative.md",
     "Math/Basics Of Calculus.md",
     "Math/Difference Quotient.md",
     "LAMP Idea.md",
-    "Math/Mean Value Theorem.md",
     "Math/Using Division to Find Zeros.md",
     "Math/Vectors.md",
     "Physics/Motion In One Dimension.md",
@@ -275,10 +351,6 @@
     "Physics/Projectile Motion.md",
     "Physics/Motion in Two Dimensions.md",
     "Math/Trigonometric Identities.md",
-    "Math/Related Rates.md",
-    "Physics/Derivatives.md",
-    "Math/Implicit Differentiation.md",
-    "Physics/Newton's Law.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
