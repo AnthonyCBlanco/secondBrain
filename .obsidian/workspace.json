@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d8307cd24030ab0",
+            "id": "a4cd3049c6dc2bd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Circular Motion.md",
+                "file": "Physics/Angular Momentum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Circular Motion"
+              "title": "Angular Momentum"
             }
           },
           {
-            "id": "64537f58d424e2fd",
+            "id": "daf375cd5f89f9ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Circular Motion.md",
+                "file": "Math/Related Rates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Circular Motion"
+              "title": "Related Rates"
             }
           },
           {
-            "id": "5b1b16fbd057a392",
+            "id": "596dbdf08c0369dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Conservation of Energy.md",
+                "file": "Math/Inverse Functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Conservation of Energy"
+              "title": "Inverse Functions"
             }
           },
           {
-            "id": "4a97f1ed5a88546e",
+            "id": "eace0170de3d52ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Verifying Trigonometric Identities.md",
+                "file": "Physics/Torque.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Verifying Trigonometric Identities"
+              "title": "Torque"
             }
           },
           {
-            "id": "d07b08b3426d4c10",
+            "id": "484cafed6868d605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Differentials.md",
+                "file": "Physics/Momentum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,45 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Differentials"
+              "title": "Momentum"
+            }
+          },
+          {
+            "id": "1b0a7a5ce818da77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Derivatives of Inverse Functions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Derivatives of Inverse Functions"
+            }
+          },
+          {
+            "id": "b8391477799a231f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -323,34 +357,34 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d07b08b3426d4c10",
+  "active": "b50e20915e7ce613",
   "lastOpenFiles": [
-    "Math/Verifying Trigonometric Identities.md",
-    "Math/Differentials.md",
-    "Physics/Laws Of Motion.md",
-    "Physics/Friction.md",
-    "Physics/Work and Energy.md",
-    "Physics/Conservation of Energy.md",
+    "README.md",
+    "Physics/Universal Gravitation.md",
+    "Project ideas.md",
+    "Physics/Kepler's Laws.md",
+    "Physics/Momentum.md",
+    "Math/Derivatives of Inverse Functions.md",
+    "Physics/Torque.md",
+    "Math/Inverse Functions.md",
+    "Math/Integration and Differentiation of Logarithmic Functions.md",
+    "Physics/Angular Momentum.md",
+    "Math/Related Rates.md",
+    "Math/Linear Speed and Angular Speed.md",
+    "Physics/Equilibrium.md",
+    "Physics/Rotational Motion.md",
     "Physics/Circular Motion.md",
-    "Math/Mean Value Theorem.md",
-    "Math/Rolle’s Theorem.md",
-    "Physics/Forces.md",
+    "Math/Sigma Notation.md",
+    "Math/Integration of Even and Odd Functions.md",
     "Math/Graph Of Sine or Cosine.md",
-    "Math/Inverse Trig Functions.md",
-    "Math/The Derivative.md",
-    "Math/Basics Of Calculus.md",
-    "Math/Difference Quotient.md",
-    "LAMP Idea.md",
-    "Math/Using Division to Find Zeros.md",
-    "Math/Vectors.md",
-    "Physics/Motion In One Dimension.md",
-    "Physics/Instantaneous Velocity.md",
-    "Physics/Fundamental Quantities & Rules.md",
+    "Math/Angles and Radian Measure Basics.md",
+    "Math/Integration by Substitution.md",
+    "Physics/Conservation of Energy.md",
     "Physics/Vectors In Physics.md",
-    "Physics/Free Falling Objects.md",
-    "Physics/Projectile Motion.md",
-    "Physics/Motion in Two Dimensions.md",
-    "Math/Trigonometric Identities.md",
+    "Math/Area by Limit Definition.md",
+    "Math/Indefinite Integration.md",
+    "Math/Fundamental Theorem of Calculus.md",
+    "Math/Mean Value Theorem.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",

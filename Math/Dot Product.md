@@ -31,4 +31,4 @@ $$proj_{\vec{w}}\vec{v}=\frac{\vec{v}*\vec{w}}{||\vec{w}||^2}\vec{w}$$
 
 ### Formally
 
-#math #trigonometry #[[Vectors]]
+#math #trigonometry #vectors 

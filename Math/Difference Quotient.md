@@ -15,7 +15,7 @@ $$
 - This expression measures the **average rate of change** between $$x$$ and $$x + h$$.
 - As $$h \to 0$$the difference quotient becomes the **instantaneous rate of change**, also known as the **derivative**.
 
-→ [[Derivatives]]  
+→ [[Derivatives of Inverse Functions]]  
 → [[Slope of a Secant Line]]  
 
 ---
