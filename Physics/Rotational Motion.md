@@ -12,11 +12,11 @@ Understanding this relationship allows us to translate between **linear kinemati
 
 ### Angular Quantities  
 
-| Quantity | Symbol | Definition | Units |
-|-----------|---------|-------------|--------|
-| **Angular Displacement** | $\theta$ | Angle swept by a radius | radians (rad) |
-| **Angular Velocity** | $\omega = \frac{d\theta}{dt}$ | Rate of change of angular displacement | rad/s |
-| **Angular Acceleration** | $\alpha = \frac{d\omega}{dt}$ | Rate of change of angular velocity | rad/s² |
+| Quantity                 | Symbol                        | Definition                             | Units         |
+| ------------------------ | ----------------------------- | -------------------------------------- | ------------- |
+| **Angular Displacement** | $\theta$                      | Angle swept by a radius                | radians (rad) |
+| **Angular Velocity**     | $\omega = \frac{d\theta}{dt}$ | Rate of change of angular displacement | rad/s         |
+| **Angular Acceleration** | $\alpha = \frac{d\omega}{dt}$ | Rate of change of angular velocity     | rad/s²        |
 
 ---
 
