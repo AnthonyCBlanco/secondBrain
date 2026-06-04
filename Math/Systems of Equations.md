@@ -12,6 +12,8 @@ Most common systems are:
 - 2 equations with 2 variables
 - 3 equations with 3 variables
 
+A **homogenous system** system of linear equation occuers when all of the $b_{i}$'s are zeros
+
 #### 2. **Nonlinear Systems**
 At least one equation is nonlinear (e.g., circles, parabolas).  
 → [[Nonlinear Systems]]

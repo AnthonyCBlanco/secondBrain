@@ -91,10 +91,10 @@ We replace **b*** and **a*** with $\sin\theta$ and $\cos\theta$ respectively.
 
 ###### Change in vector $\Delta$
 
-[[Vectors In Physics]]
+
 
 $$
 \Delta  \vec{v} = \vec{v_{2}} -\vec{v_{1}}
 $$
-
+[[Vectors In Physics]]
 #math #trigonometry #vectors #physics

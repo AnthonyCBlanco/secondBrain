@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59c372f57d774f29",
+        "id": "ef96280d8474a086",
         "type": "tabs",
         "children": [
           {
-            "id": "eb672f40a832cd8e",
+            "id": "0a2e6ad4ec3fca51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Continuity and Limits.md",
+                "file": "Math/Lines in Space.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Continuity and Limits"
+              "title": "Lines in Space"
+            }
+          },
+          {
+            "id": "1512ba8603c247d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Dot Product.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dot Product"
             }
           }
         ]
@@ -58,12 +82,12 @@
             }
           },
           {
-            "id": "41b134cc700865b7",
+            "id": "9f0fd7cf0bcd6848",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Rational Root Theorem.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +102,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rational Root Theorem"
+              "title": "README"
             }
           },
           {
@@ -108,11 +132,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "06720697cbbfa746",
@@ -201,8 +227,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
@@ -222,49 +248,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b50e20915e7ce613",
+  "active": "0a2e6ad4ec3fca51",
   "lastOpenFiles": [
-    "Math/Mean Value Theorem.md",
-    "Math/Implicit Differentiation.md",
-    "Physics/Rotational Motion.md",
-    "Physics/Torque.md",
-    "Physics/Oscillatory Motion.md",
-    "Math/Partial Fractions.md",
-    "Math/Integration and Differentiation of Logarithmic Functions.md",
+    "Math/Planes in Space.md",
+    "Math/Lines in Space.md",
+    "Math/Dot Product.md",
+    "Daily Notes/2026/05/28.md",
+    "Urban Heat Mapping Drone.md",
+    "Daily Notes/2026/06/03.md",
+    "Daily Notes/2026/06/Untitled.md",
+    "Daily Notes/2026/06",
     "Math/Untitled.md",
-    "Physics/Kepler's Laws.md",
-    "Physics/Universal Gravitation.md",
-    "Math/Derivatives of Inverse Functions.md",
+    "Daily Notes/2026/05/Untitled.md",
+    "Daily Notes/2026/05/Untitled.base",
+    "Math/Vectors.md",
+    "Daily Notes/2026/05",
+    "Daily Notes/2026",
     "README.md",
-    "Project ideas.md",
-    "Physics/Momentum.md",
-    "Math/Inverse Functions.md",
-    "Physics/Angular Momentum.md",
-    "Math/Related Rates.md",
-    "Math/Linear Speed and Angular Speed.md",
-    "Physics/Equilibrium.md",
-    "Physics/Circular Motion.md",
-    "Math/Sigma Notation.md",
-    "Math/Integration of Even and Odd Functions.md",
-    "Math/Graph Of Sine or Cosine.md",
-    "Math/Angles and Radian Measure Basics.md",
-    "Math/Integration by Substitution.md",
-    "Physics/Conservation of Energy.md",
-    "Untitled.canvas",
+    "Math/Rational Root Theorem.md",
     "Untitled 1.base",
     "Untitled.base",
-    "copilot-custom-prompts",
-    "Comp Sci",
-    "secondBrain/templates",
-    "secondBrain/Physics",
-    "secondBrain/Math",
+    "2026-05-27.md",
+    "Untitled.canvas",
+    "Daily Notes",
+    "templates/Untitled.base",
+    "templates/Math template.md",
+    "templates/Chem Template.md",
+    "templates/Physics Template.md",
+    "Math/Related Rates.md",
+    "MESA Meeting With Dan.md",
+    "Math/Partial Fractions.md",
+    "Math/Inverse Trig Functions.md",
+    "Math/Differentials.md",
+    "Math/Derivatives of Inverse Functions.md",
+    "Math/Conversion Of Degrees to Radians.md",
+    "Math/Integration and Differentiation of Logarithmic Functions.md",
+    "Math/Area by Limit Definition.md",
+    "Math/Definite Integrals.md",
+    "Untitled 2.base",
+    "Math/Untitled.base",
     "secondBrain/attachments/unit-circle.png",
     "secondBrain/attachments/Unit-circle (1).png",
-    "secondBrain/attachments/unit circle.1",
     "secondBrain/attachments/Screenshot 2025-04-30 083232.png",
     "secondBrain/attachments/Screenshot 2025-02-10 081126.png",
     "secondBrain/attachments/Pasted image 20250825091321.png",
@@ -272,8 +299,6 @@
     "secondBrain/attachments/Pasted image 20250421092617.png",
     "secondBrain/attachments/Pasted image 20250306161254.png",
     "secondBrain/attachments/Pasted image 20250226104534.png",
-    "secondBrain/attachments/Pasted image 20250226104241.png",
-    "secondBrain/attachments/Circle.h",
-    "secondBrain/attachments"
+    "secondBrain/attachments/Pasted image 20250226104241.png"
   ]
 }
