@@ -2,5 +2,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "openBehavior": "file:03_ATLAS/HOME",
+  "trashOption": "local"
 }

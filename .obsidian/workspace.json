@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef96280d8474a086",
+        "id": "68aeeba11848adba",
         "type": "tabs",
         "children": [
           {
-            "id": "1512ba8603c247d9",
+            "id": "2d4aac92b488ad95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_SPACES/SCHOOL/School MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "School MOC"
+              "title": "New tab"
             }
           }
         ]
@@ -87,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "calculus",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,18 +212,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "190e9dad5aa56d31",
+  "active": "2d4aac92b488ad95",
   "lastOpenFiles": [
-    "01_SPACES/SCHOOL/Math/Calculus",
+    "01_SPACES/SCHOOL/Chemistry/Untitled.md",
     "03_ATLAS/HOME.md",
-    "01_SPACES/SCHOOL/SEMESTERS/SUMMER 2026.md",
+    "01_SPACES/PROJECTS/Projects MOC.md",
     "01_SPACES/SCHOOL/School MOC.md",
+    "01_SPACES/SCHOOL/Math/Calculus",
+    "01_SPACES/SCHOOL/SEMESTERS/SUMMER 2026.md",
     "01_SPACES/SCHOOL/Math/Planes in Space.md",
     "01_SPACES/SCHOOL/Math/Lines in Space.md",
     "01_SPACES/PERSONAL/Personal MOC.md",
     "01_SPACES/SCHOOL/SEMESTERS",
     "03_ATLAS/2026-06-04.md",
-    "01_SPACES/PROJECTS/Projects MOC.md",
     "01_SPACES/PROJECTS/NASA CAGSC",
     "01_SPACES/SCHOOL/Math/Dot Product.md",
     "02_TIMELINE/DAILY NOTES",
@@ -250,7 +236,6 @@
     "03_ATLAS",
     "02_TIMELINE",
     "01_SPACES",
-    "00_SYSTEM",
     "Untitled.md",
     "02_TIMELINE/DAILY NOTES/2026/05/28.md",
     "01_SPACES/PROJECTS/NASA CAGSC/Urban Heat Mapping Drone.md",
