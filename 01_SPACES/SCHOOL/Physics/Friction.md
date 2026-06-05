@@ -94,7 +94,7 @@ $$
 ---
 
 ### Related Notes
-- [[Laws of Motion]]
+- [[Laws Of Motion]]
 
 ---
 

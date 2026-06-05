@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a2e6ad4ec3fca51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Lines in Space.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lines in Space"
-            }
-          },
-          {
             "id": "1512ba8603c247d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Dot Product.md",
+                "file": "01_SPACES/SCHOOL/School MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dot Product"
+              "title": "School MOC"
             }
           }
         ]
@@ -111,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "calculus",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "06720697cbbfa746",
@@ -248,48 +223,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "0a2e6ad4ec3fca51",
+  "active": "190e9dad5aa56d31",
   "lastOpenFiles": [
-    "Math/Planes in Space.md",
-    "Math/Lines in Space.md",
-    "Math/Dot Product.md",
-    "Daily Notes/2026/05/28.md",
-    "Urban Heat Mapping Drone.md",
-    "Daily Notes/2026/06/03.md",
+    "01_SPACES/SCHOOL/Math/Calculus",
+    "03_ATLAS/HOME.md",
+    "01_SPACES/SCHOOL/SEMESTERS/SUMMER 2026.md",
+    "01_SPACES/SCHOOL/School MOC.md",
+    "01_SPACES/SCHOOL/Math/Planes in Space.md",
+    "01_SPACES/SCHOOL/Math/Lines in Space.md",
+    "01_SPACES/PERSONAL/Personal MOC.md",
+    "01_SPACES/SCHOOL/SEMESTERS",
+    "03_ATLAS/2026-06-04.md",
+    "01_SPACES/PROJECTS/Projects MOC.md",
+    "01_SPACES/PROJECTS/NASA CAGSC",
+    "01_SPACES/SCHOOL/Math/Dot Product.md",
+    "02_TIMELINE/DAILY NOTES",
+    "00_SYSTEM/attachments/Pasted image 20250212082945.png",
+    "01_SPACES/PROJECTS",
+    "01_SPACES/PERSONAL",
+    "01_SPACES/SCHOOL",
+    "00_SYSTEM/attachments/Pasted image 20250212082849.png",
+    "03_ATLAS",
+    "02_TIMELINE",
+    "01_SPACES",
+    "00_SYSTEM",
+    "Untitled.md",
+    "02_TIMELINE/DAILY NOTES/2026/05/28.md",
+    "01_SPACES/PROJECTS/NASA CAGSC/Urban Heat Mapping Drone.md",
+    "02_TIMELINE/DAILY NOTES/2026/06/03.md",
     "Daily Notes/2026/06/Untitled.md",
-    "Daily Notes/2026/06",
-    "Math/Untitled.md",
+    "01_SPACES/SCHOOL/Math/Untitled.md",
     "Daily Notes/2026/05/Untitled.md",
-    "Daily Notes/2026/05/Untitled.base",
-    "Math/Vectors.md",
-    "Daily Notes/2026/05",
-    "Daily Notes/2026",
+    "01_SPACES/SCHOOL/Math/Vectors.md",
     "README.md",
-    "Math/Rational Root Theorem.md",
-    "Untitled 1.base",
-    "Untitled.base",
+    "01_SPACES/SCHOOL/Math/Rational Root Theorem.md",
     "2026-05-27.md",
     "Untitled.canvas",
-    "Daily Notes",
-    "templates/Untitled.base",
-    "templates/Math template.md",
-    "templates/Chem Template.md",
-    "templates/Physics Template.md",
-    "Math/Related Rates.md",
+    "00_SYSTEM/templates/Math template.md",
+    "00_SYSTEM/templates/Chem Template.md",
+    "00_SYSTEM/templates/Physics Template.md",
+    "01_SPACES/SCHOOL/Math/Related Rates.md",
     "MESA Meeting With Dan.md",
-    "Math/Partial Fractions.md",
-    "Math/Inverse Trig Functions.md",
-    "Math/Differentials.md",
-    "Math/Derivatives of Inverse Functions.md",
-    "Math/Conversion Of Degrees to Radians.md",
-    "Math/Integration and Differentiation of Logarithmic Functions.md",
-    "Math/Area by Limit Definition.md",
-    "Math/Definite Integrals.md",
-    "Untitled 2.base",
-    "Math/Untitled.base",
     "secondBrain/attachments/unit-circle.png",
     "secondBrain/attachments/Unit-circle (1).png",
     "secondBrain/attachments/Screenshot 2025-04-30 083232.png",
@@ -297,8 +275,6 @@
     "secondBrain/attachments/Pasted image 20250825091321.png",
     "secondBrain/attachments/Pasted image 20250428080758.png",
     "secondBrain/attachments/Pasted image 20250421092617.png",
-    "secondBrain/attachments/Pasted image 20250306161254.png",
-    "secondBrain/attachments/Pasted image 20250226104534.png",
-    "secondBrain/attachments/Pasted image 20250226104241.png"
+    "secondBrain/attachments/Pasted image 20250306161254.png"
   ]
 }

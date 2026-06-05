@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-latex-suite",
-  "obsidian-linter"
+  "obsidian-linter",
+  "templater-obsidian",
+  "dataview"
 ]

@@ -38,4 +38,4 @@ We can find the normal vector of each plane and take the cross product
 
 
 
-#math
+#math #summer2026 

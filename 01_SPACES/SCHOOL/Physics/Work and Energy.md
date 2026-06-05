@@ -161,8 +161,8 @@ $$
 ### Related Notes
 
 - [[Conservation of Energy]]
-- [[Laws of Motion]]
-- [[Motion in One Dimension]]
+- [[Laws Of Motion]]
+- [[Motion In One Dimension]]
 - [[Friction]]
 
 ---
