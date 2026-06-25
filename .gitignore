@@ -17,8 +17,8 @@ desktop.ini
 # Obsidian trash
 .trash/
 
-# AI / Agent folders (Optional: uncomment if you want to ignore these)
-# .agents/
-# .claude/
-# .claudian/
-# .smart-env/
+# AI / Agent folders
+.agents/
+.claude/
+.claudian/
+.smart-env/

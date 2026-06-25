@@ -11,24 +11,15 @@
             "id": "64c3409e1c06079a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "01_SPACES/SCHOOL/Math/Calculus/Multivariable Chain Rule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Multivariable Chain Rule"
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -228,8 +219,10 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "64c3409e1c06079a",
+  "active": "b50e20915e7ce613",
   "lastOpenFiles": [
+    "01_SPACES/SCHOOL/Math/Calculus/Multivariable Chain Rule.md",
+    "01_SPACES/SCHOOL/Math/Calculus/Lines in Space.md",
     "01_SPACES/SCHOOL/Math/Calculus/Multivariable Functions.md",
     "01_SPACES/SCHOOL/Math/Pre-Calculus/Solving Oblique Triangle.md",
     "01_SPACES/SCHOOL/Math/Pre-Calculus/Mean Value Theorem.md",
@@ -254,8 +247,6 @@
     "01_SPACES/SCHOOL/Math/Partial Fractions.md",
     "01_SPACES/SCHOOL/Math/Sum and difference formulas.md",
     "01_SPACES/SCHOOL/Math/Systems of Equations.md",
-    "01_SPACES/SCHOOL/Math/The Law of Sines.md",
-    "01_SPACES/SCHOOL/Math/The Law of Cosines.md",
     "01_SPACES/SCHOOL/Math/Number Theory",
     "01_SPACES/SCHOOL/Math/Discrete Structures",
     "01_SPACES/SCHOOL/Math/Calculus/attachments/Pasted image 20260617172021.png",
