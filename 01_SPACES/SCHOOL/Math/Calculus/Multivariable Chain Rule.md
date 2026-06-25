@@ -67,7 +67,7 @@ $$
 The multivariable chain rule can also be expressed using **Jacobian Matrices**. This is particularly useful in Linear Algebra and when dealing with vector-valued functions. 
 
 If we have a composition of functions, the derivative (Jacobian) of the composition is simply the product of their Jacobian matrices:
-$$ D_{f \circ g} = J_f \cdot J_g $$
+$$ D_{f \circ g} = D_{f} \cdot D_g $$
 
 Using the general case where $z = f(x, y)$ and $(x, y)$ are functions of $(s, t)$:
 1. The Jacobian of $z$ with respect to the intermediate variables $x, y$ is a $1 \times 2$ row vector:
