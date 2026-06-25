@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_SPACES/SCHOOL/Math/Calculus/Multivariable Functions.md",
+                "file": "01_SPACES/SCHOOL/Math/Calculus/Multivariable Chain Rule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Multivariable Functions"
+              "title": "Multivariable Chain Rule"
             }
           }
         ]
@@ -114,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5
   },
   "right": {
     "id": "06720697cbbfa746",
@@ -228,8 +228,9 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "b50e20915e7ce613",
+  "active": "64c3409e1c06079a",
   "lastOpenFiles": [
+    "01_SPACES/SCHOOL/Math/Calculus/Multivariable Functions.md",
     "01_SPACES/SCHOOL/Math/Pre-Calculus/Solving Oblique Triangle.md",
     "01_SPACES/SCHOOL/Math/Pre-Calculus/Mean Value Theorem.md",
     "01_SPACES/SCHOOL/Math/Pre-Calculus/Even and Odd functions.md",
@@ -255,7 +256,6 @@
     "01_SPACES/SCHOOL/Math/Systems of Equations.md",
     "01_SPACES/SCHOOL/Math/The Law of Sines.md",
     "01_SPACES/SCHOOL/Math/The Law of Cosines.md",
-    "01_SPACES/SCHOOL/Math/Trigonometric Identities.md",
     "01_SPACES/SCHOOL/Math/Number Theory",
     "01_SPACES/SCHOOL/Math/Discrete Structures",
     "01_SPACES/SCHOOL/Math/Calculus/attachments/Pasted image 20260617172021.png",
