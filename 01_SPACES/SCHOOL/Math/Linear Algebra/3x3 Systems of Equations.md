@@ -82,4 +82,4 @@ Check your solution by plugging all values into the original equations!
 
 ---
 
-#math #algebra #systems #3x3 #linear
+#math #algebra #systems #3x3 #linearalgebra

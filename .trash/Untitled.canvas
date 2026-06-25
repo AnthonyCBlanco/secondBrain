@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d975bb7df9aceb69","x":-420,"y":-220,"width":640,"height":460,"type":"file","file":"01_SPACES/PROJECTS/NASA CAGSC(HEAT MAPPING)/Timeline.md"},
+		{"id":"cf141513dcefd446","x":320,"y":-220,"width":400,"height":460,"type":"file","file":"01_SPACES/PROJECTS/NASA CAGSC(HEAT MAPPING)/Outline.md"}
+	],
+	"edges":[
+		{"id":"becc94359d828ba9","fromNode":"cf141513dcefd446","fromSide":"right","toNode":"aae9e9cbccaaf3e3","toSide":"left"}
+	]
+}

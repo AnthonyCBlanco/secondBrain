@@ -7,4 +7,4 @@ GROUP BY choice(contains(file.tags, "#math"), "Calculus 3", "Physics Notes") AS 
 
 
 
-#moc #school 
+#moc #school #summer2026 

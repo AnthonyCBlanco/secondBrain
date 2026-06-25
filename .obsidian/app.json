@@ -4,5 +4,12 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "openBehavior": "file:03_ATLAS/HOME",
-  "trashOption": "local"
+  "trashOption": "local",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

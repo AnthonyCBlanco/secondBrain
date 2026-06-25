@@ -1,0 +1,93 @@
+{
+  "claude": {
+    "id": "claude-code-acp",
+    "displayName": "Claude Code",
+    "apiKey": "",
+    "command": "claude-agent-acp",
+    "args": [],
+    "env": []
+  },
+  "codex": {
+    "id": "codex-acp",
+    "displayName": "Codex",
+    "apiKey": "",
+    "command": "codex-acp",
+    "args": [],
+    "env": []
+  },
+  "gemini": {
+    "id": "gemini-cli",
+    "displayName": "Gemini CLI",
+    "apiKey": "",
+    "command": "gemini",
+    "args": [
+      "--experimental-acp"
+    ],
+    "env": []
+  },
+  "customAgents": [],
+  "defaultAgentId": "gemini-cli",
+  "autoAllowPermissions": false,
+  "autoMentionActiveNote": true,
+  "enableSystemNotifications": true,
+  "debugMode": false,
+  "nodePath": "C:\\Program Files\\nodejs\\node.exe",
+  "exportSettings": {
+    "defaultFolder": "Agent ClienT",
+    "filenameTemplate": "agent_client_{date}_{time}",
+    "autoExportOnNewChat": false,
+    "autoExportOnCloseChat": false,
+    "openFileAfterExport": true,
+    "includeImages": true,
+    "imageLocation": "obsidian",
+    "imageCustomFolder": "Agent Client",
+    "frontmatterTag": "agent-client"
+  },
+  "windowsWslMode": false,
+  "sendMessageShortcut": "enter",
+  "chatViewLocation": "right-tab",
+  "displaySettings": {
+    "autoCollapseDiffs": false,
+    "diffCollapseThreshold": 10,
+    "maxNoteLength": 10000,
+    "maxSelectionLength": 10000,
+    "showEmojis": true,
+    "fontSize": null
+  },
+  "savedSessions": [
+    {
+      "sessionId": "bca6d8fd-02a8-494c-91e6-8c2ae6e501a6",
+      "agentId": "gemini-cli",
+      "cwd": "C:\\Users\\Antho\\secondBrain",
+      "title": "write this note on Multivariable Functions",
+      "createdAt": "2026-06-18T00:52:46.308Z",
+      "updatedAt": "2026-06-18T00:52:46.308Z"
+    },
+    {
+      "sessionId": "7b086b36-1fcc-4261-b311-db30d903bfe0",
+      "agentId": "gemini-cli",
+      "cwd": "C:\\Users\\Antho\\secondBrain",
+      "title": "help me write this note on partial derivatives",
+      "createdAt": "2026-06-18T00:40:21.861Z",
+      "updatedAt": "2026-06-18T00:40:21.861Z"
+    },
+    {
+      "sessionId": "78e1a214-f810-46e2-9fbe-38e3285a444f",
+      "agentId": "gemini-cli",
+      "cwd": "C:\\Users\\Antho\\secondBrain",
+      "title": "What links can i add to this note",
+      "createdAt": "2026-06-11T00:50:25.619Z",
+      "updatedAt": "2026-06-11T00:50:25.619Z"
+    }
+  ],
+  "lastUsedModels": {},
+  "lastUsedModes": {},
+  "enableFloatingChat": false,
+  "floatingButtonImage": "",
+  "floatingWindowSize": {
+    "width": 400,
+    "height": 500
+  },
+  "floatingWindowPosition": null,
+  "floatingButtonPosition": null
+}

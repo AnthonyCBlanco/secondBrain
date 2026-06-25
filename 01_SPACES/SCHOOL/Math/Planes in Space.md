@@ -22,6 +22,9 @@ ax+by+ca=d
 \end{gather}
 $$
 
+A plane can be expressed as a linear [[Multivariable Functions|multivariable function]] by solving for $z$:
+$$z = f(x, y) = \frac{d - ax - by}{c}$$
+
 > [!quote] Remember
 > A key to remember thoughout is to find the eqaution of a plane, we need a point and a normal vector. 
 

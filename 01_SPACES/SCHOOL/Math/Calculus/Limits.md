@@ -184,6 +184,7 @@ Common indeterminate forms include:
 → [[Difference Quotient]]  
 → [[Asymptotic Behavior]]  
 → [[Continuity and Limits]]
+→ [[Multivariable Functions]] (Limits in higher dimensions)
 
 ---
 

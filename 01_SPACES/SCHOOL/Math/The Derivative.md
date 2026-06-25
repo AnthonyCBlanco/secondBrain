@@ -2,8 +2,10 @@
 
 ### Idea
 
+^92e521
+
 One of the fundamentals of [[Basics Of Calculus|Calculus]] is the **tangent line problem**.  
-The derivative allows us to find the slope of the tangent line at any point on a curve.  
+The derivative allows us to find the slope of the tangent line at any point on a curve.   ^8f1f58
 
 This is done by calculating the slope of a **secant line** as the two points get infinitely close together.  
 

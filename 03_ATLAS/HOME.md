@@ -1,4 +1,3 @@
-# Welcome Home
 
 ## 📁 Spaces
 * [[School MOC]] 
@@ -6,7 +5,7 @@
 * [[Projects MOC]]
 
 ## Active Focus
-* [[Urban Heat Mapping Drone]]
+* [[Outline]]
 * [[SUMMER 2026]]
 
 ## Quick Access

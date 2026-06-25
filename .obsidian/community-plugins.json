@@ -3,5 +3,7 @@
   "obsidian-latex-suite",
   "obsidian-linter",
   "templater-obsidian",
-  "dataview"
+  "dataview",
+  "tag-wrangler",
+  "agent-client"
 ]
