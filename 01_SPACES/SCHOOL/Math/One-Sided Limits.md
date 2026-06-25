@@ -73,4 +73,5 @@ $$
 
 ---
 
-#math #calculus #limits 
+#math/calculus #math/limits
+

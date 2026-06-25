@@ -49,3 +49,4 @@ $$f_{xy} = f_{yx}$$
 As seen in the example above, $f_{xy} = f_{yx} = 6xy^2$.
 
 #math/calculus #summer2026
+

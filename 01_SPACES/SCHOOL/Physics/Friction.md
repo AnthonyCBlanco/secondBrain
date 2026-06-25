@@ -98,4 +98,5 @@ $$
 
 ---
 
-#physics #mechanics #forces #friction
+#physics/forces #physics/friction #physics/mechanics
+

@@ -8,3 +8,4 @@ Now with [[Vector Valued Functions]] we can better describe the direction of the
 ### Formally
 
 #math/calculus #math/vectors #summer2026
+

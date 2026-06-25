@@ -93,4 +93,5 @@ $$v_{\text{esc}} = \sqrt{\frac{2GM}{R}} \approx 11{,}200\ \text{m/s}$$
 
 ---
 
-#physics #mechanics #gravitation #obsidian-notes
+#obsidian-notes #physics/gravitation #physics/mechanics
+

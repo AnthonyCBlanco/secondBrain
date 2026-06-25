@@ -64,4 +64,5 @@ In Degrees $$
 z_{k}=n\sqrt{ r}\left[ \cos\left( \frac{\theta+360\degree k}{n} \right) +i\sin\left( \frac{\theta+360\degree k}{n} \right)  \right] 
 $$
 
-#math #trigonometry #polarCords
+#math/polar-cords #math/trigonometry
+

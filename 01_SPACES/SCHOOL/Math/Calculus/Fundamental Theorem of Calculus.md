@@ -89,4 +89,5 @@ Thus, the area under $y = 2x$ from $x=0$ to $x=3$ is **9**.
 
 ---
 
-#math #calculus #integrals #fundamentals
+#math/calculus #math/fundamentals #math/integrals
+

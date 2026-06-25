@@ -157,4 +157,5 @@ $$
 
 ---
 
-#math #calculus #integrals #symmetry
+#math/calculus #math/integrals #math/symmetry
+

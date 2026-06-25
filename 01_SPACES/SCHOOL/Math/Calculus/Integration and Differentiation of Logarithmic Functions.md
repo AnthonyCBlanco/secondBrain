@@ -193,4 +193,5 @@ $$
 
 ---
 
-#math #calculus #derivatives #integrals
+#math/calculus #math/derivatives #math/integrals
+

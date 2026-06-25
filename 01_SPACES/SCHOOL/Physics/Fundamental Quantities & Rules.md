@@ -43,6 +43,5 @@ $$
 $$
 ### Formally
 
-
-
 #physics
+

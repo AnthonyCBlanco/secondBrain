@@ -33,6 +33,5 @@ $$
 180 \degree = \pi \text{ radians}
 $$
 
-#math #trigonometry 
-
+#math/trigonometry
 

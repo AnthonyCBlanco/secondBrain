@@ -21,7 +21,5 @@ If two non-parallel lines intersect, then the intersection is a single point
 	We need to find a point that is on both lines 
 > To find intersection, we need a point on both lines, but the point does note need to be from same parameter value on each line, so use different parameters for each line
 
+#math/calculus3 #summer2026
 
-
-
-#math #summer2026 #calculus3

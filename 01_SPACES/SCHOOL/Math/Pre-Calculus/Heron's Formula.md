@@ -5,4 +5,5 @@ Where *s* is one-half its parameter: $s= \frac{1}{2}(a+b+c)$
 
 ### Formally
 
-#math #trigonometry
+#math/trigonometry
+

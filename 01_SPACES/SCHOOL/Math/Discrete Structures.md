@@ -14,4 +14,5 @@
 - [[Logical Form and Logical Equivalence|Logic]]  
 - [[Number Theory]]
 
-#math #compsci #discrete-structures
+#math/compsci #math/discrete-structures
+

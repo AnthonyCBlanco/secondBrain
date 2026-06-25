@@ -132,4 +132,5 @@ $$
 
 ---
 
-#math #calculus #summation #notation #series
+#math/calculus #math/notation #math/series #math/summation
+

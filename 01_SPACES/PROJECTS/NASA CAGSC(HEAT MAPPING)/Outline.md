@@ -67,4 +67,5 @@ This encompasses the physical execution of the project and regulatory compliance
     
 - **Safety & Compliance:** Adhering to FAA Part 107 regulations, checking airspace restrictions, and establishing pre-flight safety checklists.
 
-#projects #summer2026 #NASA_CAGSC
+#nasa-cagsc #projects #summer2026
+

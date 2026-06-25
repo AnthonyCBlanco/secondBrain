@@ -6,3 +6,4 @@ Oblique triangles are triangles that either have three acute angles or two acute
 ### Formally
 
 #math
+

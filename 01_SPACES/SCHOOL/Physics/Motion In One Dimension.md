@@ -161,4 +161,5 @@ $$
 
 ---
 
-#physics #mechanics #kinematics
+#physics/kinematics #physics/mechanics
+

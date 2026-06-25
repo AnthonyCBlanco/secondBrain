@@ -62,4 +62,6 @@ $$
 \frac{2}{4}=\frac{1}{2}
 \end{gather}
 $$
-#math #trigonometry #graphing 
+
+#math/graphing #math/trigonometry
+

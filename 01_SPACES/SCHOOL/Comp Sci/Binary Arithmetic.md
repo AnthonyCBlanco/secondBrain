@@ -40,4 +40,5 @@ Rules for binary multiplication:
 
 ---
 
-#math #compsci #numbersystems
+#math/compsci #math/number-systems
+

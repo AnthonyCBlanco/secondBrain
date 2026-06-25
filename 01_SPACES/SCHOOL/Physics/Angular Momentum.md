@@ -146,4 +146,5 @@ $$
 
 ---
 
-#physics #mechanics #rotation #angularmomentum
+#physics/angular-momentum #physics/mechanics #physics/rotation
+

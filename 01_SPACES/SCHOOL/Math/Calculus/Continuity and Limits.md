@@ -77,4 +77,5 @@ Therefore, $f$ is **not continuous** at $x = 0$.
 
 ---
 
-#math #precalc #calculus #limits 
+#math/calculus #math/limits #math/precalc
+

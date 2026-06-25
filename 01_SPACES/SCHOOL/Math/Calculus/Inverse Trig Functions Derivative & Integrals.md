@@ -19,4 +19,5 @@ $$
 $$
 ### Formally
 
-#math #calculus #integrals #derivatives 
+#math/calculus #math/derivatives #math/integrals
+

@@ -134,4 +134,5 @@ This expresses the same concept — the exact area under $f(x)$ on $[a, b]$.
 
 ---
 
-#math #calculus #integration #area #limits
+#math/area #math/calculus #math/integration #math/limits
+

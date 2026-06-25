@@ -15,4 +15,5 @@ We may encounter many differ partial derivatives because just how $g(x)$ is a fu
 
 ### Formally
 
-#math/calculus #summer2026 #math/linearalgebra 
+#math/calculus #math/linearalgebra #summer2026
+

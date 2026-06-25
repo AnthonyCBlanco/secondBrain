@@ -43,6 +43,5 @@ $0 \leq Bx-C \leq\pi$
 D = [[Transformation of Graphs|Vertical shift]]
 $\frac{C}{B}$ = [[Transformation of Graphs|Horizontal Shift]] or [[Phase Shift]]
 
+#math/graphing #math/trigonometry
 
-
-#math #trigonometry #graphing

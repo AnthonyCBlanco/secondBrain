@@ -39,6 +39,5 @@ We can find the normal vector of each plane and take the cross product
 
 ##### Finding the intersection of two planes 
 
+#math #summer2026
 
-
-#math #summer2026 

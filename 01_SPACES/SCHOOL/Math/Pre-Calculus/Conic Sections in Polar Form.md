@@ -80,4 +80,5 @@ $r = \frac{ep}{1 - e\cos\theta}$ where $e > 1$
 
 ---
 
-#math #trigonometry #polar #conics #graphing
+#math/conics #math/graphing #math/polar #math/trigonometry
+

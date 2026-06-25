@@ -2,4 +2,5 @@
 
 ### Formally
 
-#math #number_theory 
+#math/number-theory
+

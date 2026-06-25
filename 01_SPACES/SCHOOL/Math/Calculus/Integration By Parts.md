@@ -33,4 +33,5 @@ Technically correct but very difficult to deal with
 
 We are aloud to use $dv=dx$
 
-#math  #integration
+#math/integration
+

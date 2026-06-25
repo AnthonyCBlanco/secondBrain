@@ -88,5 +88,5 @@ $$
 - [[The Chain Rule]]
 - [[The Derivative]]
 
+#math/calculus #math/derivatives
 
-#calculus #derivatives

@@ -41,4 +41,5 @@ $$
 \int \vec{r}(t)dt= \langle \int f(t)dt, \int g(t)dt \rangle
 $$
 
-#math/calculus #summer2026 #math/vectors
+#math/calculus #math/vectors #summer2026
+

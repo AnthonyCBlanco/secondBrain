@@ -58,4 +58,5 @@ As $$h \to 0$$, the expression approaches $$2x$$, which is the **derivative** of
 
 ---
 
-#math #calculus #differencequotient #derivative #limits
+#math/calculus #math/derivative #math/difference-quotient #math/limits
+

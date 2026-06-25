@@ -129,4 +129,5 @@ $$
 
 ---
 
-#math #complex #imaginary #algebra #number_theory
+#math/algebra #math/complex #math/imaginary #math/number-theory
+

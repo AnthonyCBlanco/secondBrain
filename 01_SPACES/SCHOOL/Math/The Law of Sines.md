@@ -19,4 +19,5 @@ The ratio of the length of the side of any triangle to the sine of the angle opp
 
 ### Formally
 
-#math #trigonometry 
+#math/trigonometry
+

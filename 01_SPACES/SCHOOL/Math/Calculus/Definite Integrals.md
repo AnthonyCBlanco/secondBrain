@@ -54,4 +54,5 @@ Thus, the area under the curve $y = x^2$ from 0 to 2 is $\frac{8}{3}$ square uni
 
 ---
 
-#math #calculus #integrals
+#math/calculus #math/integrals
+

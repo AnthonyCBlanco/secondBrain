@@ -157,4 +157,5 @@ $$
 
 ---
 
-#physics #mechanics #equilibrium
+#physics/equilibrium #physics/mechanics
+

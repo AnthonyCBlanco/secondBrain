@@ -98,10 +98,6 @@ $$
 
 ---
 
-#math #parametric #trigonometry #conic-sections
-
----
-
 #### Tip:
 
 When solving for $t$, try to isolate $t$ in the **simpler** equation (usually the one that doesn’t involve square roots or multiple terms).
@@ -118,4 +114,5 @@ When solving for $t$, try to isolate $t$ in the **simpler** equation (usually th
 
 ---
 
-#math #trigonometry #parametric #unit-circle #graphing
+#math/conic-sections #math/graphing #math/parametric #math/trigonometry #math/unit-circle
+

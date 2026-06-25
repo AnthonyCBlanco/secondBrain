@@ -110,4 +110,5 @@ These laws form the foundation of celestial mechanics and are essential for unde
 
 ---
 
-#physics #astronomy #mechanics #gravitation
+#physics/astronomy #physics/gravitation #physics/mechanics
+

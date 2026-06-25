@@ -133,4 +133,5 @@ $$
 
 ---
 
-#math #calculus #integration #indefiniteintegrals
+#math/calculus #math/indefinite-integrals #math/integration
+

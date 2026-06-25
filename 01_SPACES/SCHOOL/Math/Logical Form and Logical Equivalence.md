@@ -39,5 +39,5 @@ $$
 
 ![[logical-equ.png]]
 
+#math/booleanlogic #math/compsci #math/discrete-structures
 
-#math #compsci #discrete-structures #booleanlogic

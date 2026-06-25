@@ -32,4 +32,5 @@ For inverse cotangent $-\frac{\pi}{2}$ to $\frac{\pi}{2}$
 
 ### Formally
 
-#math #trigonometry
+#math/trigonometry
+

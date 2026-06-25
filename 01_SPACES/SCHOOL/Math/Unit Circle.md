@@ -62,4 +62,5 @@ $$
 
 ![[Unit-circle (1).png]]
 
-#math #trigonometry
+#math/trigonometry
+

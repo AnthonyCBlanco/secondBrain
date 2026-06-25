@@ -14,5 +14,5 @@ $$
 
 $$
 
-#math #trigonometry
+#math/trigonometry
 

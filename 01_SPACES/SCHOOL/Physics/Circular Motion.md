@@ -153,4 +153,5 @@ $$
 
 ---
 
-#physics #mechanics #circularmotion #forces #kinematics
+#physics/circular-motion #physics/forces #physics/kinematics #physics/mechanics
+

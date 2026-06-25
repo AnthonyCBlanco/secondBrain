@@ -29,4 +29,5 @@ $$
 \frac{12\pi}{3}-\frac{6\pi}{3}=\frac{6\pi}{3}
 $$
 
-#math #trigonometry
+#math/trigonometry
+

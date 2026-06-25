@@ -158,4 +158,5 @@ $$
 
 ---
 
-#physics #mechanics #energy #work #conservationofenergy
+#physics/conservation-of-energy #physics/energy #physics/mechanics #physics/work
+

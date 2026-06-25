@@ -73,5 +73,5 @@ Finding the area under a curve using increasing smaller rectangles
 - [[The Derivative|Derivatives]] — the mathematics of slopes and rates of change  
 - [[Integrals]] — the mathematics of accumulation and area  
 
+#math/calculus #math/derivatives #math/integral
 
-#math #calculus #derivatives #integral

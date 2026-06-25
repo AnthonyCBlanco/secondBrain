@@ -57,4 +57,5 @@ $$
 x^2 + bx + c \quad \text{(can’t)}
 $$
 
-#math #algebra 
+#math/algebra
+

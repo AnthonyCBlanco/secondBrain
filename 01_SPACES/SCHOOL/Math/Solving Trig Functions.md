@@ -5,4 +5,5 @@ We can find or make and equation of every solution then we can easily find and d
 
 ### Formally
 
-#math #trigonometry 
+#math/trigonometry
+

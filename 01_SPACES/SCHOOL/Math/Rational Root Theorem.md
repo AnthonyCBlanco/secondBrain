@@ -59,4 +59,5 @@ Test each using [[Synthetic Division]] or plug into $f(x)$ to find actual roots.
 
 ---
 
-#math #algebra #polynomials #roots #theorem
+#math/algebra #math/polynomials #math/roots #math/theorem
+

@@ -67,4 +67,5 @@ $$
 
 ---
 
-#math #polynomials #algebra #division #zeros
+#math/algebra #math/division #math/polynomials #math/zeros
+

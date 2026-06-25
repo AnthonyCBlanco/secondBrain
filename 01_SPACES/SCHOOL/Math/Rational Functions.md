@@ -78,4 +78,5 @@ Determined by comparing the **degree** of numerator ($n$) and denominator ($m$):
 
 ---
 
-#math #precalc #calculus #limits 
+#math/calculus #math/limits #math/precalc
+

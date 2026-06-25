@@ -70,4 +70,5 @@ This does **not** mean the limit exists in the traditional sense; instead, it de
 
 ---
 
-#math #calculus #limits #asymptotes
+#math/asymptotes #math/calculus #math/limits
+

@@ -82,4 +82,5 @@ When solving real-world problems:
 
 ---
 
-#math #algebra #systems #equations #linear
+#math/algebra #math/equations #math/linear #math/systems
+

@@ -97,4 +97,6 @@ $$
 \Delta  \vec{v} = \vec{v_{2}} -\vec{v_{1}}
 $$
 [[Vectors In Physics]]
-#math #trigonometry #vectors #physics
+
+#math/trigonometry #math/vectors #physics
+

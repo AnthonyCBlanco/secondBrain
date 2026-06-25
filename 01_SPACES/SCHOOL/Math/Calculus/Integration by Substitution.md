@@ -163,4 +163,5 @@ $$
 
 ---
 
-#math #calculus #integration #substitution
+#math/calculus #math/integration #math/substitution
+

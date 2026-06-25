@@ -40,4 +40,5 @@ So:
 
 ---
 
-#math #trigonometry #polar
+#math/polar #math/trigonometry
+

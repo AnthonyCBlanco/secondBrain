@@ -165,4 +165,5 @@ $$
 
 ---
 
-#physics #mechanics #rotation #energy #dynamics
+#physics/dynamics #physics/energy #physics/mechanics #physics/rotation
+

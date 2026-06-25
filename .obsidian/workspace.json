@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_SYSTEM/AGENT.md",
+                "file": "01_SPACES/SCHOOL/Math/Math MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AGENT"
+              "title": "Math MOC"
             }
           }
         ],
@@ -255,9 +255,18 @@
   },
   "active": "56ca715308e27f60",
   "lastOpenFiles": [
-    "01_SPACES/SCHOOL/Math/Calculus/Multivariable Chain Rule.md",
-    "00_SYSTEM/AGENT.md",
+    "01_SPACES/SCHOOL/Math/Calculus/attachments/Pasted image 20260617172021.png",
+    "01_SPACES/SCHOOL/Math/Calculus/attachments/Pasted image 20260617172011.png",
+    "01_SPACES/SCHOOL/Math/Calculus/Integration and Differentiation of Logarithmic Functions.md",
+    "01_SPACES/SCHOOL/Math/Calculus/Calculus of Vector-Valued Functions.md",
+    "01_SPACES/SCHOOL/Math/Parametric Equations and Plane Curves.md",
+    "00_SYSTEM/skills/tagformatter.md",
+    "00_SYSTEM/skills/Examples/Multivariable Functions 1.md",
     "01_SPACES/SCHOOL/Math/Calculus/Multivariable Functions.md",
+    "00_SYSTEM/skills/Examples",
+    "00_SYSTEM/AGENT.md",
+    "00_SYSTEM/skills",
+    "01_SPACES/SCHOOL/Math/Calculus/Multivariable Chain Rule.md",
     "01_SPACES/SCHOOL/SEMESTERS/SUMMER 2026.md",
     "01_SPACES/SCHOOL/School MOC.md",
     "03_ATLAS/HOME.md",
@@ -279,29 +288,20 @@
     "00_SYSTEM/attachments/Pasted image 20250306161254.png",
     "00_SYSTEM/attachments/Pasted image 20250421092617.png",
     "00_SYSTEM/attachments/Pasted image 20250226104534.png",
-    "00_SYSTEM/attachments/Pasted image 20250226104210.png",
     "00_SYSTEM/templates/Chem Template.md",
     "00_SYSTEM/templates/Physics Template.md",
     "00_SYSTEM/templates/Math template.md",
     "01_SPACES/SCHOOL/Math/Math MOC.md",
     "00_SYSTEM/templates/Untitled.base",
     "01_SPACES/SCHOOL/Math/Calculus/The Calculus of Motion.md",
-    "01_SPACES/SCHOOL/Math/Calculus/Partial Derivative.md",
-    "01_SPACES/SCHOOL/Math/Calculus/Continuity and Limits.md",
-    "01_SPACES/SCHOOL/Math/Calculus/Limits.md",
-    "01_SPACES/SCHOOL/Math/Partial Fractions.md",
-    "01_SPACES/SCHOOL/Math/Calculus/Vector Valued Functions.md",
     "01_SPACES/SCHOOL/Math/Calculus/Untitled.base",
     "01_SPACES/SCHOOL/Math/Calculus/attachments",
-    "01_SPACES/SCHOOL/Math/Lines in Space.md",
     "01_SPACES/PROJECTS/NASA CAGSC(HEAT MAPPING)/Untitled.canvas",
     "03_ATLAS/Untitled.base",
     "01_SPACES/SCHOOL/Math/Untitled.base",
     "01_SPACES/SCHOOL/Math/Pre-Calculus",
     "01_SPACES/SCHOOL/Math/Linear Algebra",
     "01_SPACES/SCHOOL/Math/Calculus",
-    "01_SPACES/SCHOOL/SEMESTERS",
-    "01_SPACES/PROJECTS/NASA CAGSC(HEAT MAPPING)",
     "Untitled.canvas"
   ]
 }

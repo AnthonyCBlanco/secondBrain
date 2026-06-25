@@ -42,4 +42,5 @@ Velocity ($\vec{v}$) $\implies \text{speed} \implies \text{magnitude of velocity
 
 ---
 
-#physics #vectors #trigonometry
+#math/trigonometry #math/vectors #physics
+

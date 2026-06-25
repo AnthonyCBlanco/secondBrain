@@ -62,4 +62,5 @@ $$(1101)_2 = 1\cdot2^3 + 1\cdot2^2 + 0\cdot2^1 + 1\cdot2^0 = 8 + 4 + 0 + 1 = 13$
 
 ---
 
-#math #compsci #numbersystems #discrete-structures
+#math/compsci #math/discrete-structures #math/number-systems
+

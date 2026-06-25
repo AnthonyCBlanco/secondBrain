@@ -14,3 +14,4 @@ The **period** is how long it take for it to cycle all it's values
 ### Formally
 
 #math
+

@@ -35,6 +35,5 @@ $$
 \vec{d} = \vec{r}(t_{1})-\vec{r}(t_{0})
 $$
 
+#math/calculus #math/vectors #summer2026
 
-
-#math/calculus #summer2026 #math/vectors

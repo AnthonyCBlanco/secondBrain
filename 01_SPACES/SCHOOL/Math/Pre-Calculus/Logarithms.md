@@ -86,4 +86,5 @@ $$
 
 ---
 
-#math #algebra #logs #precalc #trigonometry
+#math/algebra #math/logs #math/precalc #math/trigonometry
+

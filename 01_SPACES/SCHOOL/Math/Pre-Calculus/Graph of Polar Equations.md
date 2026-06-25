@@ -98,4 +98,5 @@ $r = a(1 \pm \cos\theta)$ or $r = a(1 \pm \sin\theta)$
 
 ---
 
-#math #trigonometry #polar #conversion #graphing
+#math/conversion #math/graphing #math/polar #math/trigonometry
+

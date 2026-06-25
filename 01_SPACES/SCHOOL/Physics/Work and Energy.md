@@ -167,4 +167,5 @@ $$
 
 ---
 
-#physics #mechanics #energy #work #power
+#physics/energy #physics/mechanics #physics/power #physics/work
+

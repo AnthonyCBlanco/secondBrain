@@ -22,4 +22,5 @@ $$
 
 ### Formally
 
-#math #trigonometry
+#math/trigonometry
+
