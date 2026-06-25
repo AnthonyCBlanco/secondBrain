@@ -1,0 +1,24 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Obsidian specific
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-*
+
+# Obsidian trash
+.trash/
+
+# AI / Agent folders (Optional: uncomment if you want to ignore these)
+# .agents/
+# .claude/
+# .claudian/
+# .smart-env/
