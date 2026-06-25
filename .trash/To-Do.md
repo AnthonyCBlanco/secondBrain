@@ -1,2 +1,0 @@
-- Tinker CAD Whole Project Design 
-- Tinker CAD 

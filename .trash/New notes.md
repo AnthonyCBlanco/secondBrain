@@ -1,6 +1,0 @@
----
-cssclasses:
-aliases:
-tags:
-date:
----
