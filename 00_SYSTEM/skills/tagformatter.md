@@ -23,3 +23,5 @@ You are tasked with standardizing tags for all Markdown files in this vault. Fol
 
 3. **Verify and Preview**:
    - Show the user a preview of the changes (diffs) for a few sample files before applying them vault-wide.
+
+#private

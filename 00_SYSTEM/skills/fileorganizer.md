@@ -40,3 +40,4 @@ For each file, read its content, tags, title, and metadata to classify it:
 - After receiving approval, move the files to their target destinations.
 - Automatically create any necessary parent/subdirectories.
 - Ensure that any Obsidian internal Wikilinks (`[[Note Name]]`) remain intact and functional.
+#private

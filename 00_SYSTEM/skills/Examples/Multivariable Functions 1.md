@@ -73,5 +73,5 @@ Once we understand the behavior of these functions, we can look at how they chan
 - [[Planes in Space]]
 - [[Lines in Space]]
 
-#math/calculus #summer2026
+#private
 
