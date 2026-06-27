@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm install --prefix quartz-site && node sync_and_build.js && cd quartz-site && npx quartz build",
+  "outputDirectory": "quartz-site/public",
+  "framework": null
+}
