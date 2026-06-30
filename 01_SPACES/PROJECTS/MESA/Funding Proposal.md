@@ -65,13 +65,13 @@ Research into the MESA programs at Crafton Hills College, Riverside City College
 > **Compliance & Competitive Gap**
 > Without a dedicated space and matching support systems provided by neighboring institutions, SBVC students face higher out-of-pocket costs and lack the cohort environment needed for STEM success.
 
-### A. Dedicated MESA Centers (State Requirement)
+### A. Dedicated MESA Space (State Requirement)
 - **The Gap:** Crafton Hills, RCC, and LACC all feature dedicated, vibrant STEM/MESA Centers that foster study groups, mentorship, and a sense of belonging. 
 - **Current SBVC Status:** We lack this required, dedicated MESA student space.
 
 ### B. Direct Financial, Tech, and Material Relief
 - **The Gap:** LACC features a highly beneficial **MESA Textbook Lending Library**. Other campuses actively provide technology and material support. 
-- **Current SBVC Status:** SBVC lacks both a textbook lending library and a long-term laptop checkout system, which are massive incentives for student engagement.
+- **Current SBVC Status:** SBVC MESA lacks both a textbook lending library and a long-term laptop checkout system, which are massive incentives for student engagement.
 
 ### C. Academic Excellence Workshops (AEWs) & Robust Tutoring
 - **The Gap:** Neighboring colleges explicitly fund and emphasize AEWs—intensive, peer-led, major-specific collaborative learning workshops.
