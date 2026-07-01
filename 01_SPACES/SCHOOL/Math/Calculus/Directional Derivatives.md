@@ -1,5 +1,5 @@
 ### Idea
-While partial derivatives measure the rate of change of a function strictly along the $x$-axis or $y$-axis, **Directional Derivatives** generalize this concept. They allow us to find the rate of change of a multivariable function $z = f(x, y)$ in **any** given direction.
+While [[Partial Derivative|partial derivatives]] measure the rate of change of a function strictly along the $x$-axis or $y$-axis, **Directional Derivatives** generalize this concept. They allow us to find the rate of change of a [[Multivariable Functions|multivariable function]] $z = f(x, y)$ in **any** given direction.
 
 If you are standing on a hilly surface (represented by $f(x, y)$), the directional derivative tells you the slope of the hill if you were to walk in a specific direction $\vec{v}$.
 
@@ -49,5 +49,10 @@ Since $D_{\vec{u}} f = \nabla f \cdot \vec{u} = |\nabla f| |\vec{u}| \cos(\theta
 - **Maximum Rate of Change:** Occurs when $\theta = 0$ (moving in the exact same direction as the gradient). The maximum value is $|\nabla f|$.
 - **Minimum Rate of Change:** Occurs when $\theta = \pi$ (moving in the exact opposite direction of the gradient). The minimum value is $-|\nabla f|$.
 - **Zero Rate of Change:** Occurs when $\theta = \pi/2$ (moving perpendicular to the gradient, along a level curve).
+### Related
+- [[Partial Derivative]]
+- [[Multivariable Functions]]
+- [[Multivariable Chain Rule]]
+- [[The Derivative]]
 
 #math/calculus #summer2026
