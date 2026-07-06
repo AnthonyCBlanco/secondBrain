@@ -1,4 +1,4 @@
-### Idea
+**### Idea
 Using the chain rule with multivariable functions is similar but more complex. 
 In calculus 1 we learn that [[The Chain Rule]] is defined by:
 $$
