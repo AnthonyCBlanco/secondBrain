@@ -34,6 +34,23 @@ You must integrate with respect to $x$ first:
 $$
 \iint_R f(x, y) \, dA = \int_c^d \int_{h_1(y)}^{h_2(y)} f(x, y) \, dx \, dy
 $$
+### Integrating Using Polar Coordinates
+When the region of integration $R$ is circular (like a disk or a ring) or the integrand involves $x^2 + y^2$, it is often much easier to switch to **Polar Coordinates** $(r, \theta)$.
+
+**The Transformation:**
+To convert the integral, substitute every $x$ and $y$ with their polar equivalents:
+- $x = r \cos(\theta)$
+- $y = r \sin(\theta)$
+- $x^2 + y^2 = r^2$
+
+**The Area Element ($dA$):**
+The most critical step in the conversion is changing the area element $dA$. In polar coordinates, **$dA = r \, dr \, d\theta$**. You must multiply the integrand by this extra $r$ (the Jacobian determinant).
+
+**The Formula:**
+$$
+\iint_R f(x, y) \, dA = \int_{\alpha}^{\beta} \int_{h_1(\theta)}^{h_2(\theta)} f(r\cos\theta, r\sin\theta) \, r \, dr \, d\theta
+$$
+Here, $r$ spans from the inner boundary $h_1(\theta)$ to the outer boundary $h_2(\theta)$, and the angle $\theta$ spans from $\alpha$ to $\beta$.
 
 ### Example
 **Evaluate $\iint_R xy \, dA$ where $R$ is the rectangular region defined by $0 \le x \le 2$ and $1 \le y \le 3$.**
