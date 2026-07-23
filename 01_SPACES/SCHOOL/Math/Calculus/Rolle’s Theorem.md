@@ -1,8 +1,8 @@
 ### Idea
-Rolle’s Theorem is a special case of the **Mean Value Theorem (MVT)**.  
+Rolle’s Theorem is a special case of the **[[Mean Value Theorem]] (MVT)**.  
 It guarantees that for a smooth curve connecting two points with the same $y$-value, there exists at least one point where the **tangent line is horizontal** (slope = 0).  
 
-→ In other words, somewhere between two equal function values, the derivative must be **zero**.
+→ In other words, somewhere between two equal function values, [[The Derivative|the derivative]] must be **zero**.
 
 ---
 

@@ -123,7 +123,7 @@ $$
 
 ---
 
-#### 7. Chain Rule
+#### 7. [[Chain Rule]]
 If $y = f(g(x))$, then:  
 
 $$
@@ -166,7 +166,7 @@ $$
 - Describing instantaneous rates of change  
 - Analyzing motion in physics ($v(t) = s'(t)$, $a(t) = v'(t)$)  
 - Optimization problems  
-- Related rates  
+- [[Related Rates|Related rates]]  
 
 → [[Difference Quotient]]  
 → [[Limits]]  
@@ -175,5 +175,5 @@ $$
 
 ---
 
-#math/calculus #math/derivatives #math/limits
+#math/calculus #math/derivatives #math/[[Limits|limits]]
 

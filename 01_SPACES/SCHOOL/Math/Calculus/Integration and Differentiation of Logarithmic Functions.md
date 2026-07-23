@@ -1,14 +1,14 @@
 # Integration and Differentiation of Logarithmic Functions
 
-Logarithmic functions appear frequently in calculus, especially in problems involving growth, decay, and inverse functions.  
-This note summarizes how to **differentiate** and **integrate** logarithmic expressions, focusing on natural logarithms $ \ln(x) $, their properties, and related forms.
+Logarithmic functions appear frequently in calculus, especially in problems involving growth, decay, and [[Inverse Functions|inverse functions]].  
+This note summarizes how to **differentiate** and **integrate** logarithmic expressions, focusing on natural [[Logarithms|logarithms]] $ \ln(x) $, their properties, and related forms.
 
 ---
 
 ### Idea
 
 Logarithmic functions provide a convenient way to represent inverse exponential behavior.  
-Their derivatives and integrals follow predictable patterns based on the chain rule and substitution method.
+Their derivatives and integrals follow predictable patterns based on [[The Chain Rule|the chain rule]] and substitution method.
 
 The natural logarithm $\ln(x)$ is the most commonly used because it simplifies many expressions involving derivatives and integrals.
 
@@ -26,7 +26,7 @@ $$
 
 ---
 
-### **Log of a Function (Chain Rule)**
+### **Log of a Function ([[Chain Rule]])**
 
 If $u = u(x)$:
 
@@ -94,7 +94,7 @@ $$
 
 ### **Integral of $\ln(x)$**
 
-Use integration by parts:
+Use [[Integration By Parts|integration by parts]]:
 
 $$
 \int \ln(x)\, dx = x\ln(x) - x + C
@@ -127,7 +127,7 @@ $$
 \int x\ln(x)\, dx
 $$
 
-Use integration by parts:
+Use [[Integration By Parts|integration by parts]]:
 
 $$
 \int x\ln(x)\, dx = \frac{x^2}{2}\ln(x) - \frac{x^2}{4} + C
@@ -165,7 +165,7 @@ $$
 \int \ln(2x)\, dx
 $$
 
-Use integration by parts:
+Use [[Integration By Parts|integration by parts]]:
 
 $$
 x\ln(2x) - x + C
@@ -178,9 +178,9 @@ $$
 | Concept                | Formula                                     | Meaning                  |       |                      |
 | ---------------------- | ------------------------------------------- | ------------------------ | ----- | -------------------- |
 | Derivative of $\ln(x)$ | $\frac{1}{x}$                               | Basic log derivative     |       |                      |
-| Chain Rule             | $\frac{d}{dx}\ln(u) = \frac{u'}{u}$         | Log of a function        |       |                      |
+| [[Chain Rule]]             | $\frac{d}{dx}\ln(u) = \frac{u'}{u}$         | Log of a function        |       |                      |
 | Change of Base         | $\frac{d}{dx}\log_a(x) = \frac{1}{x\ln(a)}$ | Non-natural logs         |       |                      |
-| Integral of $\ln(x)$   | $x\ln(x)-x+C$                               | Via integration by parts |       |                      |
+| Integral of $\ln(x)$   | $x\ln(x)-x+C$                               | Via [[Integration By Parts|integration by parts]] |       |                      |
 | Integral of $1/x$      | $\ln$                                       | $x$                      | $+ C$ | Basic antiderivative |
 
 ---

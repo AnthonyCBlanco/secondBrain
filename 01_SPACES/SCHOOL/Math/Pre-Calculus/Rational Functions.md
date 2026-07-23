@@ -73,10 +73,10 @@ Determined by comparing the **degree** of numerator ($n$) and denominator ($m$):
 ### Applications
 
 - Useful in **modeling ratios** and rates of change  
-- Key in studying **limits**, **asymptotes**, and **continuity**  
-- Appear in **partial fractions** and **integration techniques** (advanced topics)  
+- Key in studying **[[Limits|limits]]**, **asymptotes**, and **continuity**  
+- Appear in **[[Partial Fractions|partial fractions]]** and **integration techniques** (advanced topics)  
 
 ---
 
-#math/calculus #math/limits #math/precalc
+#math/calculus #math/[[Limits|limits]] #math/precalc
 

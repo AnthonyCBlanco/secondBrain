@@ -25,7 +25,7 @@ If you know a 2D field $\vec{F} = \langle P, Q \rangle$ is conservative, you can
    $$ f(x, y) = \int P \, dx + g(y) $$
    *Note: Because you are partially integrating with respect to $x$, the "constant of integration" is not a number $C$, but an unknown function $g(y)$ that depends entirely on $y$.*
 3. **Differentiate with respect to $y$:**
-   Take your new $f(x, y)$ equation and take the partial derivative with respect to $y$. 
+   Take your new $f(x, y)$ equation and take the [[Partial Derivative|partial derivative]] with respect to $y$. 
 4. **Set equal to $Q$:**
    Set that derivative equal to your original $Q$ component. This will allow you to solve for $g'(y)$.
 5. **Integrate $g'(y)$ to find $g(y)$:**
@@ -35,8 +35,8 @@ If you know a 2D field $\vec{F} = \langle P, Q \rangle$ is conservative, you can
 
 *(This exact same process applies to 3D fields, but you have an extra component $R$ and a $+ h(y, z)$ constant function to solve for).*
 
-### The Fundamental Theorem of Line Integrals
-The most powerful reason we care about conservative fields is because they make line integrals incredibly easy. If $\vec{F}$ is a conservative field with potential function $f$, then the line integral over any curve $C$ from point $A$ to point $B$ is completely **path independent**:
+### The Fundamental Theorem of [[Line Integrals]]
+The most powerful reason we care about conservative fields is because they make [[Line Integrals|line integrals]] incredibly easy. If $\vec{F}$ is a conservative field with potential function $f$, then the line integral over any curve $C$ from point $A$ to point $B$ is completely **path independent**:
 $$
 \int_C \vec{F} \cdot d\vec{r} = \int_C \nabla f \cdot d\vec{r} = f(B) - f(A)
 $$

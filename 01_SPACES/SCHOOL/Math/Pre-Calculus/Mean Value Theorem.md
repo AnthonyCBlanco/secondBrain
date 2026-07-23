@@ -1,7 +1,7 @@
 # Mean Value Theorem (MVT)
 
 ### Idea
-The **Mean Value Theorem** connects the **average rate of change** of a function over an interval with its **instantaneous rate of change** (the derivative) at some point within that interval.
+The **Mean Value Theorem** connects the **average rate of change** of a function over an interval with its **instantaneous rate of change** ([[The Derivative|the derivative]]) at some point within that interval.
 
 In simple terms, there is at least one point on a smooth curve where the **tangent line** is **parallel** to the **secant line** joining the endpoints.
 
@@ -25,7 +25,7 @@ $$
 ### Geometric Interpretation
 
 - The term $\frac{f(b) - f(a)}{b - a}$ is the **slope of the secant line** between $(a, f(a))$ and $(b, f(b))$.  
-- Rolle’s Theorem is a **special case** where $f(a) = f(b)$, making that slope equal to **zero**.  
+- [[Rolle’s Theorem]] is a **special case** where $f(a) = f(b)$, making that slope equal to **zero**.  
 
 So MVT says:  
 > There is at least one point where the **instantaneous slope (tangent)** equals the **average slope** over $[a,b]$.
@@ -107,7 +107,7 @@ s'(t) = v(t)
 $$  
 
 By the MVT:  
-> There exists a time $t = c$ where the **instantaneous velocity** equals the **average velocity** over $[t_1, t_2]$.
+> There exists a time $t = c$ where the **[[Instantaneous Velocity|instantaneous velocity]]** equals the **average velocity** over $[t_1, t_2]$.
 
 $$
 v(c) = \frac{s(t_2) - s(t_1)}{t_2 - t_1}
@@ -115,9 +115,9 @@ $$
 
 ---
 
-### Relationship to Rolle’s Theorem
+### Relationship to [[Rolle’s Theorem]]
 
-Rolle’s Theorem is a **special case** of the Mean Value Theorem:  
+[[Rolle’s Theorem]] is a **special case** of the Mean Value Theorem:  
 If $f(a) = f(b)$, then the average rate of change is **zero**, and MVT reduces to:  
 
 $$
@@ -132,7 +132,7 @@ $$
 
 | Theorem | Conditions | Result |
 |----------|-------------|--------|
-| **Rolle’s Theorem** | Continuous on $[a,b]$, differentiable on $(a,b)$, and $f(a)=f(b)$ | $\exists c$ s.t. $f'(c)=0$ |
+| **[[Rolle’s Theorem]]** | Continuous on $[a,b]$, differentiable on $(a,b)$, and $f(a)=f(b)$ | $\exists c$ s.t. $f'(c)=0$ |
 | **Mean Value Theorem** | Continuous on $[a,b]$, differentiable on $(a,b)$ | $\exists c$ s.t. $f'(c)=\frac{f(b)-f(a)}{b-a}$ |
 
 ---

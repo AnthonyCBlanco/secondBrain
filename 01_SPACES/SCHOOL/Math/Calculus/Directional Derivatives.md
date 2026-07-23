@@ -10,21 +10,21 @@ D_{\vec{u}} f(x_0, y_0) = \lim_{h \to 0} \frac{f(x_0 + ah, y_0 + bh) - f(x_0, y_
 $$
 
 ### Computation Using the Gradient
-Using the limit definition is tedious. Thankfully, if $f$ is a differentiable function, we can compute the directional derivative easily using the **Gradient Vector** ($\nabla f$):
+Using the limit definition is tedious. Thankfully, if $f$ is a differentiable function, we can compute the directional derivative easily using the **[[Gradient Vector]]** ($\nabla f$):
 
 $$
 D_{\vec{u}} f(x, y) = \nabla f(x, y) \cdot \vec{u}
 $$
 
 **Important Steps:**
-1. Find the gradient vector: $\nabla f = \langle f_x, f_y \rangle$.
+1. Find the [[Gradient Vector|gradient vector]]: $\nabla f = \langle f_x, f_y \rangle$.
 2. Ensure your direction vector is a **unit vector**. If you are given a vector $\vec{v}$ that is not a unit vector, you must normalize it: $\vec{u} = \frac{\vec{v}}{|\vec{v}|}$.
-3. Take the dot product of the gradient and the unit vector.
+3. Take the [[Dot Product|dot product]] of the gradient and the unit vector.
 
 ### Example
 **Find the directional derivative of $f(x, y) = x^2y$ at the point $(1, 2)$ in the direction of $\vec{v} = \langle 3, 4 \rangle$.**
 
-1. **Find the gradient vector:**
+1. **Find the [[Gradient Vector|gradient vector]]:**
    $f_x = 2xy$
    $f_y = x^2$
    $\nabla f(x,y) = \langle 2xy, x^2 \rangle$
@@ -36,7 +36,7 @@ $$
    The magnitude of $\vec{v}$ is $|\vec{v}| = \sqrt{3^2 + 4^2} = \sqrt{25} = 5$.
    So, $\vec{u} = \frac{1}{5}\langle 3, 4 \rangle = \langle \frac{3}{5}, \frac{4}{5} \rangle$.
 
-4. **Compute the dot product:**
+4. **Compute the [[Dot Product|dot product]]:**
    $$
    D_{\vec{u}} f(1, 2) = \nabla f(1, 2) \cdot \vec{u} = \langle 4, 1 \rangle \cdot \langle \frac{3}{5}, \frac{4}{5} \rangle
    $$

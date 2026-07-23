@@ -14,14 +14,14 @@ Once you know a **zero** (say, $x = c$), you can divide the polynomial by $(x - 
 
 ### Steps
 
-1. **Use the Rational Root Theorem** to list possible rational roots.  
+1. **Use the [[Rational Root Theorem]]** to list possible rational roots.  
    → [[Rational Root Theorem]]
 
 2. **Test a root** by substitution or synthetic division.
 
 3. **If it works** (remainder is 0), then:
    - $(x - r)$ is a factor
-   - Use **polynomial division** (long or synthetic) to divide the polynomial
+   - Use **[[Polynomial Division|polynomial division]]** (long or synthetic) to divide the polynomial
 
 4. **Repeat** the process with the quotient polynomial.
 

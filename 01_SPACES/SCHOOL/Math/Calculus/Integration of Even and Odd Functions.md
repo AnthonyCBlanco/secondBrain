@@ -1,6 +1,6 @@
 ### Idea
 Many integrals become much easier to evaluate when the integrand has **symmetry**.  
-Functions that are **even** or **odd** exhibit predictable behavior over symmetric intervals, and this allows us to simplify definite integrals drastically.
+Functions that are **even** or **odd** exhibit predictable behavior over symmetric intervals, and this allows us to simplify [[Definite Integrals|definite integrals]] drastically.
 
 Understanding these symmetry properties helps avoid unnecessary computation.
 

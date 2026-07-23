@@ -17,7 +17,7 @@ $$
 
 We can talk about range and domain for vector valued functions the same way we do with real values functions 
  - The ***domain*** of $\vec{r}$ is the set of all values of $t$ for which $\vec{r}(t)$ is defined.
- - The ***range*** of $\vec{r}$ is the set of all possible output vectors $\vec{r}(t)$.
+ - The ***range*** of $\vec{r}$ is the set of all possible output [[Vectors|vectors]] $\vec{r}(t)$.
 
 ### Formally
 
@@ -35,5 +35,5 @@ $$
 \vec{d} = \vec{r}(t_{1})-\vec{r}(t_{0})
 $$
 
-#math/calculus #math/vectors #summer2026
+#math/calculus #math/[[Vectors|vectors]] #summer2026
 

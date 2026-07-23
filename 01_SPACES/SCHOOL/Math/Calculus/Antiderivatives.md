@@ -1,9 +1,9 @@
 ### Idea
 
 An **antiderivative** is the reverse process of taking a derivative.  
-While the derivative measures the **rate of change** of a function, the antiderivative finds the **original function** whose derivative is known.  
+While [[The Derivative|the derivative]] measures the **rate of change** of a function, the antiderivative finds the **original function** whose derivative is known.  
 
-Antiderivatives form the foundation of **integration** and the **Fundamental Theorem of Calculus**.
+Antiderivatives form the foundation of **integration** and the **[[Fundamental Theorem of Calculus]]**.
 
 ---
 
@@ -74,7 +74,7 @@ $$
    $$\int [f(x) \pm g(x)] \, dx = \int f(x) \, dx \pm \int g(x) \, dx$$
 
 3. **Derivative Check**  
-   The derivative of an antiderivative returns the original function:  
+   [[The Derivative|The derivative]] of an antiderivative returns the original function:  
    $$\frac{d}{dx}\left( \int f(x) \, dx \right) = f(x)$$
 
 ---
@@ -104,7 +104,7 @@ $$
 
 - The antiderivative is the **reverse** of differentiation.  
 - There are **infinitely many** antiderivatives of a given function, differing only by a constant $C$.  
-- The process is often called **indefinite integration**.  
+- The process is often called **[[Indefinite Integration|indefinite integration]]**.  
 - Antiderivatives are essential in computing **areas**, **displacement**, and **accumulated change** in physics and engineering.
 
 ---

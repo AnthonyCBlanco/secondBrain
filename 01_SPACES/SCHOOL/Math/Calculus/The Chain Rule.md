@@ -1,16 +1,16 @@
-# The Chain Rule
+# The [[Chain Rule]]
 
 ### Idea
 
-The **Chain Rule** is used to differentiate a **composition of functions**.  
-If $y = f(g(x))$, then the derivative is:
+The **[[Chain Rule]]** is used to differentiate a **composition of functions**.  
+If $y = f(g(x))$, then [[The Derivative|the derivative]] is:
 
 $$
 \frac{dy}{dx} = f'(g(x)) \cdot g'(x)
 $$
 
 In words:  
-> Differentiate the **outer function**, keep the inner function unchanged, then multiply by the derivative of the **inner function**.
+> Differentiate the **outer function**, keep the inner function unchanged, then multiply by [[The Derivative|the derivative]] of the **inner function**.
 
 ---
 
@@ -27,7 +27,7 @@ $$
 ### Step-by-Step Process
 1. Identify the **outer function** and the **inner function**.  
 2. Differentiate the outer function (leave the inner part intact).  
-3. Multiply by the derivative of the inner function.  
+3. Multiply by [[The Derivative|the derivative]] of the inner function.  
 
 ---
 
@@ -75,7 +75,7 @@ $$
 
 ---
 
-### Extended Chain Rule
+### Extended [[Chain Rule]]
 
 If we have multiple nested functions:  
 $$
@@ -91,7 +91,7 @@ $$
 ---
 
 ### Graphical / Conceptual View
-- The **chain rule** expresses how a small change in $x$ affects $u$, and how a change in $u$ affects $y$.  
+- The **[[Chain Rule|chain rule]]** expresses how a small change in $x$ affects $u$, and how a change in $u$ affects $y$.  
 - Multiplying the rates gives the total rate of change.  
 
 ---

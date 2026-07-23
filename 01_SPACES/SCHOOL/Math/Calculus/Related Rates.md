@@ -5,7 +5,7 @@ Related rates problems involve finding how two or more **quantities that change 
 
 They often require:  
 - Differentiating equations **implicitly with respect to time ($t$)**.  
-- Applying the **Chain Rule**.  
+- Applying the **[[Chain Rule]]**.  
 - Plugging in known values to solve for the desired rate.  
 
 See also → [[The Derivative]], [[Implicit Differentiation]], [[The Chain Rule]]  
@@ -151,7 +151,7 @@ $$
 
 ### Key Notes
 - Always **relate variables before differentiating** (using geometry/algebra if needed).  
-- Use the **chain rule** when differentiating with respect to time.  
+- Use the **[[Chain Rule|chain rule]]** when differentiating with respect to time.  
 - Watch for **signs**: positive means increasing, negative means decreasing.  
 
 ---

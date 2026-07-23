@@ -71,11 +71,11 @@ f(x) = \frac{1}{x}
 $$  
 
 - $f(0)$ is **undefined**  
-- $\lim_{x \to 0} f(x)$ does not exist (left- and right-hand limits go to $\pm \infty$)  
+- $\lim_{x \to 0} f(x)$ does not exist (left- and right-hand [[Limits|limits]] go to $\pm \infty$)  
 
 Therefore, $f$ is **not continuous** at $x = 0$.  
 
 ---
 
-#math/calculus #math/limits #math/precalc
+#math/calculus #math/[[Limits|limits]] #math/precalc
 

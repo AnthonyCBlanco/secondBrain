@@ -1,5 +1,5 @@
 ### Idea
-Just as we find maximums and minimums of single-variable functions to solve optimization problems, we can optimize multivariable functions $z = f(x, y)$. This involves locating local extrema (peaks and valleys) and saddle points.
+Just as we find maximums and minimums of single-variable functions to solve optimization problems, we can optimize [[Multivariable Functions|multivariable functions]] $z = f(x, y)$. This involves locating local extrema (peaks and valleys) and saddle points.
 
 ### Finding Critical Points
 The first step in finding local extrema is to locate the **critical points**. For a function $f(x, y)$, a point $(a, b)$ is a critical point if:
@@ -28,7 +28,7 @@ Evaluate $D$ at the point $(a, b)$:
 ### Absolute Extrema on a Closed Domain
 To find the absolute maximum and absolute minimum of a continuous function on a closed and bounded set $D$:
 1. Find the values of $f$ at all critical points *inside* $D$.
-2. Find the maximum and minimum values of $f$ on the *boundary* of $D$ (this usually involves turning the boundary into a single-variable function or using Lagrange Multipliers).
+2. Find the maximum and minimum values of $f$ on the *boundary* of $D$ (this usually involves turning the boundary into a single-variable function or using [[Lagrange Multipliers]]).
 3. Compare all the values found in steps 1 and 2. The largest is the absolute maximum; the smallest is the absolute minimum.
 
 ### Related

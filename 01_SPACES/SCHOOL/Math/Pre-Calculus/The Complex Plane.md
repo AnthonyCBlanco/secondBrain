@@ -20,7 +20,7 @@ $$
 
 $|z| =|a+bi|=\sqrt{ a^2+b^2 }$ 
 
-We just used the [[Distance Formula]] or find the [[Vectors|Magnitude]] from vectors
+We just used the [[Distance Formula]] or find the [[Vectors|Magnitude]] from [[Vectors|vectors]]
 
 ### Polar Form of a Complex Number
 
@@ -34,29 +34,29 @@ Where $a=r\cos\theta$ and $b=i\sin\theta$
 Value of Z is called the modulus and Angle $\theta$ is called argument
 When solving for complex number in polar form always consider the quadrants the angle lies in
 
-##### Multiplying complex numbers 
+##### Multiplying [[Complex Numbers|complex numbers]] 
 
-Let $z_{1}=r_{1}(\cos\theta_{1}+i\sin\theta_{1})$ and $z_{2}=r_{2}(\cos\theta_{2}+i\sin\theta_{2})$ be two complex numbers in polar form. The product is $z_{1}z_{2}$ 
+Let $z_{1}=r_{1}(\cos\theta_{1}+i\sin\theta_{1})$ and $z_{2}=r_{2}(\cos\theta_{2}+i\sin\theta_{2})$ be two [[Complex Numbers|complex numbers]] in polar form. The product is $z_{1}z_{2}$ 
 $$
 z_{1}z_{2}=r_{1}r_{2}[\cos(\theta_{1}+\theta_{2})+i\sin(\theta_{1}+\theta_{2})]
 $$
-The product of two complex numbers: multiply the moduli and add the arguments 
+The product of two [[Complex Numbers|complex numbers]]: multiply the moduli and add the arguments 
 
-##### Dividing Complex Numbers
+##### Dividing [[Complex Numbers]]
 
 $$
 \frac{z_{1}}{z_{2}}= \frac{r_{1}}{r_{2}}[\cos(\theta_{1}-\theta_{2})+i\sin(\theta_{1}-\theta_{2})]
 $$
 
-To divide two complex numbers in polar form: divide the moduli and subtract the arguments
+To divide two [[Complex Numbers|complex numbers]] in polar form: divide the moduli and subtract the arguments
 
-##### Raising Complex Numbers to a Power
+##### Raising [[Complex Numbers]] to a Power
 $$
 z^n=r^n(\cos(n\theta)+i\sin(n\theta))
 $$
 $n$ is just what ever power you want to raise it to
 
-##### Rooting Complex Numbers 
+##### Rooting [[Complex Numbers]] 
 In Radians$$
 z_{k}=\sqrt{ r}\left[ \cos\left( \frac{\theta+2\pi k}{n} \right) +i\sin\left( \frac{\theta+2\pi k}{n} \right)  \right]
 $$

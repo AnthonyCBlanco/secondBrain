@@ -1,9 +1,9 @@
-# Limits at Infinity
+# [[Limits]] at Infinity
 
 ### Idea
 
 A **limit at infinity** describes the behavior of a function as $x$ increases or decreases without bound ($x \to \infty$ or $x \to -\infty$).  
-These limits help us understand the **end behavior** of functions and are closely related to **horizontal asymptotes**.  
+These [[Limits|limits]] help us understand the **end behavior** of functions and are closely related to **horizontal asymptotes**.  
 
 → [[Limits]]  
 → [[Continuity and Limits]]  
@@ -28,7 +28,7 @@ $$
 $$
 → [[Rational Functions]]
 
-#### 2. Rational Functions (Degree Comparison)
+#### 2. [[Rational Functions]] (Degree Comparison)
 
 For $\frac{p(x)}{q(x)}$ where $p(x)$ and $q(x)$ are polynomials:
 
@@ -46,11 +46,11 @@ $$
 - $\lim_{x \to -\infty} e^x = 0$  
 
 #### 4. Trigonometric Functions
-Oscillating functions like $\sin x$ and $\cos x$ **do not have limits at infinity** because they do not settle to a single value.  
+Oscillating functions like $\sin x$ and $\cos x$ **do not have [[Limits|limits]] at infinity** because they do not settle to a single value.  
 
 ---
 
-### Notation for Infinite Limits
+### Notation for Infinite [[Limits]]
 
 Sometimes a function grows without bound:  
 
@@ -65,10 +65,10 @@ This does **not** mean the limit exists in the traditional sense; instead, it de
 ### Applications
 
 - Determining **horizontal asymptotes**  
-- Describing the **end behavior** of polynomial and rational functions  
+- Describing the **end behavior** of polynomial and [[Rational Functions|rational functions]]  
 - Analyzing **convergence of sequences and series**  
 
 ---
 
-#math/asymptotes #math/calculus #math/limits
+#math/asymptotes #math/calculus #math/[[Limits|limits]]
 

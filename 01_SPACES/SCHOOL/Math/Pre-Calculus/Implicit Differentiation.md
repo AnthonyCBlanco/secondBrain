@@ -1,12 +1,12 @@
 # Implicit Differentiation
 
-Implicit differentiation is used when a function is defined **implicitly** rather than explicitly (e.g., $y$ is not isolated). In such cases, $y$ is treated as a function of $x$, and we apply the **chain rule** when differentiating terms involving $y$.
+Implicit differentiation is used when a function is defined **implicitly** rather than explicitly (e.g., $y$ is not isolated). In such cases, $y$ is treated as a function of $x$, and we apply the **[[Chain Rule|chain rule]]** when differentiating terms involving $y$.
 
 ---
 
 ## Key Idea
 - Differentiate both sides of the equation with respect to $x$.
-- Apply the **chain rule**: whenever you differentiate $y$ with respect to $x$, you must multiply by $\frac{dy}{dx}$.
+- Apply the **[[Chain Rule|chain rule]]**: whenever you differentiate $y$ with respect to $x$, you must multiply by $\frac{dy}{dx}$.
 - Solve for $\frac{dy}{dx}$ at the end.
 
 ---
@@ -57,7 +57,7 @@ $$
 \frac{d}{dx}(xy) + \frac{d}{dx}(y^3) = \frac{d}{dx}(10)
 $$
 
-Apply product and chain rule:
+Apply product and [[Chain Rule|chain rule]]:
 
 $$
 x \frac{dy}{dx} + y + 3y^2 \frac{dy}{dx} = 0
@@ -79,7 +79,7 @@ $$
 
 ## Applications
 - **Curves defined implicitly** (circles, ellipses, etc.).
-- **Related rates problems** where multiple variables change with time.
+- **[[Related Rates|Related rates]] problems** where multiple variables change with time.
 - **Non-explicit functions** where isolating $y$ is impossible or messy.
 
 ---

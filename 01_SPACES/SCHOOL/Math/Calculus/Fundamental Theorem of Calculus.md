@@ -5,8 +5,8 @@ The **Fundamental Theorem of Calculus (FTC)** forms the bridge between **differe
 It shows that **integration** (finding the area under a curve) and **differentiation** (finding the rate of change) are *inverse processes*.  
 
 This theorem has two parts:  
-1. The **First Fundamental Theorem of Calculus** relates the derivative of an integral to the original function.  
-2. The **Second Fundamental Theorem of Calculus** provides a method to evaluate definite integrals using antiderivatives.  
+1. The **First Fundamental Theorem of Calculus** relates [[The Derivative|the derivative]] of an integral to the original function.  
+2. The **Second Fundamental Theorem of Calculus** provides a method to evaluate [[Definite Integrals|definite integrals]] using [[Antiderivatives|antiderivatives]].  
 
 ---
 
@@ -21,7 +21,7 @@ $$
 then $F'(x) = f(x)$.  
 
 **Interpretation:**  
-Differentiating an integral “undoes” the integration process. The derivative of the accumulated area function $F(x)$ is simply the original function $f(x)$.  
+Differentiating an integral “undoes” the integration process. [[The Derivative|The derivative]] of the accumulated area function $F(x)$ is simply the original function $f(x)$.  
 
 ---
 
@@ -34,7 +34,7 @@ $$
 $$  
 
 **Interpretation:**  
-To compute a definite integral, find any antiderivative of the function and subtract its values at the limits of integration.  
+To compute a definite integral, find any antiderivative of the function and subtract its values at the [[Limits|limits]] of integration.  
 
 ---
 

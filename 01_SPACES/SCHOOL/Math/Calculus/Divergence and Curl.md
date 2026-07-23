@@ -1,7 +1,7 @@
 ### Idea
 Divergence and Curl are two operations that analyze the behavior of [[Vector Fields]]. Both are calculated using the "Del" operator:
 $$ \nabla = \left\langle \frac{\partial}{\partial x}, \frac{\partial}{\partial y}, \frac{\partial}{\partial z} \right\rangle $$
-While the [[Gradient Vector]] applies $\nabla$ to a *scalar* function to create a vector field, Divergence and Curl apply $\nabla$ to *vector fields* using the dot product and cross product.
+While the [[Gradient Vector]] applies $\nabla$ to a *scalar* function to create a vector field, Divergence and Curl apply $\nabla$ to *[[Vector Fields|vector fields]]* using the [[Dot Product|dot product]] and cross product.
 
 ---
 
@@ -9,7 +9,7 @@ While the [[Gradient Vector]] applies $\nabla$ to a *scalar* function to create 
 **Divergence** measures the tendency of a fluid to collect or disperse at a point. It tells you whether a point acts as a "source" (fluid expanding out) or a "sink" (fluid compressing in).
 
 **Formula:**
-Divergence is the **dot product** of the Del operator and the vector field $\vec{F} = \langle P, Q, R \rangle$. 
+Divergence is the **[[Dot Product|dot product]]** of the Del operator and the vector field $\vec{F} = \langle P, Q, R \rangle$. 
 *Crucially, the divergence of a vector field produces a **scalar** (a single number).*
 $$
 \text{div } \vec{F} = \nabla \cdot \vec{F} = \frac{\partial P}{\partial x} + \frac{\partial Q}{\partial y} + \frac{\partial R}{\partial z}
@@ -49,11 +49,11 @@ $$
 ---
 
 ### Two Critical Identities
-There are two extremely important theorems connecting gradient, curl, and divergence. They are often used to prove properties about conservative vector fields.
+There are two extremely important theorems connecting gradient, curl, and divergence. They are often used to prove properties about [[Conservative Vector Fields|conservative vector fields]].
 
 1. **The curl of a gradient field is zero:** 
    $$ \text{curl}(\nabla f) = \vec{0} $$
-   *(Meaning: all conservative vector fields are irrotational).*
+   *(Meaning: all [[Conservative Vector Fields|conservative vector fields]] are irrotational).*
 2. **The divergence of a curl field is zero:** 
    $$ \text{div}(\text{curl } \vec{F}) = 0 $$
    *(Meaning: rotational fields are incompressible).*

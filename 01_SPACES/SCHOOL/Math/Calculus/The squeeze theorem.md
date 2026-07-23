@@ -3,5 +3,5 @@
 
 ### Formally
 
-#math/calculus #math/limits #math/precalc
+#math/calculus #math/[[Limits|limits]] #math/precalc
 

@@ -1,7 +1,7 @@
 ## Integration by Substitution
 
 ### Idea
-**Integration by substitution** is a method used to evaluate integrals by reversing the **Chain Rule**.  
+**Integration by substitution** is a method used to evaluate integrals by reversing the **[[Chain Rule]]**.  
 When a function is composed of an inner and an outer function, substitution simplifies the integral by introducing a new variable:
 
 $$
@@ -9,7 +9,7 @@ u = g(x)
 $$
 
 This transforms the original integral into a simpler form in terms of $u$.  
-It is one of the most important techniques for computing indefinite and definite integrals.
+It is one of the most important techniques for computing indefinite and [[Definite Integrals|definite integrals]].
 
 ---
 
@@ -38,11 +38,11 @@ After integrating, substitute back using $u = g(x)$.
 
 ---
 
-#### Definite Integrals  
+#### [[Definite Integrals]]  
 When computing a definite integral using substitution:
 
 1. Substitute $u = g(x)$  
-2. Convert the integral limits:  
+2. Convert the integral [[Limits|limits]]:  
    If $x = a$, then $u = g(a)$;  
    If $x = b$, then $u = g(b)$  
 3. Integrate in terms of $u$  
@@ -57,7 +57,7 @@ $$
 ---
 
 ### Why Substitution Works  
-Integration by substitution “undoes” the **Chain Rule**:
+Integration by substitution “undoes” the **[[Chain Rule]]**:
 
 $$
 \frac{d}{dx}\left(F(g(x))\right) = F'(g(x)) \cdot g'(x)
@@ -105,7 +105,7 @@ $$
 Let $u = x^2 + 1$  
 Then $du = 2x\,dx \Rightarrow x\,dx = \frac{1}{2}du$
 
-Convert limits:  
+Convert [[Limits|limits]]:  
 - When $x = 0$: $u = 1$  
 - When $x = 2$: $u = 5$
 
@@ -139,7 +139,7 @@ $$
 - Choose $u$ to simplify the integrand.  
 - Always compute **$du$ carefully**.  
 - Rewrite *everything* in terms of $u$ before integrating.  
-- For definite integrals, **change the limits** to avoid switching back to $x$.
+- For [[Definite Integrals|definite integrals]], **change the [[Limits|limits]]** to avoid switching back to $x$.
 
 ---
 
@@ -150,7 +150,7 @@ $$
 | Substitution | $u = g(x)$ | Rewrites integral in simpler form |
 | Differential | $du = g'(x)\,dx$ | Converts $dx$ terms |
 | Definite integral rule | $\int_a^b f(g(x))g'(x)\,dx = \int_{g(a)}^{g(b)} f(u)\,du$ | Change bounds accordingly |
-| Purpose | Simplification | Reverse the chain rule |
+| Purpose | Simplification | Reverse [[The Chain Rule|the chain rule]] |
 
 ---
 

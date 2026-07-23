@@ -17,8 +17,8 @@ $$
 
 *(Note: Don't confuse this with [[Vector Valued Functions]], which map a single parameter $t$ to a vector to trace out a curve. A vector field maps spatial coordinates to a vector to fill a space).*
 
-### Gradient Vector Fields
-One of the most important types of vector fields comes from scalar functions. If you take a standard scalar function $f(x, y)$ (like a topographical map of a mountain) and calculate its [[Gradient Vector]] at every point, the resulting collection of gradient vectors forms a **Gradient Vector Field**:
+### [[Gradient Vector]] Fields
+One of the most important types of vector fields comes from scalar functions. If you take a standard scalar function $f(x, y)$ (like a topographical map of a mountain) and calculate its [[Gradient Vector]] at every point, the resulting collection of gradient [[Vectors|vectors]] forms a **[[Gradient Vector]] Field**:
 $$
 \vec{F}(x, y) = \nabla f(x, y)
 $$

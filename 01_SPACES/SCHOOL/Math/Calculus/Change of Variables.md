@@ -12,7 +12,7 @@ J(u, v) = \frac{\partial(x, y)}{\partial(u, v)} = \begin{vmatrix} \frac{\partial
 $$
 
 ### The Formula
-The general formula for a change of variables in a double integral is:
+The general formula for a change of variables in a [[Double Integral|double integral]] is:
 $$
 \iint_R f(x, y) \, dx \, dy = \iint_S f(x(u, v), y(u, v)) \left| \frac{\partial(x, y)}{\partial(u, v)} \right| \, du \, dv
 $$

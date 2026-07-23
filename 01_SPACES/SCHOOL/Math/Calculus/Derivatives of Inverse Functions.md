@@ -1,7 +1,7 @@
-# Derivatives of Inverse Functions
+# Derivatives of [[Inverse Functions]]
 
-The derivative of an inverse function allows us to differentiate functions whose explicit derivative may be difficult to compute.  
-This concept uses the fact that inverse functions “undo” each other and their slopes are reciprocals at corresponding points.
+[[The Derivative|The derivative]] of an inverse function allows us to differentiate functions whose explicit derivative may be difficult to compute.  
+This concept uses the fact that [[Inverse Functions|inverse functions]] “undo” each other and their slopes are reciprocals at corresponding points.
 
 ---
 
@@ -65,7 +65,7 @@ $$
 
 ---
 
-### **3. Derivatives of Common Inverse Functions**
+### **3. Derivatives of Common [[Inverse Functions]]**
 
 #### **Inverse Sine**
 

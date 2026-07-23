@@ -26,7 +26,7 @@ The **Range** is the set of all resulting output values.
 **Common Domain Restrictions:**
 1. **Division by Zero**: Denominator cannot be zero.
 2. **Square Roots (and even roots)**: Radicand must be $\ge 0$ (for real values).
-3. **Logarithms**: Argument must be $> 0$.
+3. **[[Logarithms]]**: Argument must be $> 0$.
 
 #### Example
 Find the domain of $f(x, y) = \frac{\sqrt{y - x^2}}{1 - x^2}$.
@@ -52,8 +52,8 @@ For a function of three variables $f(x, y, z)$, the set $f(x, y, z) = k$ forms a
 
 ---
 
-### Limits and Continuity
-Limits in multivariable calculus are more complex than basic [[Limits]] because there are infinitely many paths to approach a point $(a, b)$ (unlike just left/right in 1D).
+### [[Limits]] and Continuity
+[[Limits]] in multivariable calculus are more complex than basic [[Limits]] because there are infinitely many paths to approach a point $(a, b)$ (unlike just left/right in 1D).
 
 - **Limit existence**: For $\lim_{(x, y) \to (a, b)} f(x, y) = L$ to exist, the function must approach $L$ along **every possible path**.
 - **Continuity**: Similar to [[Continuity and Limits]], a multivariable function is continuous if the limit at a point equals the function value at that point.
@@ -65,7 +65,7 @@ Limits in multivariable calculus are more complex than basic [[Limits]] because 
 Once we understand the behavior of these functions, we can look at how they change:
 - [[Partial Derivative]] (Change along axes)
 - [[Directional Derivatives]] (Change along any vector)
-- [[Vector Valued Functions]] (Functions that output vectors instead of scalars)
+- [[Vector Valued Functions]] (Functions that output [[Vectors|vectors]] instead of scalars)
 
 ---
 ### Related

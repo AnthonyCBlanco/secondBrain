@@ -1,5 +1,5 @@
 **### Idea
-Using the chain rule with multivariable functions is similar but more complex. 
+Using [[The Chain Rule|the chain rule]] with [[Multivariable Functions|multivariable functions]] is similar but more complex. 
 In calculus 1 we learn that [[The Chain Rule]] is defined by:
 $$
 \frac{d}{dx}[f \circ g]= \frac{d}{dx}[f(g(x))]=f'(g(x))\cdot g'(x) 
@@ -29,11 +29,11 @@ $$
 $$
 
 ### Tree Diagrams
-To keep track of the variables and how to apply the chain rule without memorizing formulas, we can use a **Tree Diagram**.
+To keep track of the variables and how to apply [[The Chain Rule|the chain rule]] without memorizing formulas, we can use a **Tree Diagram**.
 1. Start with the **dependent variable** at the top.
 2. Draw branches to the **intermediate variables**.
 3. Draw branches from each intermediate variable to the **independent variables**.
-4. To find the derivative with respect to an independent variable:
+4. To find [[The Derivative|the derivative]] with respect to an independent variable:
    - **Multiply** the derivatives along each path leading to that independent variable.
    - **Add** the products of all paths that lead to that independent variable.
 
@@ -63,10 +63,10 @@ $$
 \frac{\partial z}{\partial t} = 2(3t + s) + 3(2t) = 6t + 2s + 6t = 12t + 2s
 $$
 
-### The Jacobian Matrix Method
-The multivariable chain rule can also be expressed using **Jacobian Matrices**. This is particularly useful in Linear Algebra and when dealing with vector-valued functions. 
+### The [[Jacobian Matrix]] Method
+The multivariable [[Chain Rule|chain rule]] can also be expressed using **Jacobian Matrices**. This is particularly useful in Linear Algebra and when dealing with vector-valued functions. 
 
-If we have a composition of functions, the derivative (Jacobian) of the composition is simply the product of their Jacobian matrices:
+If we have a composition of functions, [[The Derivative|the derivative]] (Jacobian) of the composition is simply the product of their Jacobian matrices:
 $$ D_{f \circ g} = D_{f} \cdot D_g $$
 
 Using the general case where $z = f(x, y)$ and $(x, y)$ are functions of $(s, t)$:
@@ -87,6 +87,6 @@ Using the general case where $z = f(x, y)$ and $(x, y)$ are functions of $(s, t)
    \end{bmatrix}
    $$
    
-Notice that the resulting $1 \times 2$ matrix contains exactly the chain rule formulas for $\frac{\partial z}{\partial s}$ and $\frac{\partial z}{\partial t}$! Matrix multiplication automatically handles the "multiply paths and add them up" logic of the tree diagram.
+Notice that the resulting $1 \times 2$ matrix contains exactly [[The Chain Rule|the chain rule]] formulas for $\frac{\partial z}{\partial s}$ and $\frac{\partial z}{\partial t}$! Matrix multiplication automatically handles the "multiply paths and add them up" logic of the tree diagram.
 
 #math/calculus #math/linearalgebra #summer2026

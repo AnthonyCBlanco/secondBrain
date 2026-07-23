@@ -2,7 +2,7 @@
 
 **Partial fraction decomposition** is a method used to break a **rational expression** (a fraction with polynomials in the numerator and denominator) into simpler fractions that are easier to integrate or work with.
 
-We use this technique especially when integrating rational functions in calculus or simplifying expressions in algebra.
+We use this technique especially when integrating [[Rational Functions|rational functions]] in calculus or simplifying expressions in algebra.
 
 ---
 

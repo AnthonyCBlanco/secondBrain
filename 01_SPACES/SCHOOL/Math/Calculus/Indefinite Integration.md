@@ -2,7 +2,7 @@
 
 ### Idea
 
-An **indefinite integral** represents the **family of all antiderivatives** of a given function.  
+An **indefinite integral** represents the **family of all [[Antiderivatives|antiderivatives]]** of a given function.  
 It is the reverse process of differentiation and is used to find a function whose derivative equals a given expression.
 
 The indefinite integral does **not** compute a specific numerical value (unlike a [[Definite Integrals|definite integral]]); instead, it gives a **general formula** that includes an arbitrary constant $C$.
@@ -116,9 +116,9 @@ $$
 
 ### Concept Summary
 
-- The **indefinite integral** gives a **family of antiderivatives**.  
+- The **indefinite integral** gives a **family of [[Antiderivatives|antiderivatives]]**.  
 - Always include the **constant of integration** $C$.  
-- The derivative of the result gives back the **original function**.  
+- [[The Derivative|The derivative]] of the result gives back the **original function**.  
 - Used in physics and engineering for **position**, **velocity**, **work**, and **energy** calculations.  
 
 ---

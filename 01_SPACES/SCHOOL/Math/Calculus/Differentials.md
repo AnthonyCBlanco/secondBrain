@@ -19,7 +19,7 @@ Here:
 
 - $dx$ represents an independent small change in $x$  
 - $dy$ represents the corresponding change in $y$ predicted by the tangent line  
-- The ratio $\frac{dy}{dx}$ equals the derivative $f'(x)$  
+- The ratio $\frac{dy}{dx}$ equals [[The Derivative|the derivative]] $f'(x)$  
 
 The **actual change** in the function’s value for a finite change in $x$ is:
 

@@ -17,7 +17,7 @@ Steps for using Integration By Parts
 - Plug into formula
 - Evaluate
 
-We can use a similar formula for definite integrals integrating by parts
+We can use a similar formula for [[Definite Integrals|definite integrals]] integrating by parts
 $$
 \int_{a}^budv=uv]_{a}^b-\int_{a}^bvdx
 $$

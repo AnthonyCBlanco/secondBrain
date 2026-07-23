@@ -3,7 +3,7 @@ A standard [[Definite Integrals|definite integral]] $\int_a^b f(x) \, dx$ calcul
 
 A **Line Integral** (sometimes called a path integral or curve integral) generalizes this concept. It allows us to integrate a function over a curved path $C$ winding through 2D or 3D space. 
 
-There are two main types of line integrals: those over scalar functions, and those over vector fields.
+There are two main types of line integrals: those over scalar functions, and those over [[Vector Fields|vector fields]].
 
 ---
 
@@ -16,7 +16,7 @@ Here, $ds$ represents a tiny element of arc length along the curve.
 
 **How to Evaluate:**
 1. **Parameterize the curve $C$:** Write it as a [[Vector Valued Functions|vector-valued function]] $\vec{r}(t) = \langle x(t), y(t) \rangle$ for some range $a \le t \le b$.
-2. **Find the magnitude of the derivative:** $ds$ becomes $|\vec{r}'(t)| \, dt$.
+2. **Find the magnitude of [[The Derivative|the derivative]]:** $ds$ becomes $|\vec{r}'(t)| \, dt$.
 3. **Substitute into the integral:** Replace all $x$'s and $y$'s in the function with your parameterized $x(t)$ and $y(t)$, and integrate from $a$ to $b$:
    $$ \int_C f(x,y) \, ds = \int_a^b f(x(t), y(t)) |\vec{r}'(t)| \, dt $$
 
@@ -24,7 +24,7 @@ Here, $ds$ represents a tiny element of arc length along the curve.
 
 ---
 
-### Line Integrals of Vector Fields
+### Line Integrals of [[Vector Fields]]
 This is the most common application in physics. If $\vec{F}$ is a force field (like wind or gravity), the line integral calculates the total **work** done by the field pushing an object along the path $C$. It effectively sums up how much of the vector field points in the same direction as your path at every given moment.
 
 **Notation:**
@@ -32,13 +32,13 @@ $$ \int_C \vec{F} \cdot d\vec{r} $$
 *(Sometimes written in terms of the unit tangent vector as $\int_C \vec{F} \cdot \vec{T} \, ds$).*
 
 **Alternate Notation (Differential Form):**
-Since $\vec{F} = \langle P, Q \rangle$ and $d\vec{r} = \langle dx, dy \rangle$, their dot product leads to a very common alternative way to write the exact same integral:
+Since $\vec{F} = \langle P, Q \rangle$ and $d\vec{r} = \langle dx, dy \rangle$, their [[Dot Product|dot product]] leads to a very common alternative way to write the exact same integral:
 $$ \int_C P \, dx + Q \, dy $$
 
 **How to Evaluate:**
 1. **Parameterize the curve $C$:** $\vec{r}(t) = \langle x(t), y(t) \rangle$ for $a \le t \le b$.
-2. **Find the derivative vector:** $d\vec{r}$ becomes $\vec{r}'(t) \, dt$.
-3. **Substitute and take the dot product:** Plug your parameterized equations into the vector field $\vec{F}$, take the dot product with $\vec{r}'(t)$, and integrate:
+2. **Find [[The Derivative|the derivative]] vector:** $d\vec{r}$ becomes $\vec{r}'(t) \, dt$.
+3. **Substitute and take the [[Dot Product|dot product]]:** Plug your parameterized equations into the vector field $\vec{F}$, take the [[Dot Product|dot product]] with $\vec{r}'(t)$, and integrate:
    $$ \int_C \vec{F} \cdot d\vec{r} = \int_a^b \vec{F}(\vec{r}(t)) \cdot \vec{r}'(t) \, dt $$
 
 ---

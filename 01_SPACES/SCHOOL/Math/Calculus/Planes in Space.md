@@ -8,7 +8,7 @@ The direction information will be supplied by a vector, called a *normal* vector
 	- We chose any to points that are in the plane, $P$ and $Q$ 
 	- We think about the direction vector $\vec{PQ}$, which is just a line within our plane between two points
 	- We can find if some arbitrary vector $\vec{n}$ is orthogonal to the plane by solve the equations $\vec{n} \cdot \vec{PQ} =0$  
-> [!note] When the dot product is equal to zero our vector are orthogonal 
+> [!note] When the [[Dot Product|dot product]] is equal to zero our vector are orthogonal 
 
 
 ### Equation of a Plane

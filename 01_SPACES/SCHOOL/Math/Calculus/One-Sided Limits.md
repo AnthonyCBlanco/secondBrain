@@ -1,4 +1,4 @@
-# One-Sided Limits
+# One-Sided [[Limits]]
 
 ### Idea
 
@@ -37,7 +37,7 @@ $$
 \lim_{x \to c^-} f(x) = \lim_{x \to c^+} f(x) = L
 $$
 
-If the left-hand and right-hand limits are not equal, the limit **does not exist**.
+If the left-hand and right-hand [[Limits|limits]] are not equal, the limit **does not exist**.
 
 ---
 
@@ -53,7 +53,7 @@ $$
 
 - $\lim_{x \to 0^-} f(x) = 1$  
 - $\lim_{x \to 0^+} f(x) = 2$  
-- Since the left and right limits are different, $\lim_{x \to 0} f(x)$ **does not exist**.  
+- Since the left and right [[Limits|limits]] are different, $\lim_{x \to 0} f(x)$ **does not exist**.  
 
 → [[Discontinuities]]  
 
@@ -67,11 +67,11 @@ $$
 
 - $\lim_{x \to 0^+} \frac{1}{x} = +\infty$  
 - $\lim_{x \to 0^-} \frac{1}{x} = -\infty$  
-- Since the left- and right-hand limits go to different infinities, $\lim_{x \to 0} \frac{1}{x}$ does **not exist**.  
+- Since the left- and right-hand [[Limits|limits]] go to different infinities, $\lim_{x \to 0} \frac{1}{x}$ does **not exist**.  
 
 → [[Asymptotic Behavior]]  
 
 ---
 
-#math/calculus #math/limits
+#math/calculus #math/[[Limits|limits]]
 

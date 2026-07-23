@@ -24,11 +24,11 @@ $$
 When the region $E$ is not a simple rectangular box, the bounds of the inner integrals will be functions of the outer variables.
 
 The most common approach is a **Type 1 Solid Region**, where the solid is bounded above and below by two surfaces, $z = u_2(x, y)$ and $z = u_1(x, y)$, and its projection onto the $xy$-plane is a 2D region $D$.
-You evaluate $z$ first, and then evaluate the remaining double integral over the 2D region $D$:
+You evaluate $z$ first, and then evaluate the remaining [[Double Integral|double integral]] over the 2D region $D$:
 $$
 \iiint_E f(x, y, z) \, dV = \iint_D \left[ \int_{u_1(x, y)}^{u_2(x, y)} f(x, y, z) \, dz \right] dA
 $$
-The remaining $dA$ can then be integrated as $dx \, dy$ or $dy \, dx$ just like a normal double integral.
+The remaining $dA$ can then be integrated as $dx \, dy$ or $dy \, dx$ just like a normal [[Double Integral|double integral]].
 
 ### Alternative Coordinate Systems
 Just as double integrals are sometimes easier in polar coordinates, triple integrals over spherical or cylindrical regions are often easier to evaluate using different coordinate systems. You must swap the volume element $dV$:

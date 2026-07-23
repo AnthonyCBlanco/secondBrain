@@ -1,7 +1,7 @@
 ### Idea 
 We can apply calculus concepts to Vector-Valued Functions the same way we apply them to real valued functions. These functions are often used to represent [[Parametric Equations and Plane Curves|curves]] in space.
-#### Limits of Vector-Valued Functions
-The initial definition of the limit of the vector-valued may seem difficult but its not different from limits of real-valued functions
+#### [[Limits]] of Vector-Valued Functions
+The initial definition of the limit of the vector-valued may seem difficult but its not different from [[Limits|limits]] of real-valued functions
 
 
 > [!important] Definition
@@ -24,7 +24,7 @@ Just like continuity of real-valued functions we apply the same rules
 
 ### Derivatives of Vector-Valued Functions 
 > [!tip] Application 
-> In physics, if $\vec{r}(t)$ represents position, then the derivative $\vec{r}'(t)$ represents velocity. See: [[The Calculus of Motion]].
+> In physics, if $\vec{r}(t)$ represents position, then [[The Derivative|the derivative]] $\vec{r}'(t)$ represents velocity. See: [[The Calculus of Motion]].
 
 By the limit definition:
 $$\begin{gather}
@@ -36,10 +36,10 @@ $$\begin{gather}
 $$
 
 ### Integration of Vector-Valued Functions
-We can define antiderivatives and the indefinite integral of vector-valued functions the same manner we defined [[Indefinite Integration]] before. We can also evaluate [[Definite Integrals]] component-wise using the [[Fundamental Theorem of Calculus]]. 
+We can define [[Antiderivatives|antiderivatives]] and the indefinite integral of vector-valued functions the same manner we defined [[Indefinite Integration]] before. We can also evaluate [[Definite Integrals]] component-wise using the [[Fundamental Theorem of Calculus]]. 
 $$
 \int \vec{r}(t)dt= \langle \int f(t)dt, \int g(t)dt \rangle
 $$
 
-#math/calculus #math/vectors #summer2026
+#math/calculus #math/[[Vectors|vectors]] #summer2026
 

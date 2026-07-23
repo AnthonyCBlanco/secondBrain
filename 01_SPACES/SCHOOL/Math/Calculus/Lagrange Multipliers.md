@@ -4,7 +4,7 @@ Instead of looking for the absolute peak or valley of a function over its entire
 
 **Geometric Intuition:** 
 Imagine the contour map (level curves) of $f(x,y)$ overlaid with the constraint curve $g(x, y) = k$. If you walk along the constraint curve, the highest (or lowest) value of $f$ occurs exactly where the constraint curve is tangent to one of the level curves of $f$. 
-Because they are tangent, their normal vectors must be parallel. Since the [[Gradient Vector]] is always normal to level curves, it means that at the optimum point, **the gradient of $f$ must be parallel to the gradient of $g$**.
+Because they are tangent, their normal [[Vectors|vectors]] must be parallel. Since the [[Gradient Vector]] is always normal to level curves, it means that at the optimum point, **the gradient of $f$ must be parallel to the gradient of $g$**.
 
 ### The Core Equation
 Since the gradients are parallel, they are scalar multiples of one another. We introduce a scalar $\lambda$ (lambda), known as the **Lagrange Multiplier**, leading to the core equation:

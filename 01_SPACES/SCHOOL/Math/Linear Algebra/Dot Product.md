@@ -17,7 +17,7 @@ $$
 $$
 
 
-### Parallel and Orthogonal Vectors
+### Parallel and Orthogonal [[Vectors]]
 
 Two [[Vectors]] are parallel when angle $\theta$ between the [[Vectors]] $0^o$ or $180 \degree$. If $\theta=0 \degree$, the [[Vectors]] points in the same direction. If $\theta=180 \degree$, the [[Vectors]] point in opposite directions 
 
@@ -34,5 +34,5 @@ $$proj_{\vec{w}}\vec{v}=\frac{\vec{v}*\vec{w}}{||\vec{w}||^2}\vec{w}$$
 
 ^978ab7
 
-#math/trigonometry #math/vectors
+#math/trigonometry #math/[[Vectors|vectors]]
 

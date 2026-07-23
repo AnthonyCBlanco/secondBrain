@@ -1,6 +1,6 @@
 ### Idea
 
-The **difference quotient** is a formula that gives the **average rate of change** of a function over an interval. It is foundational in calculus because it leads directly to the **definition of the derivative**.
+The **difference quotient** is a formula that gives the **average rate of change** of a function over an interval. It is foundational in calculus because it leads directly to the **definition of [[The Derivative|the derivative]]**.
 
 ---
 
@@ -58,5 +58,5 @@ As $$h \to 0$$, the expression approaches $$2x$$, which is the **derivative** of
 
 ---
 
-#math/calculus #math/derivative #math/difference-quotient #math/limits
+#math/calculus #math/derivative #math/difference-quotient #math/[[Limits|limits]]
 

@@ -24,7 +24,7 @@ The definite integral represents the *exact* area as $n \to \infty$.
 | Property | Formula | Description |
 |-----------|----------|-------------|
 | **Additivity** | $\int_a^b f(x)\,dx = \int_a^c f(x)\,dx + \int_c^b f(x)\,dx$ | Integrals over adjacent intervals can be added |
-| **Reversal of limits** | $\int_a^b f(x)\,dx = -\int_b^a f(x)\,dx$ | Reversing limits changes the sign |
+| **Reversal of [[Limits|limits]]** | $\int_a^b f(x)\,dx = -\int_b^a f(x)\,dx$ | Reversing [[Limits|limits]] changes the sign |
 | **Zero-width interval** | $\int_a^a f(x)\,dx = 0$ | No interval means zero area |
 | **Constant multiple** | $\int_a^b kf(x)\,dx = k\int_a^b f(x)\,dx$ | Constants can be factored out |
 | **Sum/Difference** | $\int_a^b [f(x) \pm g(x)]\,dx = \int_a^b f(x)\,dx \pm \int_a^b g(x)\,dx$ | Integration distributes over addition/subtraction |
@@ -45,7 +45,7 @@ Thus, the area under the curve $y = x^2$ from 0 to 2 is $\frac{8}{3}$ square uni
 ### Concept Summary  
 - The definite integral is the *limit of Riemann sums*, representing accumulated change.  
 - It measures **signed area** under a curve between two bounds.  
-- It connects directly to the **Fundamental Theorem of Calculus**, linking differentiation and integration.  
+- It connects directly to the **[[Fundamental Theorem of Calculus]]**, linking differentiation and integration.  
 
 ### Related Notes  
 - [[Area by Limit Definition]]

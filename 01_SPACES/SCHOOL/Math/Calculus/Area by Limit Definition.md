@@ -96,7 +96,7 @@ As $n$ increases:
 - the rectangles fit the curve more closely,  
 - and the sum approaches the true area.  
 
-In the limit, the sum becomes **exact**, forming the foundation for **definite integrals**.
+In the limit, the sum becomes **exact**, forming the foundation for **[[Definite Integrals|definite integrals]]**.
 
 ---
 
@@ -134,5 +134,5 @@ This expresses the same concept — the exact area under $f(x)$ on $[a, b]$.
 
 ---
 
-#math/area #math/calculus #math/integration #math/limits
+#math/area #math/calculus #math/integration #math/[[Limits|limits]]
 

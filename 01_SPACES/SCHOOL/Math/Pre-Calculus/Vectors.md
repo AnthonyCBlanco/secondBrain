@@ -15,7 +15,7 @@ $||\vec{u}|| =\sqrt{ (x_{2}-x_{1})^2 +(y_{2}-y_{1})^2 }$
 ##### Solving an equality of two vectors
 You can find the distance of each line segment and see if each are equal
 
-Show magnitude by distance formula
+Show magnitude by [[Distance Formula|distance formula]]
 Slope: $m=\frac{y_{1}-y_{2}}{x_{1}-x_{2}}$ 
 
 
