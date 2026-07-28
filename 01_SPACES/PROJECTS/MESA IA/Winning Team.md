@@ -1,5 +1,5 @@
 Groupmates:
-- Jamie
+- Jamie 
 
 Group Assignment:
 - Learning from failure (Mindset) 
