@@ -7,7 +7,7 @@ By defining new variables (usually $u$ and $v$), we map a complicated region $R$
 When we change variables, we can't just swap $dx \, dy$ for $du \, dv$. We have to account for how the transformation stretches or shrinks the area. We do this by multiplying by the absolute value of the **[[Jacobian Matrix|Jacobian Determinate]]**, denoted as $J(u, v)$ or $\frac{\partial(x, y)}{\partial(u, v)}$.
 
 For a transformation $x = g(u, v)$ and $y = h(u, v)$, the Jacobian is the determinant of the matrix of partial derivatives:
-$$
+$$ \tex
 J(u, v) = \frac{\partial(x, y)}{\partial(u, v)} = \begin{vmatrix} \frac{\partial x}{\partial u} & \frac{\partial x}{\partial v} \\ \frac{\partial y}{\partial u} & \frac{\partial y}{\partial v} \end{vmatrix} = \frac{\partial x}{\partial u}\frac{\partial y}{\partial v} - \frac{\partial x}{\partial v}\frac{\partial y}{\partial u}
 $$
 
