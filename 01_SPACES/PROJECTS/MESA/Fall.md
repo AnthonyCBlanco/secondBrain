@@ -7,6 +7,6 @@
 - Amanda Thomas coming to visiting Valley
 - UCR visit
 - MESA Student Leadership Conference 
-- - Nasa thing
+- Nasa thing
 	- Students are upset
 	- Students don't have resources they need
