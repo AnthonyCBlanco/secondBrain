@@ -3,9 +3,9 @@
 - New Student Orientation / Returning Student Orientation
 	- Day, Time, Plan
 - Book Stipends by fall?
-- URC Tour?
 - Amanda Thomas coming to visiting Valley
 - UCR visit
+- - URC Tour?
 - MESA Student Leadership Conference 
 - Nasa thing
 	- Students are upset
