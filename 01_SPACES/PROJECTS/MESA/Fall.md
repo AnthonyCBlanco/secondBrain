@@ -4,8 +4,8 @@
 	- Day, Time, Plan
 - Book Stipends by fall?
 - Amanda Thomas coming to visiting Valley
-- UCR visit
-- - URC Tour?
+- UCR visit?
+- URC Tour?
 - MESA Student Leadership Conference 
 - Nasa thing
 	- Students are upset
