@@ -2,11 +2,11 @@
 	- Also Staff to have access
 - New Student Orientation / Returning Student Orientation
 	- Day, Time, Plan
-- Nasa thing
-	- Students are upset
-	- Students don't have resources they need
 - Book Stipends by fall?
 - URC Tour?
 - Amanda Thomas coming to visiting Valley
 - UCR visit
 - MESA Student Leadership Conference 
+- - Nasa thing
+	- Students are upset
+	- Students don't have resources they need
