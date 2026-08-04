@@ -19,3 +19,5 @@
 	- Students don't have resources they need
 		- Was told to buy certain things?
 - Coreferences
+  
+#private
