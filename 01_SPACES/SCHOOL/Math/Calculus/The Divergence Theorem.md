@@ -25,4 +25,7 @@ If you want to know how much total fluid is flowing out of a closed box (the sur
 - [[Divergence and Curl]]
 - [[Triple Integral]]
 
+
+![[Pasted image 20260806184923.png|700]]![[Pasted image 20260806184923.png]]![[Pasted image 20260806184923.png]]![[Pasted image 20260806184923.png]]
+![[Pasted image 20260806184923.png]]![[Pasted image 20260806184923.png]]![[Pasted image 20260806184923.png]]
 #math/calculus #summer2026
