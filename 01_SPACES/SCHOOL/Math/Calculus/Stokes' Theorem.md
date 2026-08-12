@@ -1,7 +1,7 @@
 ### Idea
 **Stokes' Theorem** is the 3D big brother to the circulation (curl) form of [[Green's Theorem]]. 
 
-It provides a magical bridge between a 1D [[Line Integrals|line integral]] around a closed loop $C$ and a 2D [[Surface Integrals|surface integral]] over a surface $S$ bounded by that loop.
+It provides a magical bridge between a 1D [[Line Integrals|line integral]] around a closed loop $C$ and a 2D o[[Surface Integrals|surface integral]] over a surface $S$ bounded by that loop.
 
 ### Formally
 Let $S$ be an oriented piecewise-smooth surface bounded by a simple, closed, piecewise-smooth boundary curve $C$ with positive orientation. Let $\vec{F}$ be a vector field.
