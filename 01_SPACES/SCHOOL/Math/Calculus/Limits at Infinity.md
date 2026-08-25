@@ -70,5 +70,5 @@ This does **not** mean the limit exists in the traditional sense; instead, it de
 
 ---
 
-#math/asymptotes #math/calculus #math/[[Limits|limits]]
+#math/asymptotes #math/calculus #math/limits
 
