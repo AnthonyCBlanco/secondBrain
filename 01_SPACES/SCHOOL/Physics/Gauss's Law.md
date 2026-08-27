@@ -6,10 +6,10 @@ The core idea is simple: If you trap some charge inside an imaginary 3D bubble (
 While fundamentally equivalent to [[Coulomb's Law]], Gauss's Law provides a massive shortcut for calculating electric fields when dealing with highly symmetrical charge distributions (like infinite lines, flat planes, or solid spheres).
 
 ### Formally (Integral Form)
-Gauss's law states that the net electric flux ($\Phi_E$) passing through any closed surface is equal to the total net charge enclosed inside that surface ($Q_{enc}$), divided by the permittivity of free space ($\varepsilon_0$).
+Gauss's law states that the net electric flux ($\Phi_E$) passing through any closed surface is equal to the total net charge enclosed inside that surface ($q_{enc}$), divided by the permittivity of free space ($\varepsilon_0$).
 
 $$
-\Phi_E = \oint_S \vec{E} \cdot d\vec{A} = \frac{Q_{enc}}{\varepsilon_0}
+\Phi_E = \oint_S \vec{E} \cdot d\vec{A} = \frac{q_{enc}}{\varepsilon_0}
 $$
 
 **Variables:**
