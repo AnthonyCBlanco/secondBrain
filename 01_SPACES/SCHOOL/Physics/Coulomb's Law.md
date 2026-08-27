@@ -40,7 +40,7 @@ $$ \vec{F}_{net} = \vec{F}_1 + \vec{F}_2 + \dots + \vec{F}_n $$
 This might seem like a tiny force, but because the mass of an electron is so incredibly small, this force results in an absolutely massive acceleration!
 
 ### Related
-- Electric Fields (coming soon)
+- [[Electric Fields]] (coming soon)
 - [[Conservative Vector Fields]] (The electrostatic force field is conservative, meaning it is path-independent and has a potential function!)
 
 #physics #electromagnetism
