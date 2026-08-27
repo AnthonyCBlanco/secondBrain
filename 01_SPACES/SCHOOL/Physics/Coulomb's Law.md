@@ -43,4 +43,4 @@ This might seem like a tiny force, but because the mass of an electron is so inc
 - [[Electric Fields]] (coming soon)
 - [[Conservative Vector Fields]] (The electrostatic force field is conservative, meaning it is path-independent and has a potential function!)
 
-#physics #electromagnetism
+#physics #electromagnetism #fall2026 

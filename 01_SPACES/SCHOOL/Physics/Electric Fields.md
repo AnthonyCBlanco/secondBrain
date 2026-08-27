@@ -41,4 +41,4 @@ If you placed a positive $1 \text{ C}$ charge at that exact spot, it would exper
 - [[Vector Fields]]
 - Gauss's Law (coming soon)
 
-#physics #electromagnetism
+#physics #electromagnetism #fall2026 
