@@ -39,6 +39,6 @@ If you placed a positive $1 \text{ C}$ charge at that exact spot, it would exper
 ### Related
 - [[Coulomb's Law]]
 - [[Vector Fields]]
-- Gauss's Law (coming soon)
+- [[Gauss's Law]]
 
 #physics #electromagnetism #fall2026 
