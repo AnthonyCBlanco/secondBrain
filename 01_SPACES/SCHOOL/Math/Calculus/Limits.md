@@ -1,192 +1,78 @@
-# Limits
+## Limits
 
 ### Idea
+In calculus, a **limit** describes the behavior of a function as the input approaches a certain value, rather than what the function is *exactly* at that value. 
 
-In calculus, a **limit** describes the behavior of a function as the input approaches a certain value. Limits are foundational for defining **derivatives**, **integrals**, and **continuity**.
+Imagine walking along a path (the function) toward a specific destination (the x-value); the limit is the location you seem to be heading toward (the y-value). Limits are the foundation for the rest of Calculus 1, including derivatives and continuity, because they allow us to analyze behavior at points where a function might otherwise be broken, "jumping", or undefined.
 
----
-
-### Formal Definition (Intuitive)
-
+### Formally
 The **limit** of a function $f(x)$ as $x$ approaches a value $a$ is written as:
 
 $$
 \lim_{x \to a} f(x) = L
 $$
 
-This represents what value $f(x)$ **approaches** as $x$ gets **close to** $a$ (but not necessarily equal to $a$).
+This means that as $x$ gets **infinitely close to** $a$ (without actually reaching $a$), the value of $f(x)$ gets infinitely close to $L$.
 
----
-
-### Formal Definition (ε–δ)
-
-We say:
-
+For a limit to **exist**, the function must approach the same value from both the left side and the right side:
 $$
-\lim_{x \to a} f(x) = L
+\lim_{x \to a^-} f(x) = \lim_{x \to a^+} f(x) = L
 $$
+If the function "jumps" or behaves differently depending on which side you approach from, the overall limit **does not exist**.
 
-**if and only if** for every $\epsilon > 0$ (no matter how small), there exists a $\delta > 0$ such that:
-
-$$
-0 < |x - a| < \delta \;\; \implies \;\; |f(x) - L| < \epsilon
-$$
-
-- $\epsilon$ (“epsilon”) represents how close $f(x)$ is to the limit value $L$.  
-- $\delta$ (“delta”) represents how close $x$ must be to $a$ to guarantee that closeness.  
-
-In words:  
-> We can make $f(x)$ as close as we want to $L$ by choosing $x$ sufficiently close to $a$.
-
----
-
-### Key Concepts
-
-- A **limit exists** if the left-hand and right-hand limits are equal:
-
-  $$
-  \lim_{x \to a^-} f(x) = \lim_{x \to a^+} f(x)
-  $$
-
-- If the function "jumps" or behaves differently from each side, the limit **does not exist**.
-
-→ [[One-Sided Limits]]  
-→ [[Piecewise Functions]]
-
----
-
-### Limit Notation Examples
-
-- $\lim_{x \to 2} (3x + 1) = 7$  
-- $\lim_{x \to 0} \frac{\sin x}{x} = 1$  
-- $\lim_{x \to \infty} \frac{1}{x} = 0$  
-
-→ [[Limits at Infinity]]  
-
----
+*(Note for rigorous proofs: The formal $\epsilon-\delta$ definition states that for every $\epsilon > 0$, there exists a $\delta > 0$ such that $0 < |x - a| < \delta \implies |f(x) - L| < \epsilon$. This just formally means we can make the output as close as we want to $L$ by keeping the input close enough to $a$.)*
 
 ### Properties of Limits
+If you know the limits of two functions, $\lim_{x \to c} f(x) = L$ and $\lim_{x \to c} g(x) = K$, you can combine them using these intuitive rules (where $b$ is a constant):
 
-If $\lim_{x \to c} f(x) = L$ and $\lim_{x \to c} g(x) = K$, and $b$ is a constant:
-
-1. **Constant Rule**  
-   $$
-   \lim_{x \to c} b = b
-   $$
-
-2. **Scalar Multiple**  
-   $$
-   \lim_{x \to c} \big(b \cdot f(x)\big) = b \cdot L
-   $$
-
-3. **Sum Rule**  
-   $$
-   \lim_{x \to c} \big(f(x) + g(x)\big) = L + K
-   $$
-
-4. **Difference Rule**  
-   $$
-   \lim_{x \to c} \big(f(x) - g(x)\big) = L - K
-   $$
-
-5. **Product Rule**  
-   $$
-   \lim_{x \to c} \big(f(x) \cdot g(x)\big) = L \cdot K
-   $$
-
-6. **Quotient Rule**  
-   $$
-   \lim_{x \to c} \frac{f(x)}{g(x)} = \frac{L}{K}, \quad \text{if } K \neq 0
-   $$
-
-7. **Power Rule**  
-   $$
-   \lim_{x \to c} \big(f(x)\big)^n = (L)^n
-   $$
-
-8. **Root Rule**  
-   $$
-   \lim_{x \to c} \sqrt[n]{f(x)} = \sqrt[n]{L}, \quad \text{if } L \geq 0 \text{ when } n \text{ is even}
-   $$
-
----
-
-### Trigonometric Limits
-
-- $\lim_{x \to c} \sin(x) = \sin(c)$  
-- $\lim_{x \to c} \cos(x) = \cos(c)$  
-- In general, for any trig function, just substitute $c$ into $x$ (as long as the function is defined there).  
-
-Special important limits:  
-
-$$
-\lim_{x \to 0} \frac{\sin x}{x} = 1
-$$
-
-$$
-\lim_{x \to 0} \frac{1 - \cos x}{x} = 0
-$$
-
----
+- **Constant Rule**: $\lim_{x \to c} b = b$
+- **Scalar Multiple**: $\lim_{x \to c} \big(b \cdot f(x)\big) = b \cdot L$
+- **Sum/Difference Rule**: $\lim_{x \to c} \big(f(x) \pm g(x)\big) = L \pm K$
+- **Product Rule**: $\lim_{x \to c} \big(f(x) \cdot g(x)\big) = L \cdot K$
+- **Quotient Rule**: $\lim_{x \to c} \frac{f(x)}{g(x)} = \frac{L}{K}$ (as long as $K \neq 0$)
+- **Power/Root Rule**: $\lim_{x \to c} \big(f(x)\big)^n = (L)^n$
 
 ### Techniques for Finding Limits
+When you are asked to evaluate a limit, try these steps in order:
 
-1. **Direct Substitution**  
-   If $f(a)$ is defined, just plug in $a$.
+1. **Direct Substitution**: Always try this first! If $f(x)$ is a standard, continuous function, just plug in $a$.
+   $$ \lim_{x \to 2} (3x + 1) = 3(2) + 1 = 7 $$
+2. **Factoring and Simplifying**: If substitution gives you $\frac{0}{0}$ (an indeterminate form), the limit might still exist. Try factoring the numerator and denominator to cancel out the "problem" term.
+3. **Rationalizing**: Use conjugate expressions if you see square roots that result in $\frac{0}{0}$.
+4. **Trigonometric Rules**: For trig functions, direct substitution works where the function is defined. Also, remember this special limit:
+   $$ \lim_{x \to 0} \frac{\sin x}{x} = 1 $$
+*(Note: Later in Calculus 2, you will learn **L'Hôpital's Rule**, which provides another powerful way to solve limits that result in $\frac{0}{0}$ or $\frac{\infty}{\infty}$ by using derivatives!)*
 
-2. **Factoring and Simplifying**  
-   Example:  
-   $$
-   \lim_{x \to 2} \frac{x^2 - 4}{x - 2} 
-   = \lim_{x \to 2} \frac{(x - 2)(x + 2)}{x - 2} 
-   = \lim_{x \to 2} (x + 2) = 4
-   $$
+### Example
+Evaluate the following limit:
+$$
+\lim_{x \to 2} \frac{x^2 - 4}{x - 2} 
+$$
 
-3. **Rationalizing**  
-   Use conjugates to simplify radicals.
+**Step 1: Try Direct Substitution**
+Plugging in $x = 2$ gives $\frac{2^2 - 4}{2 - 2} = \frac{0}{0}$, which is undefined. We need to do more work.
 
-4. **L'Hôpital's Rule**  
-   If direct substitution gives an indeterminate form like $\tfrac{0}{0}$ or $\tfrac{\infty}{\infty}$:  
+**Step 2: Factor and Simplify**
+Notice that the numerator is a difference of squares:
+$$
+\frac{x^2 - 4}{x - 2} = \frac{(x - 2)(x + 2)}{x - 2}
+$$
+Because a limit only cares about what happens as we *approach* $x = 2$ (so $x \neq 2$), we can cancel the $(x-2)$ terms.
 
-   $$
-   \lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)} \quad \text{(if conditions apply)}
-   $$
+**Step 3: Evaluate the new limit**
+$$
+\lim_{x \to 2} (x + 2) = 2 + 2 = 4
+$$
 
-→ [[L'Hôpital’s Rule]]
+**Conclusion:**
+The limit is 4. Even though there is a "hole" in the graph exactly at $x = 2$, as the x-value gets really close to 2, the y-value gets really close to 4.
 
----
-
-### Indeterminate Forms
-
-Common indeterminate forms include:
-
-- $\tfrac{0}{0}$  
-- $\tfrac{\infty}{\infty}$  
-- $0 \cdot \infty$  
-- $\infty - \infty$  
-- $1^\infty$  
-- $0^0$  
-- $\infty^0$  
-
-→ [[Indeterminate Forms]]
-
----
-
-### Applications
-
-- **Derivative definition**:  
-  $$
-  f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}
-  $$
-
-- Understanding **asymptotes** and **behavior at infinity**  
-
-→ [[Difference Quotient]]  
-→ [[Asymptotic Behavior]]  
-→ [[Continuity and Limits]]
-→ [[Multivariable Functions]] (Limits in higher dimensions)
+### Related
+- [[One-Sided Limits]]
+- [[Continuity and Limits]]
+- [[Limits at Infinity]]
+- [[Indeterminate Forms]]
+- [[Difference Quotient]]
 
 ---
-
 #math/analysis #math/calculus #math/derivatives #math/limits
-

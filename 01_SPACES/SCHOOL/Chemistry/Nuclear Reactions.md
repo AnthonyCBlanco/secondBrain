@@ -51,7 +51,7 @@ $$
 ### Related
 - [[Chemistry MOC]]
 - [[First-Order Kinetics]]
-- [[The Kinetics of Radioactive Decay]]
+- [[Kinetics of Radioactive Decay]]
 - [[Isotopes]]
 - [[Atomic Structure]]
 
