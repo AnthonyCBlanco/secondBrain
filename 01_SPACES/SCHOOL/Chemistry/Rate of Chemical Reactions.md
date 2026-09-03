@@ -18,7 +18,10 @@ $$
 In calculus terms (for instantaneous rate):
 $$
 \text{Rate} = -\frac{1}{a}\frac{d[A]}{dt} = -\frac{1}{b}\frac{d[B]}{dt} = \frac{1}{c}\frac{d[C]}{dt} = \frac{1}{d}\frac{d[D]}{dt}
+
 $$
+
+
 
 - **Negative sign on reactants:** Reactant concentrations decrease over time ($\Delta [\text{Reactant}] < 0$), so the negative sign ensures the overall rate is positive.
 - **Positive sign on products:** Product concentrations increase over time ($\Delta [\text{Product}] > 0$).
