@@ -1,0 +1,3 @@
+- He did a PR for textbooks but it took to long
+	- He can't reimbursed students, he will send out a apology
+	- 
