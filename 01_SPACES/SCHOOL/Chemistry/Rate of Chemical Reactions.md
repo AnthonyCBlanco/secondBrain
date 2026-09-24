@@ -79,6 +79,7 @@ $$
 
 ### Related
 - [[Chemistry MOC]]
+- [[Chemical Equilibrium]]
 - [[First-Order Kinetics]]
 - [[Kinetics of Radioactive Decay]]
 - [[The Derivative]]
