@@ -32,6 +32,7 @@ $$ C = \kappa C_0 $$
 *(For a vacuum, $\kappa = 1$. For water, $\kappa \approx 80$, meaning it can hold 80x more charge!)*
 
 ### Related
+- [[Capacitors]]
 - [[Electric Potential]]
 - [[Electric Fields]]
 - [[Dipole Moment]]
