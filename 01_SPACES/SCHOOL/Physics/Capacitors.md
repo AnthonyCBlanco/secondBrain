@@ -63,6 +63,8 @@ $$ u = \frac{U}{\text{Volume}} = \frac{1}{2}\varepsilon_0 E^2 $$
 
 ### Related
 - [[Capacitance and Dielectrics]]
+- [[Direct-Current Circuits]]
+- [[Current, Resistance, and Electromotive Force]]
 - [[Electric Potential]]
 - [[Electric Fields]]
 - [[Gauss's Law]]

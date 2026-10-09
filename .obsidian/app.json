@@ -6,7 +6,7 @@
   "openBehavior": "file:03_ATLAS/HOME",
   "trashOption": "local",
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
