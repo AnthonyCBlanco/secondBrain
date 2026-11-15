@@ -100,6 +100,7 @@ $$ \oint \vec{B}\cdot d\vec{l} = \mu_0 \left( i_C + \varepsilon_0 \frac{d\Phi_E}
 *(This was the missing piece that led Maxwell to predict that light is an electromagnetic wave!)*
 
 ### Related
+- [[Faraday-Lenz Law]]
 - [[Magnetic Field and Magnetic Forces]]
 - [[Gauss's Law]]
 - [[Coulomb's Law]]

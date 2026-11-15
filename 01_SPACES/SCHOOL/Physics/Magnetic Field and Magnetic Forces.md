@@ -96,6 +96,7 @@ When a current flows through a conductor sitting in a magnetic field, the magnet
 - The **size** of the Hall voltage can be used to measure magnetic field strength or the charge carrier density $n$.
 
 ### Related
+- [[Faraday-Lenz Law]]
 - [[Sources of Magnetic Field]]
 - [[Electric Fields]]
 - [[Dipole Moment]]
